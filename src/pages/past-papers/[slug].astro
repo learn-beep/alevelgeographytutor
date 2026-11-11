@@ -1,0 +1,33 @@
+---
+import Base from '../../layouts/Base.astro';
+import QuestionCard from '../../components/QuestionCard.astro';
+import { allPapers, byId, topicByslug, MATERIALS, B } from '../../lib/data';
+export function getStaticPaths() {
+  return allPapers.map((p) => ({ params: { slug: p.slug }, props: { paper: p } }));
+}
+const { paper } = Astro.props;
+const qs = paper.questions.map((id) => byId.get(id)).filter(Boolean);
+const old = qs.filter((q) => q.notCurrentSpec).length;
+const notes = [];
+if (['November 2020', 'October 2020'].includes(paper.series)) notes.push('Printed for the cancelled summer 2020 exams');
+if (paper.series === 'November 2021' && B.id === 'aqa') notes.push('Printed for the cancelled summer 2021 exams');
+if (B.id === 'aqa' && paper.year < 2020 && paper.kind === 'exam') notes.push("AQA no longer hosts this series; the questions are from a copy of AQA's original paper");
+const note = notes.map((n) => ' · ' + n).join('');
+const title = `${paper.series} ${paper.qual === 'AS' ? 'AS ' : ''}${paper.paper} (${paper.spec}/${paper.paperNo})`;
+---
+<Base title={`${B.short} A-level Geography ${title}: questions, mark scheme and examiner's report`} description={`Every question in ${B.short} Geography ${title}${paper.name ? ' (' + paper.name + ')' : ''} with its topic, marks and AO split, the ${B.id === 'edexcel' ? 'resources' : 'figures'}, the mark scheme and the examiner's comments.`} context={`paper:${paper.slug}`} leadLine="Want a paper marked and gone through with you? Message us.">
+  <h1>{paper.series}: {paper.qual === 'AS' ? 'AS ' : 'A-level '}{paper.paper}{paper.name ? `, ${paper.name}` : ''}</h1>
+  <p class="muted">{paper.total} marks · {qs.length} question parts (every option is included) · <a href={MATERIALS} rel="noopener">Paper, mark scheme and report on {B.short}'s site</a>{note}</p>
+  <h2>Question by question</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Q</th><th>Topic</th><th>Marks</th><th>AO</th><th>Type</th></tr></thead>
+    <tbody>{qs.map((q) => <tr>
+      <td><a href={`#${q.id}`}>{q.question}</a></td>
+      <td>{q.topics.map((t, i) => <>{i ? ', ' : ''}<a href={`/questions/${t}/`}>{topicByslug.get(t)?.name ?? t}</a></>)}{q.notCurrentSpec && <span class="pill pill-hard" style="margin-left:.4rem">Old spec</span>}</td>
+      <td>{q.marks}</td><td>{q.aoText}</td><td>{q.format}</td>
+    </tr>)}</tbody>
+  </table></div>
+  <h2>The questions</h2>
+  <div class="jump">{qs.map((q) => <a href={`#${q.id}`}>{q.question}</a>)}</div>
+  {qs.map((q) => <QuestionCard q={q} showTopics={true} />)}
+</Base>

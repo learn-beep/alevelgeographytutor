@@ -1,0 +1,34 @@
+---
+import site from '../data/site.json';
+import board from '../data/board.json';
+import Icon from './Icon.astro';
+import Search from './Search.astro';
+const B: any = board;
+const path = Astro.url.pathname;
+---
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href={B.id ? `/${B.id}/` : '/'}><span>{site.name}</span>{B.id && <span class="brand-board">{B.short}</span>}</a>
+    {B.id ? (
+      <nav class="site-nav" aria-label="Main">
+        <a href="/questions/"><Icon name="book" />Topics</a>
+        <a href="/past-papers/"><Icon name="file" />Past papers</a>
+        <a href="/practice/"><Icon name="target" />Practice</a>
+        <a href="/essays/"><Icon name="pen" />Essays</a>
+        <a href="/mock/"><Icon name="timer" />Mock</a>
+        <a href="/tutors/"><Icon name="users" />Tutors</a>
+      </nav>
+    ) : (
+      <nav class="site-nav" aria-label="Main">
+        <a href="/aqa/"><Icon name="book" />AQA</a>
+        <a href="/edexcel/"><Icon name="book" />Edexcel</a>
+        <a href="/tutors/"><Icon name="users" />Tutors</a>
+      </nav>
+    )}
+    <span class="board-switch" aria-label="Exam board">
+      <a href="/aqa/" aria-current={B.id === 'aqa' ? 'true' : undefined}>AQA</a><a href="/edexcel/" aria-current={B.id === 'edexcel' ? 'true' : undefined}>Edexcel</a>
+    </span>
+    {B.id && <button class="search-toggle" type="button" id="search-toggle" aria-expanded="false" aria-controls="search-panel"><Icon name="target" /><span class="lbl">Search</span></button>}
+  </div>
+  {B.id && <Search />}
+</header>

@@ -1,0 +1,86 @@
+{
+ "max": 350,
+ "papers": [
+  [
+   "Paper 1",
+   105
+  ],
+  [
+   "Paper 2",
+   105
+  ],
+  [
+   "Paper 3",
+   70
+  ],
+  [
+   "Paper 4: Independent investigation (NEA)",
+   70
+  ]
+ ],
+ "intro": "Papers 1 and 2 are marked out of 105, Paper 3 and the independent investigation out of 70, and the raw marks are added with no weighting, so the overall boundaries are out of 350 (30%, 30%, 20% and 20%).",
+ "source": "Pearson's grade boundaries documents for June 2024, June 2025 and June 2026 (9GE0 subject boundaries, out of 350).",
+ "alevel": [
+  {
+   "series": "June 2026",
+   "max": 350,
+   "A*": 268,
+   "A": 242,
+   "B": 213,
+   "C": 184,
+   "D": 155,
+   "E": 126
+  },
+  {
+   "series": "June 2025",
+   "max": 350,
+   "A*": 270,
+   "A": 245,
+   "B": 215,
+   "C": 185,
+   "D": 155,
+   "E": 126
+  },
+  {
+   "series": "June 2024",
+   "max": 350,
+   "A*": 267,
+   "A": 240,
+   "B": 209,
+   "C": 178,
+   "D": 147,
+   "E": 116
+  }
+ ],
+ "components": "",
+ "asSource": "Pearson's grade boundaries documents (8GE0 subject boundaries, out of 180: two 90-mark papers).",
+ "as": [
+  {
+   "series": "June 2026",
+   "max": 180,
+   "A": 120,
+   "B": 108,
+   "C": 96,
+   "D": 85,
+   "E": 74
+  },
+  {
+   "series": "June 2025",
+   "max": 180,
+   "A": 119,
+   "B": 107,
+   "C": 95,
+   "D": 83,
+   "E": 72
+  },
+  {
+   "series": "June 2024",
+   "max": 180,
+   "A": 118,
+   "B": 106,
+   "C": 94,
+   "D": 83,
+   "E": 72
+  }
+ ]
+}

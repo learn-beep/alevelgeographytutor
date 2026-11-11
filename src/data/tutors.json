@@ -1,0 +1,37 @@
+[
+ {
+  "slug": "lauren",
+  "name": "Lauren",
+  "title": "Head of Geography at a large sixth-form college, Pearson author and Edexcel examiner",
+  "photo": "/tutors/lauren.webp",
+  "bio": [
+   "Lauren has been Head of Geography at a large sixth-form college since 2007 and has a reputation for outstanding lessons.",
+   "She runs Geography Oxbridge workshops and has helped many students win places to read Geography at Oxford and Cambridge, including preparation for the new admissions tests.",
+   "Lauren is an author for Pearson Education, wrote chapters in two of the current A-level Geography textbooks, and has been an examiner for Edexcel."
+  ],
+  "offers": [
+   "One-to-one online lessons for AS and A-level Geography (AQA and Edexcel)",
+   "Essay and extended-answer marking against the board's levels",
+   "Oxford and Cambridge Geography preparation, including the admissions tests and interviews"
+  ],
+  "fee": null,
+  "reviews": []
+ },
+ {
+  "slug": "glenda",
+  "name": "Glenda",
+  "title": "Former Head of Geography at a large sixth-form college",
+  "photo": null,
+  "bio": [
+   "Glenda was Head of Geography at a large sixth-form college and has tutored A-level Geography for many years.",
+   "She is comfortable teaching every A-level Geography specification, AQA, Edexcel and the others, so she can work with whatever your school teaches."
+  ],
+  "offers": [
+   "One-to-one online lessons for AS and A-level Geography on any specification",
+   "Exam technique for the 9-, 12-, 16- and 20-mark questions",
+   "Help with the NEA (independent investigation) within the board's rules"
+  ],
+  "fee": null,
+  "reviews": []
+ }
+]

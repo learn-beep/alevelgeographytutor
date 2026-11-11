@@ -1,0 +1,431 @@
+[
+ {
+  "slug": "tectonic-hazards-risk",
+  "name": "Tectonic hazards: why some places are at risk",
+  "group": "Topic 1: Tectonic processes and hazards",
+  "code": "1 EQ1",
+  "statements": [
+   "1.1",
+   "1.2",
+   "1.3"
+  ]
+ },
+ {
+  "slug": "tectonic-disasters",
+  "name": "Tectonic disasters: vulnerability, resilience and impacts",
+  "group": "Topic 1: Tectonic processes and hazards",
+  "code": "1 EQ2",
+  "statements": [
+   "1.4",
+   "1.5",
+   "1.6"
+  ]
+ },
+ {
+  "slug": "tectonic-hazard-management",
+  "name": "Managing tectonic hazards and disasters",
+  "group": "Topic 1: Tectonic processes and hazards",
+  "code": "1 EQ3",
+  "statements": [
+   "1.7",
+   "1.8",
+   "1.9"
+  ]
+ },
+ {
+  "slug": "glaciation-climate-change",
+  "name": "Climate change and glaciated landscapes over time",
+  "group": "Topic 2A: Glaciated landscapes and change",
+  "code": "2A EQ1",
+  "statements": [
+   "2A.1",
+   "2A.2",
+   "2A.3"
+  ]
+ },
+ {
+  "slug": "glacier-systems",
+  "name": "Glacier systems: mass balance and movement",
+  "group": "Topic 2A: Glaciated landscapes and change",
+  "code": "2A EQ2",
+  "statements": [
+   "2A.4",
+   "2A.5",
+   "2A.6"
+  ]
+ },
+ {
+  "slug": "glacial-landforms",
+  "name": "Glacial landforms and landscapes",
+  "group": "Topic 2A: Glaciated landscapes and change",
+  "code": "2A EQ3",
+  "statements": [
+   "2A.7",
+   "2A.8",
+   "2A.9"
+  ]
+ },
+ {
+  "slug": "glaciated-landscapes-management",
+  "name": "Using and managing glaciated landscapes",
+  "group": "Topic 2A: Glaciated landscapes and change",
+  "code": "2A EQ4",
+  "statements": [
+   "2A.10",
+   "2A.11",
+   "2A.12"
+  ]
+ },
+ {
+  "slug": "coastal-landscapes-processes",
+  "name": "Coastal landscapes: types and processes",
+  "group": "Topic 2B: Coastal landscapes and change",
+  "code": "2B EQ1",
+  "statements": [
+   "2B.1",
+   "2B.2",
+   "2B.3"
+  ]
+ },
+ {
+  "slug": "coastal-landforms",
+  "name": "Coastal landforms, sediment cells and longshore drift",
+  "group": "Topic 2B: Coastal landscapes and change",
+  "code": "2B EQ2",
+  "statements": [
+   "2B.4",
+   "2B.5",
+   "2B.6"
+  ]
+ },
+ {
+  "slug": "coastal-erosion-sea-level",
+  "name": "Coastal erosion, sea-level change and coastal risk",
+  "group": "Topic 2B: Coastal landscapes and change",
+  "code": "2B EQ3",
+  "statements": [
+   "2B.7",
+   "2B.8",
+   "2B.9"
+  ]
+ },
+ {
+  "slug": "coastal-management",
+  "name": "Coastal management and players",
+  "group": "Topic 2B: Coastal landscapes and change",
+  "code": "2B EQ4",
+  "statements": [
+   "2B.10",
+   "2B.11",
+   "2B.12"
+  ]
+ },
+ {
+  "slug": "globalisation-causes",
+  "name": "Causes of globalisation",
+  "group": "Topic 3: Globalisation",
+  "code": "3 EQ1",
+  "statements": [
+   "3.1",
+   "3.2",
+   "3.3"
+  ]
+ },
+ {
+  "slug": "globalisation-impacts",
+  "name": "Impacts of globalisation: TNCs, culture and the environment",
+  "group": "Topic 3: Globalisation",
+  "code": "3 EQ2",
+  "statements": [
+   "3.4",
+   "3.5",
+   "3.6"
+  ]
+ },
+ {
+  "slug": "globalisation-consequences",
+  "name": "Consequences of globalisation: inequality and responses",
+  "group": "Topic 3: Globalisation",
+  "code": "3 EQ3",
+  "statements": [
+   "3.7",
+   "3.8",
+   "3.9"
+  ]
+ },
+ {
+  "slug": "regenerating-places-variation",
+  "name": "How and why places vary (regenerating places)",
+  "group": "Topic 4A: Regenerating places",
+  "code": "4A EQ1",
+  "statements": [
+   "4A.1",
+   "4A.2",
+   "4A.3"
+  ]
+ },
+ {
+  "slug": "regeneration-need",
+  "name": "Why regeneration might be needed",
+  "group": "Topic 4A: Regenerating places",
+  "code": "4A EQ2",
+  "statements": [
+   "4A.4",
+   "4A.5",
+   "4A.6"
+  ]
+ },
+ {
+  "slug": "regeneration-management",
+  "name": "How regeneration is managed",
+  "group": "Topic 4A: Regenerating places",
+  "code": "4A EQ3",
+  "statements": [
+   "4A.7",
+   "4A.8",
+   "4A.9"
+  ]
+ },
+ {
+  "slug": "regeneration-success",
+  "name": "How successful regeneration is",
+  "group": "Topic 4A: Regenerating places",
+  "code": "4A EQ4",
+  "statements": [
+   "4A.10",
+   "4A.11",
+   "4A.12"
+  ]
+ },
+ {
+  "slug": "population-structures",
+  "name": "How population structures vary (diverse places)",
+  "group": "Topic 4B: Diverse places",
+  "code": "4B EQ1",
+  "statements": [
+   "4B.1",
+   "4B.2",
+   "4B.3"
+  ]
+ },
+ {
+  "slug": "diverse-living-spaces",
+  "name": "How people view diverse living spaces",
+  "group": "Topic 4B: Diverse places",
+  "code": "4B EQ2",
+  "statements": [
+   "4B.4",
+   "4B.5",
+   "4B.6"
+  ]
+ },
+ {
+  "slug": "diverse-places-tensions",
+  "name": "Demographic and cultural tensions in diverse places",
+  "group": "Topic 4B: Diverse places",
+  "code": "4B EQ3",
+  "statements": [
+   "4B.7",
+   "4B.8",
+   "4B.9"
+  ]
+ },
+ {
+  "slug": "diverse-places-management",
+  "name": "Managing cultural and demographic issues",
+  "group": "Topic 4B: Diverse places",
+  "code": "4B EQ4",
+  "statements": [
+   "4B.10",
+   "4B.11",
+   "4B.12"
+  ]
+ },
+ {
+  "slug": "hydrological-cycle",
+  "name": "The hydrological cycle and drainage basin processes",
+  "group": "Topic 5: The water cycle and water insecurity",
+  "code": "5 EQ1",
+  "statements": [
+   "5.1",
+   "5.2",
+   "5.3"
+  ]
+ },
+ {
+  "slug": "hydrological-change",
+  "name": "Factors affecting the hydrological system: drought and floods",
+  "group": "Topic 5: The water cycle and water insecurity",
+  "code": "5 EQ2",
+  "statements": [
+   "5.4",
+   "5.5",
+   "5.6"
+  ]
+ },
+ {
+  "slug": "water-insecurity",
+  "name": "Water insecurity",
+  "group": "Topic 5: The water cycle and water insecurity",
+  "code": "5 EQ3",
+  "statements": [
+   "5.7",
+   "5.8",
+   "5.9"
+  ]
+ },
+ {
+  "slug": "carbon-cycle",
+  "name": "The carbon cycle",
+  "group": "Topic 6: The carbon cycle and energy security",
+  "code": "6 EQ1",
+  "statements": [
+   "6.1",
+   "6.2",
+   "6.3"
+  ]
+ },
+ {
+  "slug": "energy-security",
+  "name": "Energy demand and energy security",
+  "group": "Topic 6: The carbon cycle and energy security",
+  "code": "6 EQ2",
+  "statements": [
+   "6.4",
+   "6.5",
+   "6.6"
+  ]
+ },
+ {
+  "slug": "carbon-water-climate",
+  "name": "Carbon, water and the climate system",
+  "group": "Topic 6: The carbon cycle and energy security",
+  "code": "6 EQ3",
+  "statements": [
+   "6.7",
+   "6.8",
+   "6.9"
+  ]
+ },
+ {
+  "slug": "superpowers-change",
+  "name": "What superpowers are and how they change",
+  "group": "Topic 7: Superpowers",
+  "code": "7 EQ1",
+  "statements": [
+   "7.1",
+   "7.2",
+   "7.3"
+  ]
+ },
+ {
+  "slug": "superpowers-impacts",
+  "name": "Impacts of superpowers",
+  "group": "Topic 7: Superpowers",
+  "code": "7 EQ2",
+  "statements": [
+   "7.4",
+   "7.5",
+   "7.6"
+  ]
+ },
+ {
+  "slug": "superpowers-influence",
+  "name": "Contested spheres of influence",
+  "group": "Topic 7: Superpowers",
+  "code": "7 EQ3",
+  "statements": [
+   "7.7",
+   "7.8",
+   "7.9"
+  ]
+ },
+ {
+  "slug": "human-development",
+  "name": "Human development and why it varies",
+  "group": "Topic 8A: Health, human rights and intervention",
+  "code": "8A EQ1",
+  "statements": [
+   "8A.1",
+   "8A.2",
+   "8A.3"
+  ]
+ },
+ {
+  "slug": "human-rights",
+  "name": "Why human rights vary",
+  "group": "Topic 8A: Health, human rights and intervention",
+  "code": "8A EQ2",
+  "statements": [
+   "8A.4",
+   "8A.5",
+   "8A.6"
+  ]
+ },
+ {
+  "slug": "intervention-arguments",
+  "name": "Human rights and intervention",
+  "group": "Topic 8A: Health, human rights and intervention",
+  "code": "8A EQ3",
+  "statements": [
+   "8A.7",
+   "8A.8",
+   "8A.9"
+  ]
+ },
+ {
+  "slug": "intervention-outcomes",
+  "name": "Outcomes of geopolitical interventions",
+  "group": "Topic 8A: Health, human rights and intervention",
+  "code": "8A EQ4",
+  "statements": [
+   "8A.10",
+   "8A.11",
+   "8A.12"
+  ]
+ },
+ {
+  "slug": "international-migration",
+  "name": "Globalisation and international migration",
+  "group": "Topic 8B: Migration, identity and sovereignty",
+  "code": "8B EQ1",
+  "statements": [
+   "8B.1",
+   "8B.2",
+   "8B.3"
+  ]
+ },
+ {
+  "slug": "nation-states",
+  "name": "Nation states in a globalising world",
+  "group": "Topic 8B: Migration, identity and sovereignty",
+  "code": "8B EQ2",
+  "statements": [
+   "8B.4",
+   "8B.5",
+   "8B.6"
+  ]
+ },
+ {
+  "slug": "global-organisations",
+  "name": "Global organisations and global issues",
+  "group": "Topic 8B: Migration, identity and sovereignty",
+  "code": "8B EQ3",
+  "statements": [
+   "8B.7",
+   "8B.8",
+   "8B.9"
+  ]
+ },
+ {
+  "slug": "national-sovereignty",
+  "name": "Threats to national sovereignty",
+  "group": "Topic 8B: Migration, identity and sovereignty",
+  "code": "8B EQ4",
+  "statements": [
+   "8B.10",
+   "8B.11",
+   "8B.12"
+  ]
+ }
+]

@@ -1,0 +1,493 @@
+{
+ "id": "edexcel",
+ "short": "Edexcel",
+ "full": "Edexcel A-level Geography",
+ "holder": "Pearson Education Ltd",
+ "alCode": "9GE0",
+ "asCode": "8GE0",
+ "codes": "9GE0 and AS 8GE0",
+ "spec": "Pearson Edexcel A-level Geography (9GE0, specification Issue 6) and AS (8GE0).",
+ "materials": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/geography-2016.coursematerials.html#filterQuery=category:Pearson-UK:Category%2FExam-materials",
+ "specUrl": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/geography-2016.html",
+ "store": "geo-edx",
+ "since": 2017,
+ "wa": "Edexcel",
+ "groups": [
+  [
+   "Topic 1: Tectonic processes and hazards",
+   "1",
+   1,
+   "volcano",
+   "A-level Paper 1 Q1 (compulsory); AS Paper 1 Q1 (compulsory)"
+  ],
+  [
+   "Topic 2A: Glaciated landscapes and change",
+   "2A",
+   1,
+   "mountain",
+   "A-level Paper 1 Q2 (option, or 2B); AS Paper 1 Section B (option)"
+  ],
+  [
+   "Topic 2B: Coastal landscapes and change",
+   "2B",
+   1,
+   "wave",
+   "A-level Paper 1 Q3 (option, or 2A); AS Paper 1 Section B (option)"
+  ],
+  [
+   "Topic 3: Globalisation",
+   "3",
+   2,
+   "globe",
+   "A-level Paper 2 Q1 (compulsory); AS Paper 2 Q1 (compulsory)"
+  ],
+  [
+   "Topic 4A: Regenerating places",
+   "4A",
+   2,
+   "city",
+   "A-level Paper 2 Q3 (option, or 4B); AS Paper 2 Section B (option)"
+  ],
+  [
+   "Topic 4B: Diverse places",
+   "4B",
+   2,
+   "people",
+   "A-level Paper 2 Q4 (option, or 4A); AS Paper 2 Section B (option)"
+  ],
+  [
+   "Topic 5: The water cycle and water insecurity",
+   "5",
+   1,
+   "drop",
+   "A-level Paper 1 Q4 (compulsory, with Topic 6). A level only"
+  ],
+  [
+   "Topic 6: The carbon cycle and energy security",
+   "6",
+   1,
+   "leaf",
+   "A-level Paper 1 Q4 (compulsory, with Topic 5). A level only"
+  ],
+  [
+   "Topic 7: Superpowers",
+   "7",
+   2,
+   "globe",
+   "A-level Paper 2 Q2 (compulsory). A level only"
+  ],
+  [
+   "Topic 8A: Health, human rights and intervention",
+   "8A",
+   2,
+   "scales",
+   "A-level Paper 2 Q5 (option, or 8B). A level only"
+  ],
+  [
+   "Topic 8B: Migration, identity and sovereignty",
+   "8B",
+   2,
+   "people",
+   "A-level Paper 2 Q6 (option, or 8A). A level only"
+  ]
+ ],
+ "alPapers": [
+  [
+   "01",
+   "Paper 1: Physical geography"
+  ],
+  [
+   "02",
+   "Paper 2: Human geography"
+  ],
+  [
+   "03",
+   "Paper 3: Synoptic investigation"
+  ]
+ ],
+ "asPapers": [
+  [
+   "01",
+   "Paper 1: Dynamic landscapes"
+  ],
+  [
+   "02",
+   "Paper 2: Dynamic places"
+  ]
+ ],
+ "types": [
+  [
+   "multiple-choice",
+   "Multiple choice",
+   "Multiple choice (AS, 1 mark)",
+   "The one-mark items that open the AS papers. Every one here has its answer."
+  ],
+  [
+   "short-answer",
+   "Short answer",
+   "Explain and suggest questions (3 and 4 marks)",
+   "Point-marked questions: two developed points, or one point and its explanation. No levels and no evaluation."
+  ],
+  [
+   "data-response",
+   "Data response",
+   "Using the figure: data-response questions",
+   "Short questions on a figure in the Resource Booklet or the paper: describe, compare or suggest a reason, using the data."
+  ],
+  [
+   "extended",
+   "Extended response",
+   "6- and 8-mark explain questions",
+   "Levels-marked questions that ask you to explain or analyse, worth 6 (AS and A level) or 8 marks (A level). The top level needs accurate, linked explanation; there is no evaluation mark."
+  ],
+  [
+   "essays",
+   "Essay",
+   "Essays (12, 16, 18, 20 and 24 marks)",
+   "The Assess and Evaluate questions: 12-mark Assess at AS and A level, 16-mark AS synoptic Evaluate, 20-mark A-level Evaluate and the 18- and 24-mark Paper 3 questions. The top level needs a sustained argument and a substantiated conclusion."
+  ],
+  [
+   "fieldwork",
+   "Fieldwork",
+   "Fieldwork skills (AS)",
+   "AS Paper 1 Q3/Q6 and Paper 2 Q3/Q6: questions on fieldwork in a glaciated, coastal, regenerating or diverse place, from sampling and methods to the reliability of the conclusions."
+  ],
+  [
+   "calculations",
+   "Calculation",
+   "Calculations and statistics",
+   "Every question where the marks need a calculation or a statistical test: means, standard deviation, Spearman's rank, chi-squared, percentages and rates of change."
+  ],
+  [
+   "synoptic",
+   "feature:synoptic",
+   "Synoptic questions",
+   "Questions the mark scheme calls synoptic, every Paper 3 question and the AS 16-mark Evaluate questions, which draw on more than one topic."
+  ]
+ ],
+ "homeTop": [
+  "tectonic-hazards-risk",
+  "tectonic-disasters",
+  "glacial-landforms",
+  "coastal-landforms",
+  "globalisation-causes",
+  "regeneration-need",
+  "diverse-living-spaces",
+  "carbon-water-climate",
+  "hydrological-cycle",
+  "superpowers-change",
+  "human-development",
+  "international-migration"
+ ],
+ "searchHint": "e.g. hazard risk equation, sediment cell, TNCs, superpowers",
+ "levels": {
+  "6": [
+   [
+    1,
+    1
+   ],
+   [
+    2,
+    3
+   ],
+   [
+    3,
+    5
+   ]
+  ],
+  "8": [
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    7
+   ]
+  ],
+  "12": [
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    8
+   ],
+   [
+    4,
+    11
+   ]
+  ],
+  "16": [
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    3,
+    10
+   ],
+   [
+    4,
+    14
+   ]
+  ],
+  "18": [
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    7
+   ],
+   [
+    3,
+    12
+   ],
+   [
+    4,
+    16
+   ]
+  ],
+  "20": [
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    8
+   ],
+   [
+    3,
+    13
+   ],
+   [
+    4,
+    18
+   ]
+  ],
+  "24": [
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    9
+   ],
+   [
+    3,
+    15
+   ],
+   [
+    4,
+    21
+   ]
+  ]
+ },
+ "levelsNote": "Pearson marks the 6- and 8-mark questions in three levels and the 12-, 16-, 18-, 20- and 24-mark questions in four. The top level needs accurate knowledge applied throughout, a balanced argument that uses evidence, and a conclusion that follows from it.",
+ "essayMarks": [
+  12,
+  16,
+  20,
+  24
+ ],
+ "mock": [
+  {
+   "level": "A level",
+   "paper": "Paper 1",
+   "title": "A-level Paper 1: Physical geography",
+   "minutes": 135,
+   "marks": 105,
+   "slots": [
+    {
+     "label": "Q1: Tectonic processes and hazards",
+     "areas": [
+      "1"
+     ]
+    },
+    {
+     "label": "Option",
+     "options": [
+      [
+       "2A Glaciated landscapes",
+       [
+        "2A"
+       ]
+      ],
+      [
+       "2B Coastal landscapes",
+       [
+        "2B"
+       ]
+      ]
+     ]
+    },
+    {
+     "label": "Q4: Water and carbon cycles",
+     "areas": [
+      "5",
+      "6"
+     ]
+    }
+   ]
+  },
+  {
+   "level": "A level",
+   "paper": "Paper 2",
+   "title": "A-level Paper 2: Human geography",
+   "minutes": 135,
+   "marks": 105,
+   "slots": [
+    {
+     "label": "Q1: Globalisation",
+     "areas": [
+      "3"
+     ]
+    },
+    {
+     "label": "Q2: Superpowers",
+     "areas": [
+      "7"
+     ]
+    },
+    {
+     "label": "Option",
+     "options": [
+      [
+       "4A Regenerating places",
+       [
+        "4A"
+       ]
+      ],
+      [
+       "4B Diverse places",
+       [
+        "4B"
+       ]
+      ]
+     ]
+    },
+    {
+     "label": "Option",
+     "options": [
+      [
+       "8A Health and human rights",
+       [
+        "8A"
+       ]
+      ],
+      [
+       "8B Migration and sovereignty",
+       [
+        "8B"
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "level": "A level",
+   "paper": "Paper 3",
+   "title": "A-level Paper 3: Synoptic investigation",
+   "minutes": 135,
+   "marks": 70,
+   "slots": [
+    {
+     "label": "The whole paper (one series, with its Resource Booklet)",
+     "whole": true
+    }
+   ]
+  },
+  {
+   "level": "AS",
+   "paper": "Paper 1",
+   "title": "AS Paper 1: Dynamic landscapes",
+   "minutes": 105,
+   "marks": 90,
+   "slots": [
+    {
+     "label": "Q1: Tectonic processes and hazards",
+     "areas": [
+      "1"
+     ]
+    },
+    {
+     "label": "Option",
+     "options": [
+      [
+       "2A Glaciated landscapes",
+       [
+        "2A"
+       ]
+      ],
+      [
+       "2B Coastal landscapes",
+       [
+        "2B"
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "level": "AS",
+   "paper": "Paper 2",
+   "title": "AS Paper 2: Dynamic places",
+   "minutes": 105,
+   "marks": 90,
+   "slots": [
+    {
+     "label": "Q1: Globalisation",
+     "areas": [
+      "3"
+     ]
+    },
+    {
+     "label": "Option",
+     "options": [
+      [
+       "4A Regenerating places",
+       [
+        "4A"
+       ]
+      ],
+      [
+       "4B Diverse places",
+       [
+        "4B"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "mockExclude": [
+  "8GE0-01-JUN22",
+  "8GE0-02-JUN22"
+ ],
+ "nea": {
+  "name": "Paper 4: Independent investigation (NEA)",
+  "max": 70
+ },
+ "pastPapersNote": "Every paper is from Pearson's own site. There were no exams in June 2020 or June 2021; the October 2020 papers are the papers printed for the cancelled summer 2020 exams, and the November 2021 series had no AS papers. The June 2022 AS papers were shorter than usual. The June 2026 papers will be added when Pearson releases them, expected after the summer 2027 exams.",
+ "latestNote": "Pearson keeps each summer's papers secure for about a year: the June 2026 papers are expected after the summer 2027 exams."
+}

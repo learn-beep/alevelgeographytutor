@@ -1,0 +1,96 @@
+---
+import Base from '../layouts/Base.astro';
+import { allTopics, allQuestions, allPapers, groupInfo, B, GROUPS } from '../lib/data';
+import tutors from '../data/tutors.json';
+import Icon from '../components/Icon.astro';
+// The root page (shared build) asks which board; each board build renders its own home page at /aqa/ or /edexcel/.
+const top = (B.homeTop || []).map((s: string) => allTopics.find((t) => t.slug === s)).filter(Boolean);
+const topics = allTopics.map((t) => ({ slug: t.slug, name: t.name, parts: t.parts }));
+const essays = allQuestions.filter((q) => (B.essayMarks || []).includes(q.marks)).length;
+const latest = allPapers.filter((p) => p.kind === 'exam').sort((a, b) => b.year - a.year)[0]?.series;
+const first = allPapers.filter((p) => p.kind === 'exam').sort((a, b) => a.year - b.year)[0]?.series;
+---
+{!B.id ? (
+<Base title="A-level Geography past papers by topic, AQA and Edexcel, with online tutors" description="Free AQA and Edexcel A-level Geography past-paper questions sorted by topic, with mark schemes, examiner comments, practice, mocks and specialist online Geography tutors." context="home" leadLine="Not sure where to start? Tell us the year group, the exam board and the target grade and we will arrange a trial lesson.">
+  <h1>A-level Geography, one topic at a time</h1>
+  <p>Every AQA and Pearson Edexcel A-level and AS Geography past paper since 2017, cut into questions and sorted by topic, with the figures, the mark scheme and the examiner's comment one tap away. Free, no sign-up. Which board do you sit?</p>
+  <div class="tiles board-pick">
+    <a class="tile-card" href="/aqa/"><Icon name="book" /><strong>AQA</strong><span>A level 7037 and AS 7036: water and carbon cycles, coasts, glacial, hazards, global systems, changing places, urban, population, resources, fieldwork</span></a>
+    <a class="tile-card" href="/edexcel/"><Icon name="book" /><strong>Edexcel</strong><span>A level 9GE0 and AS 8GE0: tectonics, glaciated and coastal landscapes, globalisation, regenerating and diverse places, water and carbon cycles, superpowers, Paper 3</span></a>
+  </div>
+  <p class="muted">Not sure which board? It is on the front of your past papers and your school's exam timetable: AQA papers are coded 7037 (AS 7036), Edexcel papers 9GE0 (AS 8GE0).</p>
+  <h2>Specialist Geography tutors</h2>
+  <p>Online one-to-one lessons with experienced heads of Geography who teach every week and know what the examiners reward. {tutors.map((t, i) => <>{i ? ' and ' : ''}<a href="/tutors/">{t.name}</a></>)} teach AS and A level on both boards.</p>
+  <div class="btn-row"><a class="btn" href="/tutors/"><Icon name="users" />Meet the tutors</a></div>
+</Base>
+) : (
+<Base title={`${B.full}: past-paper questions by topic, mark schemes and tutors`} context="home" leadLine={`Not sure where to start? Tell us the year group and target grade and we will arrange a trial lesson with a specialist ${B.short} Geography tutor.`}>
+  <h1>{B.full}, one topic at a time</h1>
+  <p>{`${allQuestions.length.toLocaleString()} question parts from ${allPapers.length} ${B.short} Geography papers (${B.codes}) from ${first} to ${latest}`}, sorted by topic, with the {B.id === 'edexcel' ? 'Resource Booklet figures' : 'figures'}, the mark scheme and the examiner's comment one tap away. Free, no sign-up.</p>
+  <p class="muted">{B.latestNote}{" "}<a href={B.id === 'aqa' ? '/edexcel/' : '/aqa/'}>Studying {B.id === 'aqa' ? 'Edexcel' : 'AQA'} instead?</a></p>
+
+  <div class="progress-box" id="progress" hidden>
+    <strong>Your progress</strong>
+    <dl><div><dt>Checklist ticks</dt><dd id="pr-ticks">0</dd></div><div><dt>Questions marked</dt><dd id="pr-q">0</dd></div><div><dt>Weakest topic</dt><dd id="pr-weak">—</dd></div></dl>
+    <a href="/planner/">Build a plan from these</a> · <a href="/specification/">Checklist</a>
+  </div>
+
+  <nav class="tool-strip" aria-label="Key tools">
+    <a href="/practice/"><Icon name="target" />Practice</a>
+    <a href="/past-papers/"><Icon name="file" />Past papers</a>
+    <a href="/essays/"><Icon name="pen" />Essays</a>
+    <a href="/questions/type/calculations/"><Icon name="chart" />Skills</a>
+    <a href="/mock/"><Icon name="timer" />Mock</a>
+  </nav>
+
+  <label for="topic-search" class="muted">Find a topic</label>
+  <input id="topic-search" class="search" type="search" placeholder={B.searchHint} autocomplete="off" />
+
+  <h2 class="strand-head">Most-examined topics</h2>
+  <ul class="topic-list" id="topic-list">
+    {top.map((t) => <li><a href={`/questions/${t.slug}/`}><span>{t.name}</span><span class="strand"><span class={`badge badge-${groupInfo(t.group).badge}`}>{groupInfo(t.group).short}</span> {t.parts} parts</span></a></li>)}
+  </ul>
+  <p><a href="/questions/">{`All ${allTopics.length} topics in ${GROUPS.length} ${B.id === 'edexcel' ? 'specification topics' : 'specification sections'}`}</a></p>
+
+  <h2>Everything on the site</h2>
+  <div class="tiles">
+    <a class="tile-card" href="/past-papers/"><Icon name="file" /><strong>Past papers</strong><span>Every {B.alCode} and {B.asCode} paper since {first} with a question-by-question table</span></a>
+    <a class="tile-card" href="/practice/"><Icon name="target" /><strong>Practice</strong><span>Real questions one at a time, self-marked against the mark scheme and its levels</span></a>
+    <a class="tile-card" href="/essays/"><Icon name="pen" /><strong>Essays</strong><span>All {essays} essay titles ever set ({B.essayMarks.join(', ')} marks), by topic, and a timed essay tool</span></a>
+    <a class="tile-card" href="/questions/type/calculations/"><Icon name="chart" /><strong>Skills and statistics</strong><span>Every calculation and statistics question, from percentages to Spearman's rank and chi-squared</span></a>
+    <a class="tile-card" href="/questions/type/fieldwork/"><Icon name="lightbulb" /><strong>Fieldwork</strong><span>Every AS fieldwork question: methods, sampling, data and conclusions</span></a>
+    <a class="tile-card" href="/mock/"><Icon name="timer" /><strong>Mock builder</strong><span>A timed paper in the real shape, from real questions, with your options</span></a>
+    <a class="tile-card" href="/specification/"><Icon name="checklist" /><strong>Spec checklist</strong><span>Every {B.id === 'edexcel' ? 'key idea' : 'content point'} of the specification, tickable, linked to its questions</span></a>
+    <a class="tile-card" href="/analysis/"><Icon name="chart" /><strong>What comes up</strong><span>Marks by topic each year, the latest papers, every paper as a timeline</span></a>
+    <a class="tile-card" href="/grade-boundaries/"><Icon name="calendar" /><strong>Boundaries and dates</strong><span>Grade calculator and the 2027 exam dates with a countdown</span></a>
+    <a class="tile-card" href="/planner/"><Icon name="lightbulb" /><strong>Revision planner</strong><span>A week-by-week plan to Paper 1 from your weak topics</span></a>
+    <a class="tile-card" href="/tutors/"><Icon name="users" /><strong>Tutors</strong><span>Online one-to-one {B.short} Geography lessons with experienced heads of Geography</span></a>
+  </div>
+
+  <script define:vars={{ topics, store: B.store }}>
+    try {
+      const ticks = JSON.parse(localStorage.getItem(store + '-spec') || '{}'), scores = JSON.parse(localStorage.getItem(store + '-scores') || '{}');
+      const nTicks = Object.values(ticks).filter(Boolean).length, rows = Object.entries(scores);
+      const nQ = rows.reduce((n, [, r]) => n + (r.n || 0), 0);
+      if (nTicks || nQ) {
+        document.getElementById('progress').hidden = false;
+        document.getElementById('pr-ticks').textContent = nTicks;
+        document.getElementById('pr-q').textContent = nQ;
+        const weak = rows.filter(([, r]) => r.total).sort((a, b) => a[1].earned / a[1].total - b[1].earned / b[1].total)[0];
+        if (weak) { const t = topics.find((x) => x.slug === weak[0]); document.getElementById('pr-weak').innerHTML = t ? `<a href="/questions/${t.slug}/">${t.name}</a> ${Math.round(100 * weak[1].earned / weak[1].total)}%` : '—'; }
+      }
+    } catch {}
+    const input = document.getElementById('topic-search');
+    const list = document.getElementById('topic-list');
+    const initial = list.innerHTML;
+    input.addEventListener('input', () => {
+      const q = input.value.trim().toLowerCase();
+      if (!q) { list.innerHTML = initial; return; }
+      const items = topics.filter((t) => t.name.toLowerCase().includes(q) || t.slug.includes(q.replace(/\s+/g, '-')));
+      list.innerHTML = items.length
+        ? items.map((t) => `<li><a href="/questions/${t.slug}/"><span>${t.name}</span><span class="strand">${t.parts} parts</span></a></li>`).join('')
+        : '<li class="muted">No topic matches that. <a href="/questions/">Browse all topics</a>.</li>';
+    });
+  </script>
+</Base>
+)}

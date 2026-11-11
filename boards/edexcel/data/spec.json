@@ -1,0 +1,3625 @@
+[
+{
+"code": "1-EQ1",
+"title": "Why are some locations more at risk from tectonic hazards?",
+"paper": null,
+"option": null,
+"area": "1",
+"theme": 1,
+"aLevelOnly": false,
+"topic": "tectonic-hazards-risk",
+"statements": [
+{
+"id": "1.1",
+"short": "The global distribution of tectonic hazards can be explained by plate boundary and other tectonic processes.",
+"text": "The global distribution of tectonic hazards can be explained by plate boundary and other tectonic processes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The global distribution and causes of earthquakes, volcanic eruptions and tsunamis. [synoptic link 1]"
+},
+{
+"k": "b",
+"t": "The distribution of plate boundaries resulting from divergent, convergent and conservative plate movements (oceanic, continental and combined situations)."
+},
+{
+"k": "c",
+"t": "The causes of intra-plate earthquakes, and volcanoes associated with hot spots from mantle plumes."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"tectonic-hazards-risk"
+]
+},
+{
+"id": "1.2",
+"short": "There are theoretical frameworks that attempt to explain plate movements.",
+"text": "There are theoretical frameworks that attempt to explain plate movements.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The theory of plate tectonics and its key elements (the earth’s internal structure, convection, subduction, ridge push, slab pull, sea floor spreading and palaeomagnetism)."
+},
+{
+"k": "b",
+"t": "The operation of these processes at different plate margins (destructive, constructive, collision and transform). [synoptic link 2]"
+},
+{
+"k": "c",
+"t": "Physical processes impact on the magnitude and type of volcanic eruption, and earthquake magnitude and focal depth (Benioff zone)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"tectonic-hazards-risk"
+]
+},
+{
+"id": "1.3",
+"short": "Physical processes explain the causes of tectonic hazards.",
+"text": "Physical processes explain the causes of tectonic hazards.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Earthquake waves (P, S and L waves) cause crustal fracturing, ground shaking and secondary hazards (liquefaction and landslides)."
+},
+{
+"k": "b",
+"t": "Volcanoes cause lava flows, pyroclastic flows, ash falls, gas eruptions, and secondary hazards (lahars, jökulhlaups)."
+},
+{
+"k": "c",
+"t": "Tsunamis can be caused by sub-marine earthquakes at subduction zones as a result of sea-bed and water column displacement. [synoptic link 3]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"tectonic-hazards-risk"
+]
+}
+]
+},
+{
+"code": "1-EQ2",
+"title": "Why do some tectonic hazards develop into disasters?",
+"paper": null,
+"option": null,
+"area": "1",
+"theme": 1,
+"aLevelOnly": false,
+"topic": "tectonic-disasters",
+"statements": [
+{
+"id": "1.4",
+"short": "Disaster occurrence can be explained by the relationship between hazards, vulnerability, resilience and disaster.",
+"text": "Disaster occurrence can be explained by the relationship between hazards, vulnerability, resilience and disaster.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Definition of a natural hazard and a disaster, the importance of vulnerability and a community’s threshold for resilience, the hazard risk equation."
+},
+{
+"k": "b",
+"t": "The Pressure and Release model (PAR) and the complex inter-relationships between the hazard and its wider context."
+},
+{
+"k": "c",
+"t": "The social and economic impacts of tectonic hazards (volcanic eruptions, earthquakes and tsunamis) on the people, economy and environment of contrasting locations in developed, emerging and developing countries."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"tectonic-disasters"
+]
+},
+{
+"id": "1.5",
+"short": "Tectonic hazard profiles are important to an understanding of contrasting hazard impacts, vulnerability and resilience.",
+"text": "Tectonic hazard profiles are important to an understanding of contrasting hazard impacts, vulnerability and resilience.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The magnitude and intensity of tectonic hazards is measured using different scales (Mercalli, Moment Magnitude Scale (MMS) and Volcanic Explosivity Index (VEI))."
+},
+{
+"k": "b",
+"t": "Comparing the characteristics of earthquakes, volcanoes and tsunamis (magnitude, speed of onset and areal extent, duration, frequency, spatial predictability) through hazard profiles."
+},
+{
+"k": "c",
+"t": "Profiles of earthquake, volcano and tsunami events showing the severity of social and economic impact in developed, emerging and developing countries. [synoptic link 4]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"tectonic-disasters"
+]
+},
+{
+"id": "1.6",
+"short": "Development and governance are important in understanding disaster impact and vulnerability and resilience.",
+"text": "Development and governance are important in understanding disaster impact and vulnerability and resilience.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Inequality of access to education, housing, healthcare and income opportunities can influence vulnerability and resilience."
+},
+{
+"k": "b",
+"t": "Governance (P: local and national government) and geographical factors (population density, isolation/accessibility, degree of urbanisation) influence vulnerability and a community’s resilience."
+},
+{
+"k": "c",
+"t": "Contrasting hazard events in developed, emerging and developing countries to show the interaction of physical and human factors, and the importance of locational context in influencing the scale of disaster. [synoptic link 5]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"tectonic-disasters"
+]
+}
+]
+},
+{
+"code": "1-EQ3",
+"title": "How successful is the management of tectonic hazards and disasters?",
+"paper": null,
+"option": null,
+"area": "1",
+"theme": 1,
+"aLevelOnly": false,
+"topic": "tectonic-hazard-management",
+"statements": [
+{
+"id": "1.7",
+"short": "Understanding the complex trends and patterns for tectonic disasters helps explain differential impacts.",
+"text": "Understanding the complex trends and patterns for tectonic disasters helps explain differential impacts.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Tectonic disaster trends since 1960 (number of deaths, numbers affected, level of economic damage) in the context of overall disaster trends. (6); research into the accuracy and reliability of the data to interpret complex trends."
+},
+{
+"k": "b",
+"t": "Tectonic mega-disasters can have regional or even global significance in terms of economic and human impacts. ( 2004 Asian tsunami, 2010 Eyafjallajokull eruption in Iceland (global interdependence) and 2011 Japanese tsunami (energy policy))"
+},
+{
+"k": "c",
+"t": "The concept of a multiple-hazard zone and how linked hydrometeorological hazards sometimes contribute to a tectonic disaster ( the Philippines)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"tectonic-hazard-management"
+]
+},
+{
+"id": "1.8",
+"short": "Theoretical frameworks can be used to understand the predication, impact and management of tectonic hazards.",
+"text": "Theoretical frameworks can be used to understand the predication, impact and management of tectonic hazards.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Prediction and forecasting (P: role of scientists) accuracy depend on the type and location of the tectonic hazard."
+},
+{
+"k": "b",
+"t": "The importance of different stages in the hazard management cycle (response, recovery, mitigation, preparedness). (P: role of emergency planners)"
+},
+{
+"k": "c",
+"t": "Use of Park’s Model to compare the response curve of hazard events, comparing areas at different stages of development."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"tectonic-hazard-management"
+]
+},
+{
+"id": "1.9",
+"short": "Tectonic hazard impacts can be managed by a variety of mitigation and adaptation strategies, which vary in their effectiveness.",
+"text": "Tectonic hazard impacts can be managed by a variety of mitigation and adaptation strategies, which vary in their effectiveness.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Strategies to modify the event include land-use zoning, hazard – resistant design and engineering defences as well as diversion of lava flows. (P: role of planners, engineers) [synoptic link 7]"
+},
+{
+"k": "b",
+"t": "Strategies to modify vulnerability and resilience include hi- tech monitoring, prediction, education, community preparedness and adaptation. (F: models forecasting disaster impacts with and without modification)"
+},
+{
+"k": "c",
+"t": "Strategies to modify loss include emergency, short and longer term aid and insurance (P: role of NGOs and insurers) and the actions of affected communities themselves."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"tectonic-hazard-management"
+]
+}
+]
+},
+{
+"code": "2A-EQ1",
+"title": "How has climate change influenced the formation of glaciated landscapes over time?",
+"paper": null,
+"option": null,
+"area": "2A",
+"theme": 2,
+"aLevelOnly": false,
+"topic": "glaciation-climate-change",
+"statements": [
+{
+"id": "2A.1",
+"short": "The causes of longer and shorter climate change from the start of the Pleistocene, through the Holocene and into the Anthropocene.",
+"text": "The causes of longer and shorter climate change from the start of the Pleistocene, through the Holocene and into the Anthropocene.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "A chronology of multiple glacial and interglacial periods caused by climate change since the start of the Pleistocene."
+},
+{
+"k": "b",
+"t": "The factors leading to climate change in the Pleistocene, Holocene and Anthropocene: Milankovitch cycles, variations in solar output (1), variations in composition of atmospheric gases, and volcanic eruptions."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glaciation-climate-change"
+]
+},
+{
+"id": "2A.2",
+"short": "Present and past Pleistocene distribution of ice cover.",
+"text": "Present and past Pleistocene distribution of ice cover.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The definition and importance of the cryosphere and its role in global systems and classification of ice masses by scale and location (ice sheets, ice caps, cirque and valley glaciers, and ice fields) and polar and temperate environments."
+},
+{
+"k": "b",
+"t": "The present-day distribution of high latitude ice sheets and evidence for Pleistocene ice sheet extent."
+},
+{
+"k": "c",
+"t": "The present-day distribution of high altitude glaciated upland landscapes and evidence of relict landscapes from the Pleistocene. [synoptic link 2]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glaciation-climate-change"
+]
+},
+{
+"id": "2A.3",
+"short": "Periglacial processes produce distinctive landscapes.",
+"text": "Periglacial processes produce distinctive landscapes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Distribution of past and present periglacial landscapes which are underlain by continuous, discontinuous and sporadic areas of permafrost with a seasonally active layer."
+},
+{
+"k": "b",
+"t": "Periglacial processes include nivation, frost heave, freeze- thaw weathering and solifluction as well as high winds and meltwater erosion."
+},
+{
+"k": "c",
+"t": "The formation of often unique periglacial landforms (ice wedges, patterned ground, pingos, loess) contributes towards the occurrence of distinctive periglacial landscapes ( Tundra environments of northern Russia or northern Canada)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glaciation-climate-change"
+]
+}
+]
+},
+{
+"code": "2A-EQ2",
+"title": "What processes operate within glacier systems?",
+"paper": null,
+"option": null,
+"area": "2A",
+"theme": 2,
+"aLevelOnly": false,
+"topic": "glacier-systems",
+"statements": [
+{
+"id": "2A.4",
+"short": "Mass balance is important in understanding glacial dynamics and the operation of glaciers as systems.",
+"text": "Mass balance is important in understanding glacial dynamics and the operation of glaciers as systems.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Glacial mass balance system and the relationship between accumulation and ablation in the maintenance of equilibrium. (3) The importance of positive and negative feedback ( Greenland Ice Sheet)."
+},
+{
+"k": "b",
+"t": "The process of accumulation (direct snowfall, avalanches and wind deposition) and the process of ablation (melting, sublimation, calving, evaporation and avalanches)."
+},
+{
+"k": "c",
+"t": "The reasons for the variations in the rates of accumulation and ablation, and the impact these variations have on the mass balance over different timescales."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glacier-systems"
+]
+},
+{
+"id": "2A.5",
+"short": "Different processes explain glacial movement and variations in rates.",
+"text": "Different processes explain glacial movement and variations in rates.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Polar and temperate glaciers have different rates of movement."
+},
+{
+"k": "b",
+"t": "There are different processes that are important in the movement of glaciers (basal slip, regelation creep, internal deformation)."
+},
+{
+"k": "c",
+"t": "A number of factors control the rate of movement (altitude, basal temperature, slope, lithology, size and variations in mass balance) with both positive and negative feedback in the system. [synoptic link 4]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glacier-systems"
+]
+},
+{
+"id": "2A.6",
+"short": "The glacier landform system.",
+"text": "The glacier landform system.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Glaciers alter landscapes by a number of processes: details of erosion, entrainment, transport and deposition."
+},
+{
+"k": "b",
+"t": "Glacial landforms develop at macro-, meso- and micro-scales with distinctive morphologies in process environments, such as sub-glacial, marginal, proglacial and periglacial."
+},
+{
+"k": "c",
+"t": "These landforms create a number of distinctive landscapes in upland and lowland areas that can be used to study the extent of ice cover."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glacier-systems"
+]
+}
+]
+},
+{
+"code": "2A-EQ3",
+"title": "How do glacial processes contribute to the formation of glacial landforms and landscapes?",
+"paper": null,
+"option": null,
+"area": "2A",
+"theme": 2,
+"aLevelOnly": false,
+"topic": "glacial-landforms",
+"statements": [
+{
+"id": "2A.7",
+"short": "Glacial erosion creates distinctive landforms and contributes to glaciated landscapes.",
+"text": "Glacial erosion creates distinctive landforms and contributes to glaciated landscapes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Glacial erosional processes (abrasion, quarrying, plucking, crushing and basal melting, combined with subaerial freeze thaw and mass movement)."
+},
+{
+"k": "b",
+"t": "The processes leading to the formation of landforms associated with cirque and valley glaciers (cirques/corries (5), arêtes, pyramidal peaks, glacial troughs, truncated spurs/hanging valleys and ribbon lakes)."
+},
+{
+"k": "c",
+"t": "The formation of landforms due to ice sheet scouring (roches moutonnées, knock and lochan, crag and tail) and the influence of differential geology."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glacial-landforms"
+]
+},
+{
+"id": "2A.8",
+"short": "Glacial deposition creates distinctive landforms and contributes to glaciated landscapes.",
+"text": "Glacial deposition creates distinctive landforms and contributes to glaciated landscapes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The formation of glacial (ice contact) depositional features (medial, lateral, recessional and terminal moraines and drumlins)."
+},
+{
+"k": "b",
+"t": "The formation of lowland depositional features (till plains, lodgement and ablation till). [synoptic link 6]"
+},
+{
+"k": "c",
+"t": "The assemblage of landforms can be used to reconstruct former ice extent, movement and provenance (erratics, moraines, crag and tail, drumlin orientation). [synoptic link 7]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glacial-landforms"
+]
+},
+{
+"id": "2A.9",
+"short": "Glacial meltwater plays a significant role in creating distinctive landforms and contributes to glaciated landscapes.",
+"text": "Glacial meltwater plays a significant role in creating distinctive landforms and contributes to glaciated landscapes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The processes of water movement within the glacial system (supraglacial, englacial and sub-glacial flows)."
+},
+{
+"k": "b",
+"t": "Glacial and fluvioglacial deposits have different characteristics (stratification, sorting, imbrication and grading). [synoptic link 8]"
+},
+{
+"k": "c",
+"t": "The formation of fluvio-glacial landforms; ice contact features (kames, eskers and kame terraces) and proglacial features (sandurs, pro-glacial lakes, meltwater channels, and kettleholes)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glacial-landforms"
+]
+}
+]
+},
+{
+"code": "2A-EQ4",
+"title": "How are glaciated landscapes used and managed today?",
+"paper": null,
+"option": null,
+"area": "2A",
+"theme": 2,
+"aLevelOnly": false,
+"topic": "glaciated-landscapes-management",
+"statements": [
+{
+"id": "2A.10",
+"short": "Glacial and periglacial landscapes have intrinsic cultural, economic and environmental value.",
+"text": "Glacial and periglacial landscapes have intrinsic cultural, economic and environmental value.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Relict and active glaciated landscapes have environmental and cultural value (polar scientific research, wilderness recreation, and spiritual/religious associations). (A: attitudes range from exploitation to preservation)"
+},
+{
+"k": "b",
+"t": "Glaciated landscapes are important economically (farming, mining, hydroelectric power, tourism, forestry) to include a study of contrasting environments around the world."
+},
+{
+"k": "c",
+"t": "Glaciated and periglacial landscapes have a unique biodiversity (tundra) and play an important role in the maintenance of natural systems (water and carbon cycles)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glaciated-landscapes-management"
+]
+},
+{
+"id": "2A.11",
+"short": "There are threats facing fragile active and relict glaciated upland landscapes.",
+"text": "There are threats facing fragile active and relict glaciated upland landscapes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Glaciated landscapes face varying degrees of threat from both natural hazards (avalanches and glacial outburst floods) and human activities (leisure and tourism, reservoir construction, urbanisation) ( Alpine valleys)."
+},
+{
+"k": "b",
+"t": "Human activity can degrade the landscape and fragile ecology of glaciated landscapes (soil erosion, trampling, landslides, deforestation). (A: direct actions by players reduce resilience)"
+},
+{
+"k": "c",
+"t": "Climate change is having a major impact on glacial mass balances, which in turn risks disruption of the hydrological cycle (meltwater, river discharge, sediment yield, water quality) ( Himalayan Glaciers). (9) (A: indirect actions by players alter natural systems)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glaciated-landscapes-management"
+]
+},
+{
+"id": "2A.12",
+"short": "Threats to glaciated landscapes can be managed using a spectrum of approaches.",
+"text": "Threats to glaciated landscapes can be managed using a spectrum of approaches.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Different stakeholders (conservationists, local and regional government, global organisations, NGOs) are involved in managing the challenges posed by glaciated landscapes, using a spectrum of approaches from protection through to sustainable management and multiple economic use ( Yosemite Valley). (A: actions range from exploitation to preservation)"
+},
+{
+"k": "b",
+"t": "Legislative frameworks are used to protect and conserve landscapes by conservation and management at a variety of scales."
+},
+{
+"k": "c",
+"t": "Climate change makes successful management of these unique and fragile landscapes increasingly challenging, with a need for coordinated approaches at global, national and local scale. (F: this risk is creating an uncertain future and needs mitigation and adaptation)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"glaciated-landscapes-management"
+]
+}
+]
+},
+{
+"code": "2B-EQ1",
+"title": "Why are coastal landscapes different and what processes cause these differences?",
+"paper": null,
+"option": null,
+"area": "2B",
+"theme": 3,
+"aLevelOnly": false,
+"topic": "coastal-landscapes-processes",
+"statements": [
+{
+"id": "2B.1",
+"short": "The coast, and wider littoral zone, has distinctive features and landscapes.",
+"text": "The coast, and wider littoral zone, has distinctive features and landscapes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The littoral zone consists of backshore, nearshore and offshore zones, includes a wide variety of coastal types and is a dynamic zone of rapid change."
+},
+{
+"k": "b",
+"t": "Coasts can be classified by using longer term criteria such as geology and changes of sea level or shorter term processes such as inputs from rivers, waves and tides."
+},
+{
+"k": "c",
+"t": "Rocky coasts (high and low relief) result from geology which is resistant to erosive forces of sea, rain and wind, often in a high-energy environment, whereas coastal plain landscapes (sandy and estuarine coasts) are found near areas of low relief and result from supply of sediment from different terrestrial and offshore sources, often in a low-energy environment."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-landscapes-processes"
+]
+},
+{
+"id": "2B.2",
+"short": "Geological structure influences the development of coastal landscapes at a variety of scales.",
+"text": "Geological structure influences the development of coastal landscapes at a variety of scales.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Geological structure is responsible for the formation of concordant and discordant coasts."
+},
+{
+"k": "b",
+"t": "Geological structure influences coastal morphology: Dalmatian and Haff type concordant coasts and headlands and bays on discordant coasts."
+},
+{
+"k": "c",
+"t": "Geological structure (bedding planes, jointing, dip, faulting, folding) is an important influence on coastal morphology and erosion rates, and also on the formation of cliff profiles and the occurrence of micro-features, e.g. caves ( Glamorgan Heritage Coast). [synoptic link 2]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-landscapes-processes"
+]
+},
+{
+"id": "2B.3",
+"short": "Rates of coastal recession and stability depend on lithology and other factors.",
+"text": "Rates of coastal recession and stability depend on lithology and other factors.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Bedrock lithology (igneous, sedimentary, metamorphic) and unconsolidated material (boulder clay) geology are important in understanding rates of coastal recession."
+},
+{
+"k": "b",
+"t": "Differential erosion of alternating strata in cliffs (permeable/impermeable, resistant/less resistant) produces complex cliff profiles and influences recession rates. [synoptic link 3]"
+},
+{
+"k": "c",
+"t": "Vegetation is important in stabilising sandy coastlines through dune successional development and salt marsh successional development in estuarine areas."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-landscapes-processes"
+]
+}
+]
+},
+{
+"code": "2B-EQ2",
+"title": "How do characteristic coastal landforms contribute to coastal landscapes?",
+"paper": null,
+"option": null,
+"area": "2B",
+"theme": 3,
+"aLevelOnly": false,
+"topic": "coastal-landforms",
+"statements": [
+{
+"id": "2B.4",
+"short": "Marine erosion creates distinctive coastal landforms and contributes to coastal landscapes.",
+"text": "Marine erosion creates distinctive coastal landforms and contributes to coastal landscapes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Different wave types (constructive/destructive) influence beach morphology and beach sediment profiles, which vary at a variety of temporal scales from short term (daily) through to longer periods [synoptic link 4]"
+},
+{
+"k": "b",
+"t": "The importance of erosion processes (hydraulic action, corrosion, abrasion, attrition) and how they are influenced by wave type, size and lithology."
+},
+{
+"k": "c",
+"t": "Erosion creates distinctive coastal landforms (wave cut notches, wave cut platforms, cliffs, the cave-arch-stack- stump sequence)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-landforms"
+]
+},
+{
+"id": "2B.5",
+"short": "Sediment transport and deposition create distinctive landforms and contribute to coastal landscapes.",
+"text": "Sediment transport and deposition create distinctive landforms and contribute to coastal landscapes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Sediment transportation is influenced by the angle of wave attack, the process of longshore drift, tides and currents. [synoptic link 5]"
+},
+{
+"k": "b",
+"t": "Transportation and deposition processes produce distinctive coastal landforms (beaches, recurved and double spits, offshore bars, barrier beaches and bars, tombolos and cuspate forelands), which can be stabilised by plant succession."
+},
+{
+"k": "c",
+"t": "The Sediment Cell concept (sources, transfers and sinks) is important in understanding the coast as a system of dynamic equilibrium, with both negative and positive feedback ( Portland Bill to Selsey Bill)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-landforms"
+]
+},
+{
+"id": "2B.6",
+"short": "Subaerial processes of mass movement and weathering influence coastal landforms and contribute to coastal landscapes.",
+"text": "Subaerial processes of mass movement and weathering influence coastal landforms and contribute to coastal landscapes.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Weathering (mechanical, chemical, biological) is important in sediment production and influences rates of recession."
+},
+{
+"k": "b",
+"t": "Mass movement (blockfall, rotational slumping, landslides) is important on some coasts with weak and/or complex geology."
+},
+{
+"k": "c",
+"t": "Mass movement creates distinctive landforms (rotational scars, talus scree slopes, terraced cliff profiles)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-landforms"
+]
+}
+]
+},
+{
+"code": "2B-EQ3",
+"title": "How do coastal erosion and sea level change alter the physical characteristics of coastlines and increase risks?",
+"paper": null,
+"option": null,
+"area": "2B",
+"theme": 3,
+"aLevelOnly": false,
+"topic": "coastal-erosion-sea-level",
+"statements": [
+{
+"id": "2B.7",
+"short": "Sea level change influences coasts on different timescales.",
+"text": "Sea level change influences coasts on different timescales.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Longer-term sea level changes result from a complex interplay of factors both eustatic (ice formation/melting, thermal changes) and isostatic (post glacial adjustment, subsidence, accretion and tectonics)."
+},
+{
+"k": "b",
+"t": "Sea level change has produced emergent coastlines (raised beaches with fossil cliffs) and submergent coastlines (rias, fjords and Dalmatian). [synoptic link 6]"
+},
+{
+"k": "c",
+"t": "Contemporary sea level change from global warming or tectonic activity is a risk to some coastlines."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-erosion-sea-level"
+]
+},
+{
+"id": "2B.8",
+"short": "Rapid coastal retreat causes threats to people at the coast.",
+"text": "Rapid coastal retreat causes threats to people at the coast.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Rapid coastal recession is caused by physical factors (geological and marine) but can be influenced by human actions (dredging or coastal management) ( the Nile Delta or Guinea coastline or Californian coastline). (A: actions of different players may alter natural systems)"
+},
+{
+"k": "b",
+"t": "Subaerial processes (weather and mass movement) work together to influence rates of coastal recession."
+},
+{
+"k": "c",
+"t": "Rates of recession are not constant and are influenced by different factors both short- and longer term (wind direction/fetch, tides, seasons, weather systems and occurrence of storms). [synoptic link 7]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-erosion-sea-level"
+]
+},
+{
+"id": "2B.9",
+"short": "Coastal flooding is a significant and increasing risk for some coastlines.",
+"text": "Coastal flooding is a significant and increasing risk for some coastlines.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Local factors increase flood risk on some low-lying and estuarine coasts (height, degree of subsidence, vegetation removal); global sea level rise further increases risk ( Bangladesh or the Maldives)."
+},
+{
+"k": "b",
+"t": "Storm surge events can lead to severe coastal flooding with dramatic short-term impacts (depressions, tropical cyclones)."
+},
+{
+"k": "c",
+"t": "Climate change may increase coastal flood risk (frequency and magnitude of storms, sea level rise) but the pace and magnitude of this threat is uncertain. (F: this risk is creating an uncertain future and needs mitigation and adaptation)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-erosion-sea-level"
+]
+}
+]
+},
+{
+"code": "2B-EQ4",
+"title": "How can coastlines be managed to meet the needs of all players?",
+"paper": null,
+"option": null,
+"area": "2B",
+"theme": 3,
+"aLevelOnly": false,
+"topic": "coastal-management",
+"statements": [
+{
+"id": "2B.10",
+"short": "Increasing risks of coastal recession and coastal flooding have serious consequences for affected communities.",
+"text": "Increasing risks of coastal recession and coastal flooding have serious consequences for affected communities.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Economic losses (housing, businesses, agricultural land, infrastructure) and social losses (relocation, loss of livelihood, amenity value) from coastal recession can be significant, especially in areas of dense coastal developments."
+},
+{
+"k": "b",
+"t": "Coastal flooding and storm surge events can have serious economic and social consequences for coastal communities in both developing and developed countries."
+},
+{
+"k": "c",
+"t": "Climate change may create environmental refugees in coastal areas."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-management"
+]
+},
+{
+"id": "2B.11",
+"short": "There are different approaches to managing the risks associated with coastal recession and flooding.",
+"text": "There are different approaches to managing the risks associated with coastal recession and flooding.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Hard engineering approaches (groynes, sea walls, rip rap, revetments, offshore breakwaters) are economically costly and directly alter physical processes and systems. (8) (A: actions by different players may have unforeseen consequences)"
+},
+{
+"k": "b",
+"t": "Soft engineering approaches (beach nourishment, cliff re- grading and drainage, dune stabilisation) attempt to work with physical systems and processes to protect coasts and manage risks caused by changes in sea-level. [synoptic link 9]"
+},
+{
+"k": "c",
+"t": "Sustainable management is designed to cope with future threats (increased storm events, rising sea levels) but its implementation can lead to local conflicts in many countries. (F: mitigation and adaptation will both be needed for future stability)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-management"
+]
+},
+{
+"id": "2B.12",
+"short": "Coastlines are now increasingly managed by holistic integrated coastal zone management (ICZM).",
+"text": "Coastlines are now increasingly managed by holistic integrated coastal zone management (ICZM).",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Coastal management increasingly uses the concept of littoral cells to manage extended areas of coastline. Throughout the world, countries are developing schemes that are sustainable and use holistic ICZM strategies."
+},
+{
+"k": "b",
+"t": "Shoreline Management Policy decisions (No Active Intervention, Strategic Realignment, Hold The Line, Advance The Line) are based on complex judgements (engineering feasibility, environmental sensitivity, land value, political and social reasons); Cost Benefit Analysis (CBA) and Environmental Impact Assessment (EIA) are used as part of the decision-making process."
+},
+{
+"k": "c",
+"t": "Policy decisions can lead to conflicts between different players (homeowners, local authorities, environmental pressure groups) with perceived winners and losers in countries at different levels of development (developed and developing or emerging countries) ( Happisburgh and Chattogram). (A: attitudes of differing players may vary)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"coastal-management"
+]
+}
+]
+},
+{
+"code": "3-EQ1",
+"title": "What are the causes of globalisation and why has it accelerated in recent decades?",
+"paper": null,
+"option": null,
+"area": "3",
+"theme": 4,
+"aLevelOnly": false,
+"topic": "globalisation-causes",
+"statements": [
+{
+"id": "3.1",
+"short": "Globalisation is a long-standing process which has accelerated because of rapid developments in transport, communications and businesses.",
+"text": "Globalisation is a long-standing process which has accelerated because of rapid developments in transport, communications and businesses.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Globalisation involves widening and deepening global connections, interdependence and flows (commodities, capital, information, migrants and tourists). [synoptic link 1]"
+},
+{
+"k": "b",
+"t": "Developments in transport and trade in the 19th century (railways, telegraph, steam-ships) accelerated in the 20th century (jet aircraft, containerisation), contributing to a ‘shrinking world’."
+},
+{
+"k": "c",
+"t": "The 21st century has been dominated by rapid development in ICT and global communication (mobile phones, internet, social networking, electronic banking, fibre optics), lowering communication costs and contributing to time-space compression."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"globalisation-causes"
+]
+},
+{
+"id": "3.2",
+"short": "Political and economic decision making are important factors in the acceleration of globalisation.",
+"text": "Political and economic decision making are important factors in the acceleration of globalisation.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "International political and economic organisations (P: role of World Trade Organization (WTO), International Monetary Fund (IMF), World Bank) have contributed to globalisation through the promotion of free trade policies and foreign direct investment (FDI)."
+},
+{
+"k": "b",
+"t": "National governments are key players in terms of promoting free trade blocs (P: role of European Union (EU), The Association of Southeast Asian Nations (ASEAN)) and through polices (free-market liberalisation, privatisation, encouraging business start-ups). (P: role of governments in economic liberalisation)"
+},
+{
+"k": "c",
+"t": "Special economic zones, government subsidies and attitudes to FDI ( China’s 1978 Open Door Policy) have contributed to the spread of globalisation into new global regions (P: role of governments in attracting foreign direct investment (FDI))"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"globalisation-causes"
+]
+},
+{
+"id": "3.3",
+"short": "Globalisation has affected some places and organisations more than others.",
+"text": "Globalisation has affected some places and organisations more than others.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Degree of globalisation varies by country and can be measured using indicators and indices (AT Kearney index, KOF index). [synoptic link 2]"
+},
+{
+"k": "b",
+"t": "TNCs are important in globalisation (P: role of TNCs) both contributing to its spread (global production networks, glocalisation and the development of new markets) and taking advantage of economic liberalisation (outsourcing and offshoring)."
+},
+{
+"k": "c",
+"t": "There are historical, physical, political, economic and environmental reasons why some locations remain largely detached from globalisation ( North Korea or some rural communities in Niger). [synoptic link 3]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"globalisation-causes"
+]
+}
+]
+},
+{
+"code": "3-EQ2",
+"title": "What are the impacts of globalisation for countries, different groups of people and cultures and the physical environment?",
+"paper": null,
+"option": null,
+"area": "3",
+"theme": 4,
+"aLevelOnly": false,
+"topic": "globalisation-impacts",
+"statements": [
+{
+"id": "3.4",
+"short": "The global shift has created winners and losers for people and the physical environment.",
+"text": "The global shift has created winners and losers for people and the physical environment.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The movement of the global economic centre of gravity to Asia via the global shift of manufacturing ( China) and outsourcing of services ( India) can lead to benefits (infrastructure investment, waged work, poverty reduction, education and training) but also costs (growing inequalities, loss of productive land, unplanned settlements, environmental and resource pressure)."
+},
+{
+"k": "b",
+"t": "Some communities in developing countries have experienced major environmental problems (including air and water pollution, land degradation, over-exploitation of resources, and loss of biodiversity), which impact on people’s health and wellbeing."
+},
+{
+"k": "c",
+"t": "Some deindustrialised regions in developed countries face social and environmental problems as a result of economic restructuring (dereliction, contamination, depopulation, crime and high unemployment). [synoptic link 4]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"globalisation-impacts"
+]
+},
+{
+"id": "3.5",
+"short": "The scale and pace of economic migration has increased as the world has become more interconnected, creating consequences for people and the physical environment.",
+"text": "The scale and pace of economic migration has increased as the world has become more interconnected, creating consequences for people and the physical environment.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Rural-urban migration (push and pull factors), and/or natural increase, is responsible for the growth of megacities ( Mumbai or Karachi); rapid urban growth creates social and environmental challenges. [synoptic link 5]"
+},
+{
+"k": "b",
+"t": "International migration has increased in global hub cities and regions, deepening interdependence between regions (high- wage economic migration to  Singapore and London and low-wage economic migration to  UAE and Saudi Arabia)."
+},
+{
+"k": "c",
+"t": "Migration has economic, social, political and environmental costs and benefits for both host and source locations."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"globalisation-impacts"
+]
+},
+{
+"id": "3.6",
+"short": "The emergence of a global culture, based on western ideas, consumption, and attitudes towards the physical environment, is one outcome of globalisation.",
+"text": "The emergence of a global culture, based on western ideas, consumption, and attitudes towards the physical environment, is one outcome of globalisation.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Cultural diffusion occurs as a result of globalisation; TNCs, global media corporations (P: role of TNCs), tourism and migration create and spread a ‘westernised’ global culture which impacts on both the environment and people ( Changing diets in Asia). The spread of a global culture has also led to new awareness of opportunities for disadvantaged groups ( Paralympic movement). (P: opportunities for these groups) [synoptic link 6]"
+},
+{
+"k": "b",
+"t": "Cultural erosion (loss of language, traditional food, music, clothes, social relations) occurs in many locations. In some places this is the result of deliberate action ( loss of Indigenous lifestyles in Papua New Guinea) and has resulted in changes to environments (de-valuing local and larger-scale ecosystems)."
+},
+{
+"k": "c",
+"t": "Concern about cultural impacts, economic and environmental exploitation has led to opposition to globalisation from some groups, including governments. (A: attitudes of pro- and anti-globalisation groups, environmental movement)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"globalisation-impacts"
+]
+}
+]
+},
+{
+"code": "3-EQ3",
+"title": "What are the consequences of globalisation for global development and the physical environment and how should different players respond to its challenges?",
+"paper": null,
+"option": null,
+"area": "3",
+"theme": 4,
+"aLevelOnly": false,
+"topic": "globalisation-consequences",
+"statements": [
+{
+"id": "3.7",
+"short": "Globalisation has led to dramatic increases in development for some countries, but also widening development gap extremities and disparities in environmental quality.",
+"text": "Globalisation has led to dramatic increases in development for some countries, but also widening development gap extremities and disparities in environmental quality.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Economic measures (both single and composite indices) of development (income per capita, economic sector balance) contrast with those focused on social development (Human Development Index (HDI), Gender Inequality Index (GII)) and environmental quality (pollution indices). [synoptic link 7]"
+},
+{
+"k": "b",
+"t": "Trends in widening income inequality, globally and nationally (measured using the Gini Coefficient), suggest globalisation has created winners and losers for people and physical environments between and within developed, emerging and developing economies. [synoptic link 8]"
+},
+{
+"k": "c",
+"t": "Contrasting trends in economic development and environmental management between global regions since 1970 indicate differential progress that can be related to the outcomes from globalisation."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"globalisation-consequences"
+]
+},
+{
+"id": "3.8",
+"short": "Social, political and environmental tensions have resulted from the rapidity of global change caused by globalisation.",
+"text": "Social, political and environmental tensions have resulted from the rapidity of global change caused by globalisation.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Open borders, deregulation and encouragement of foreign direct investment have created culturally mixed societies and thriving migrant diasporas. Changes caused by globalisation have resulted in tensions in some locations. ( Rise of extreme nationalism in Europe)."
+},
+{
+"k": "b",
+"t": "Attempts have been made in some locations to control the spread of globalisation by censorship ( China or North Korea), limiting immigration ( UK or Japan) and trade protectionism. (P: role of government) (A: attitudes of pro- and anti-immigration groups)"
+},
+{
+"k": "c",
+"t": "Some groups seek to retain their cultural identity within countries and seek to retain control of culture and physical resources, whereas others embrace the changes brought by globalisation ( First Nations in Canada)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"globalisation-consequences"
+]
+},
+{
+"id": "3.9",
+"short": "Ethical and environmental concerns about unsustainability have led to increased localism and awareness of the impacts of a consumer society.",
+"text": "Ethical and environmental concerns about unsustainability have led to increased localism and awareness of the impacts of a consumer society.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Local groups and NGOs promote local sourcing ( Transition towns) as one response to globalisation by increasing sustainability (A: actions of local pressure groups); this has economic, social and environmental costs and benefits."
+},
+{
+"k": "b",
+"t": "Fair trade and ethical consumption schemes may reduce the environmental degradation, the inequalities of global trade and improve working conditions for some people. (A: actions of NGOs and pressure groups)"
+},
+{
+"k": "c",
+"t": "Recycling has a role in managing resource consumption and ecological footprints, but its use varies by product and place ( local authorities in the UK or local NGOs such as Keep Britain Tidy). (F: environmental consequences of different patterns of resource consumption)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"globalisation-consequences"
+]
+}
+]
+},
+{
+"code": "4A-EQ1",
+"title": "How and why do places vary? An in-depth study of the local place in which you live or study and one contrasting place",
+"paper": null,
+"option": null,
+"area": "4A",
+"theme": 5,
+"aLevelOnly": false,
+"topic": "regenerating-places-variation",
+"statements": [
+{
+"id": "4A.1",
+"short": "Economies can be classified in different ways and vary from place to place.",
+"text": "Economies can be classified in different ways and vary from place to place.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Economic activity can be classified by sector (primary, secondary, tertiary and quaternary) and also by type of employment (part-time/full-time, temporary/permanent, employed/self-employed."
+},
+{
+"k": "b",
+"t": "There are differences in economic activity (employment data and output data) and this is reflected through variation in social factors (health, life expectancy and levels of education). [synoptic link 1]"
+},
+{
+"k": "c",
+"t": "The inequalities in pay levels across economic sectors and in different types of employment are reflected in quality of life indices."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regenerating-places-variation"
+]
+},
+{
+"id": "4A.2",
+"short": "Places have changed their function and characteristics over time.",
+"text": "Places have changed their function and characteristics over time.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Over time, places have changed their functions (administrative, commercial, retail and industrial) and demographic characteristics (gentrification, age structure and ethnic composition)."
+},
+{
+"k": "b",
+"t": "Reason for changes in a place might be explained by physical factors, accessibility and connectedness, historical development and the role of local and national planning. [synoptic link 2]"
+},
+{
+"k": "c",
+"t": "Change can be measured using employment trends, demographic changes, land use changes and levels of deprivation (income deprivation, employment deprivation, health deprivation, crime, quality of the living environment, abandoned and derelict land). [synoptic link 3]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regenerating-places-variation"
+]
+},
+{
+"id": "4A.3",
+"short": "Past and present connections have shaped the economic and social characteristics of your chosen places.",
+"text": "Past and present connections have shaped the economic and social characteristics of your chosen places.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Global, international, national and regional influences have shaped the characteristics of your chosen places. (P: increasing roles of TNCs and IGOs)"
+},
+{
+"k": "b",
+"t": "Your chosen places can be represented in a variety of different forms, giving contrasting images to those presented more formally and statistically (7)."
+},
+{
+"k": "c",
+"t": "How the lives of students and others have been influenced by continuity and change in the economic and social characteristics of your chosen places. (4) (A: Attitudes on changes range from cultural erosion to enrichment)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regenerating-places-variation"
+]
+}
+]
+},
+{
+"code": "4A-EQ2",
+"title": "Why might regeneration be needed?",
+"paper": null,
+"option": null,
+"area": "4A",
+"theme": 5,
+"aLevelOnly": false,
+"topic": "regeneration-need",
+"statements": [
+{
+"id": "4A.4",
+"short": "Economic and social inequalities change people’s perceptions of an area.",
+"text": "Economic and social inequalities change people’s perceptions of an area.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Successful regions ( Palo Alto and ‘Silicon Valley’) have high rates of employment, inward migration (internal and international) and low levels of multiple deprivation but also high property prices and skill shortages in both urban and rural areas."
+},
+{
+"k": "b",
+"t": "In some regions ( The Rust Belt, USA) economic restructuring has triggered a spiral of decline, which includes increasing levels of social deprivation (education, health, crime, access to services and living environment) in both deindustrialised urban areas and rural settlements once dominated by primary economic activities."
+},
+{
+"k": "c",
+"t": "There are variations in the perceived need for regeneration due to significant differences in economic and social inequalities in both urban and rural locations."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regeneration-need"
+]
+},
+{
+"id": "4A.5",
+"short": "There are significant variations in the lived experience of place and engagement with them.",
+"text": "There are significant variations in the lived experience of place and engagement with them.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "There are wide variations in levels of engagement in local communities (local and national election turnout, development and support for local community groups). (A: local communities vary in attitudes)"
+},
+{
+"k": "b",
+"t": "Lived experience of, and attachment to, places varies according to age, ethnicity, gender, length of residence (new migrants, students) and levels of deprivation; these in turn impact on levels of engagement. (A: attachment to places influence attitudes)"
+},
+{
+"k": "c",
+"t": "Conflicts can occur among contrasting groups in communities that have different views about the priorities and strategies for regeneration. These differences have complex causes including economic and social inequalities, lack of political engagement and representation. (P: players vary in attitudes (A) and may have contrasting priorities (F)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regeneration-need"
+]
+},
+{
+"id": "4A.6",
+"short": "There is a range of ways to evaluate the need for regeneration.",
+"text": "There is a range of ways to evaluate the need for regeneration.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The use of statistical evidence to determine the need for regeneration in your chosen local place. [synoptic link 5]"
+},
+{
+"k": "b",
+"t": "Different media can provide contrasting evidence, questioning the need for regeneration in your chosen local place. [synoptic link 6]"
+},
+{
+"k": "c",
+"t": "How different representations of your chosen local place could influence the perceived need for regeneration. [synoptic link 7]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regeneration-need"
+]
+}
+]
+},
+{
+"code": "4A-EQ3",
+"title": "How is regeneration managed?",
+"paper": null,
+"option": null,
+"area": "4A",
+"theme": 5,
+"aLevelOnly": false,
+"topic": "regeneration-management",
+"statements": [
+{
+"id": "4A.7",
+"short": "UK government policy decisions play a key role in regeneration.",
+"text": "UK government policy decisions play a key role in regeneration.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Infrastructure investment (high speed rail, airport development) in order to maintain growth and improve accessibility to regenerate regions. (P: national government facilitates regeneration, often in partnerships with charities and developers)"
+},
+{
+"k": "b",
+"t": "Rate and type of development (planning laws, house building targets, housing affordability) affecting economic regeneration of both rural and urban regions. (A: government actions may prioritise national over local needs and opinions.)"
+},
+{
+"k": "c",
+"t": "UK government decisions about international migration and the deregulation of capital markets ( enabling foreign investment in prime London real estate) have significant impacts on the potential for growth and both direct and indirect investment. (P: government may create open or closed doors policies)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regeneration-management"
+]
+},
+{
+"id": "4A.8",
+"short": "Local government policies aim to represent areas as being attractive for inward investment.",
+"text": "Local government policies aim to represent areas as being attractive for inward investment.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Local governments compete to create sympathetic business environments with local plans designating areas for development for a range of domestic and foreign investors ( Science and technology parks). (A: the actions of local authorities will affect their success)"
+},
+{
+"k": "b",
+"t": "Local interest groups (Chambers of Commerce, local preservation societies, trade unions) play a key role in decision-making about regeneration; there are often tensions between groups that wish to preserve environments and those that seek change. ( London Olympics 2012) (A: differing attitudes may cause conflicts)"
+},
+{
+"k": "c",
+"t": "Urban and rural regeneration strategies include retail-led plans, tourism, leisure and sport ( London Olympics 2012), public/private rural diversification ( Powys Regeneration Partnership)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regeneration-management"
+]
+},
+{
+"id": "4A.9",
+"short": "Rebranding attempts to represent areas as being more attractive by changing public perception of them.",
+"text": "Rebranding attempts to represent areas as being more attractive by changing public perception of them.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Rebranding involves re-imaging places using a variety of media to improve the image of both urban and rural locations and make them more attractive for potential investors."
+},
+{
+"k": "b",
+"t": "For UK deindustrialised cities, rebranding can stress the attraction of places, creating specific place identity building on their industrial heritage; this can attract national and international tourists and visitors ( Glasgow ‘Scotland with Style’). [synoptic link 8]"
+},
+{
+"k": "c",
+"t": "There are a range of rural rebranding strategies in the post- production countryside based on heritage and literary associations, farm diversification and specialised products, outdoor pursuits and adventure in both accessible and remote areas; these strategies are intended to make these places more attractive to national and international tourists and visitors ( ‘Brontë country’, Kielder Forest)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regeneration-management"
+]
+}
+]
+},
+{
+"code": "4A-EQ4",
+"title": "How successful is regeneration?",
+"paper": null,
+"option": null,
+"area": "4A",
+"theme": 5,
+"aLevelOnly": false,
+"topic": "regeneration-success",
+"statements": [
+{
+"id": "4A.10",
+"short": "Assessing the success of regeneration uses a range of measures: economic, demographic, social and environmental.",
+"text": "Assessing the success of regeneration uses a range of measures: economic, demographic, social and environmental.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The success of economic regeneration can be assessed using measures of income, poverty and employment (both relative and absolute changes) both within areas and by comparison to other more successful areas."
+},
+{
+"k": "b",
+"t": "Social progress can be measured by reductions in inequalities both between areas and within them; social progress can also be measured by improvements in social measures of deprivation and in demographic changes (improvements in life expectancy and reductions in health deprivation)."
+},
+{
+"k": "c",
+"t": "Regeneration is successful if it leads to an improvement in the living environment (levels of pollution reduced, reduction in abandoned and derelict land). [synoptic link 9]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regeneration-success"
+]
+},
+{
+"id": "4A.11",
+"short": "Different urban stakeholders have different criteria for judging the success of urban regeneration.",
+"text": "Different urban stakeholders have different criteria for judging the success of urban regeneration.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "A study of the strategies used in the regeneration of an urban place ( Salford Quays) and the contested nature of these decisions within local communities. (10) (A: attitudes will include NIMBYism)"
+},
+{
+"k": "b",
+"t": "The changes that have taken place as a consequence of national and local strategies can be judged using a range of economic, social, demographic and environmental variables in an urban area. (F: future success depends on past decisions)"
+},
+{
+"k": "c",
+"t": "Different stakeholders (local and national governments, local businesses and residents) will assess success using contrasting criteria; their views will depend on the meaning and lived experiences of an urban place and the impact of change on both the reality and the image of that place."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regeneration-success"
+]
+},
+{
+"id": "4A.12",
+"short": "Different rural stakeholders have different criteria for judging the success of rural regeneration.",
+"text": "Different rural stakeholders have different criteria for judging the success of rural regeneration.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "A study of the strategies used in the restructuring of a rural place ( North Antrim coast) and the contested nature of these decisions within local communities."
+},
+{
+"k": "b",
+"t": "The changes that have taken place as a consequence of national and local strategies can be judged using a range of economic, social, demographic and environmental variables in a rural area. (F: future success depends on past decisions)"
+},
+{
+"k": "c",
+"t": "Different stakeholders (local and national governments, local businesses and residents) will assess success using contrasting criteria; their views will depend on the meaning and lived experiences of a rural place and the impact of change on both the reality and the image of that place."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"regeneration-success"
+]
+}
+]
+},
+{
+"code": "4B-EQ1",
+"title": "How do population structures vary? An in-depth study of the local place in which you live or study and one contrasting place",
+"paper": null,
+"option": null,
+"area": "4B",
+"theme": 6,
+"aLevelOnly": false,
+"topic": "population-structures",
+"statements": [
+{
+"id": "4B.1",
+"short": "Population structure varies from place to place and over time.",
+"text": "Population structure varies from place to place and over time.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The population of the UK has grown unevenly in the last 50 years, with some regions growing rapidly ( London and the south-east) whilst others have grown more slowly ( the north-east of England)."
+},
+{
+"k": "b",
+"t": "Population structure and density varies according to placement in the rural-urban continuum and, therefore accessibility, physical factors, historical development and the role of planning."
+},
+{
+"k": "c",
+"t": "Population structure and dynamics are a result of differences in fertility and mortality rates as well as international and internal migration."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"population-structures"
+]
+},
+{
+"id": "4B.2",
+"short": "Population characteristics vary from place to place and over time.",
+"text": "Population characteristics vary from place to place and over time.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "There can be considerable variation in population characteristics (gender and ethnicity), both in and between settlements."
+},
+{
+"k": "b",
+"t": "Different levels of cultural diversity in places can be explained by social clustering, accessibility to key cities, physical factors and government planning policy. (A: actions by governments may foster or suppress diversity)"
+},
+{
+"k": "c",
+"t": "Fertility and mortality rates, as well as international and internal migration, are changing the cultural characteristics of places."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"population-structures"
+]
+},
+{
+"id": "4B.3",
+"short": "How past and present connections have shaped the demographic and cultural characteristics of your chosen places.",
+"text": "How past and present connections have shaped the demographic and cultural characteristics of your chosen places.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Global, international, national and regional influences have shaped the characteristics of your chosen places. (P: increasing roles of TNCs and IGOs)"
+},
+{
+"k": "b",
+"t": "Your chosen places can be represented in a variety of different forms, giving contrasting images to those presented more formally and statistically. [synoptic link 7]"
+},
+{
+"k": "c",
+"t": "How the lives of students and others have been influenced by continuity and change in the demographic and cultural characteristics of your chosen places. [synoptic link 1]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"population-structures"
+]
+}
+]
+},
+{
+"code": "4B-EQ2",
+"title": "How do different people view diverse living spaces?",
+"paper": null,
+"option": null,
+"area": "4B",
+"theme": 6,
+"aLevelOnly": false,
+"topic": "diverse-living-spaces",
+"statements": [
+{
+"id": "4B.4",
+"short": "Urban places are seen differently by different groups because of their lived experience of places and their perception of those places.",
+"text": "Urban places are seen differently by different groups because of their lived experience of places and their perception of those places.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "During industrialisation, urban places were perceived by some as dangerous and threatening ( Victorian London); currently they could be seen as attractive because of their range of economic opportunities and the variety of social and leisure activities that attract young people and migrants."
+},
+{
+"k": "b",
+"t": "Some urban locations are perceived as undesirable by residents and/or outsiders due to crime rates, environmental quality, population characteristics and reputation, based on quantitative data but also due to lived experience and media representation. [synoptic link 2]"
+},
+{
+"k": "c",
+"t": "Suburban and inner-city areas are perceived differently in terms of their desirability as places to live and work by contrasting demographic groups (by age, ethnicity, life-cycle stage). (3) (A: attitudes may vary)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"diverse-living-spaces"
+]
+},
+{
+"id": "4B.5",
+"short": "Rural places are seen differently by different groups because of their lived experience of places and their perception of those places.",
+"text": "Rural places are seen differently by different groups because of their lived experience of places and their perception of those places.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Rural places are often perceived as idyllic because of their tranquillity, natural landscapes and historical and cultural associations ( Hardy’s ‘Wessex’). (4) (A: urban and rural residents may differ in their attitude to places)"
+},
+{
+"k": "b",
+"t": "Some rural locations are perceived as undesirable by residents and/or outsiders because of remoteness, limited social opportunities, limited range of services, high transport costs, population characteristics and reputation based on quantitative data but also because of lived experience and media representation."
+},
+{
+"k": "c",
+"t": "Rural areas are viewed in different ways: from very remote areas to retirement villages and commuter villages. (A: attitudes may vary)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"diverse-living-spaces"
+]
+},
+{
+"id": "4B.6",
+"short": "There is a range of ways to evaluate how people view their living spaces.",
+"text": "There is a range of ways to evaluate how people view their living spaces.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "The use of statistical evidence to determine whether people have a positive or negative image of your chosen local place. [synoptic link 5]"
+},
+{
+"k": "b",
+"t": "Different media can provide contrasting evidence about the image different people have of your chosen local place."
+},
+{
+"k": "c",
+"t": "How different representations of your chosen local place could be used to influence the perception of cultural and demographic issues and conflict. [synoptic link 6]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"diverse-living-spaces"
+]
+}
+]
+},
+{
+"code": "4B-EQ3",
+"title": "Why are there demographic and cultural tensions in diverse places?",
+"paper": null,
+"option": null,
+"area": "4B",
+"theme": 6,
+"aLevelOnly": false,
+"topic": "diverse-places-tensions",
+"statements": [
+{
+"id": "4B.7",
+"short": "Culture and society is now more diverse in the UK.",
+"text": "Culture and society is now more diverse in the UK.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Significant internal movement of people within the UK has created uneven demographic and cultural patterns. ( London and the south-east)"
+},
+{
+"k": "b",
+"t": "Culture and society in the UK has changed because of significant international migration flows from former colonies ( Indian sub-continent and the West Indies) and from the European Union. (P: the main gatekeeper player affecting flows is the Government)"
+},
+{
+"k": "c",
+"t": "Some international migrants choose to live in rural areas for specific reasons, creating social challenges and opportunities. ( East Europeans in Lincolnshire)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"diverse-places-tensions"
+]
+},
+{
+"id": "4B.8",
+"short": "Levels of segregation reflect cultural, economic and social variation and change over time.",
+"text": "Levels of segregation reflect cultural, economic and social variation and change over time.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "International migrants tend to live in distinctive places withsegregation closely related to economic indicators (income and employment) and social indicators (health, crime, ethnicity and education). [synoptic link 7]"
+},
+{
+"k": "b",
+"t": "Diverse living spaces in urban areas have social characteristics that reflect ethnicity and culture in terms of distinctive retail outlets, places of worship and leisure. ( Southall) [synoptic link 8]"
+},
+{
+"k": "c",
+"t": "Experiences and perceptions of living spaces change over generations as communities have evolved economically and culturally. (A: intergenerational attitudes and norms may change from global cultural trends)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"diverse-places-tensions"
+]
+},
+{
+"id": "4B.9",
+"short": "Changes to diverse places can lead to tension and conflict.",
+"text": "Changes to diverse places can lead to tension and conflict.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Different community groups, local and national governments and TNCs may make changes to land uses that create challenges and opportunities for local people and their lived experience of place. (A: different actions may have different impacts)"
+},
+{
+"k": "b",
+"t": "There are sometimes tensions over the diversity of living spaces, especially between long-term residents who seek continuity and recent in-migrants who may seek change. (9) ( Luton)"
+},
+{
+"k": "c",
+"t": "Changes to the built environment will bring benefits to some groups but can provoke hostility from other groups that perceive migrants as a threat to their culture. Migrants may experience a sense of social exclusion. ( Glasgow) (P: planners and developers may make controversial decisions)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"diverse-places-tensions"
+]
+}
+]
+},
+{
+"code": "4B-EQ4",
+"title": "How successfully are cultural and demographic issues managed?",
+"paper": null,
+"option": null,
+"area": "4B",
+"theme": 6,
+"aLevelOnly": false,
+"topic": "diverse-places-management",
+"statements": [
+{
+"id": "4B.10",
+"short": "The management of cultural and demographic issues can be measured using a range of techniques.",
+"text": "The management of cultural and demographic issues can be measured using a range of techniques.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "Management can be assessed using measures of income and employment (both relative and absolute changes) both in areas and by comparison to other areas."
+},
+{
+"k": "b",
+"t": "Social progress can be measured by reductions in inequalities both between areas and within them as well as improvements in social measures of deprivation and demographic changes (improvements in life expectancy). [synoptic link 8]"
+},
+{
+"k": "c",
+"t": "Integration of different cultures can be measured by levels of political engagement through voter turnout, the development of local community groups and reductions in ‘hate’ crime and racism."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"diverse-places-management"
+]
+},
+{
+"id": "4B.11",
+"short": "Different urban stakeholders have different criteria for assessing the success of managing change in diverse urban communities.",
+"text": "Different urban stakeholders have different criteria for assessing the success of managing change in diverse urban communities.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "A study of the contrasting ways in which different demographic and ethnic groups view an urban living space and the impact of national and local strategies in resolving issues ( Aik Saath in Slough)."
+},
+{
+"k": "b",
+"t": "The changes that have taken place can be judged using a range of economic, social, demographic and environmental variables in the changing urban area. (F: changes may create differing legacies)"
+},
+{
+"k": "c",
+"t": "Different stakeholders (local and national governments, local businesses and residents) will assess success using contrasting criteria depending on their role, the meaning of the place and the impact of change on both the reality and their image of that place. (10) (A: ‘success’ depends on the attitudes of different players)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"diverse-places-management"
+]
+},
+{
+"id": "4B.12",
+"short": "Different rural stakeholders have different criteria for assessing the success of managing change in diverse rural communities.",
+"text": "Different rural stakeholders have different criteria for assessing the success of managing change in diverse rural communities.",
+"guidance": "",
+"level": "AS & A level",
+"points": [
+{
+"k": "a",
+"t": "A study of the contrasting ways in which different demographic and ethnic groups view a rural living space and the impact of national and local strategies on a rural area ( Lake District National Park Partnership)."
+},
+{
+"k": "b",
+"t": "The changes that have taken place can be judged using a range of economic, social, demographic and environmental variables in the changing rural area. (F: changes may create differing legacies)"
+},
+{
+"k": "c",
+"t": "Different stakeholders (local and national governments, local businesses and residents) will assess success using contrasting criteria, depending on the meaning of the place and the impact of change on both the reality and their image of that place. (A: ‘success’ depends on the attitudes of different players)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": true,
+"topics": [
+"diverse-places-management"
+]
+}
+]
+},
+{
+"code": "5-EQ1",
+"title": "What are the processes operating within the hydrological cycle from global to local scale?",
+"paper": null,
+"option": null,
+"area": "5",
+"theme": 7,
+"aLevelOnly": true,
+"topic": "hydrological-cycle",
+"statements": [
+{
+"id": "5.1",
+"short": "The global hydrological cycle is of enormous importance to life on earth",
+"text": "The global hydrological cycle is of enormous importance to life on earth",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The global hydrological cycle’s operation as a closed system (processes, stores and flows) driven by solar energy and gravitational potential energy. [synoptic link 1]"
+},
+{
+"k": "b",
+"t": "The relative importance and size (percentage contribution) of the water stores (oceans, atmosphere, biosphere, cryosphere, groundwater and surface water) and annual fluxes between atmosphere, ocean and land."
+},
+{
+"k": "c",
+"t": "The global water budget limits water available for human use and water stores have different residence times; some stores are non-renewable (fossil water or cryosphere losses)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"hydrological-cycle"
+]
+},
+{
+"id": "5.2",
+"short": "A drainage basin is an open system within the global hydrological cycle.",
+"text": "A drainage basin is an open system within the global hydrological cycle.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "A drainage basin is a system of linked processes: inputs (precipitation patterns), flows (interception, infiltration, direct runoff, saturated overland flow, throughflow, percolation, groundwater flow) and outputs (evaporation, transpiration and channel flow)."
+},
+{
+"k": "b",
+"t": "Physical factors within drainage basins determine the relative importance of inputs, flows and outputs (climate, soils, vegetation, geology, relief)."
+},
+{
+"k": "c",
+"t": "Humans disrupt the drainage basin cycle by accelerating processes (deforestation, changing land use) and creating new water storage reservoirs or by abstracting water. ( Amazonia)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"hydrological-cycle"
+]
+},
+{
+"id": "5.3",
+"short": "The hydrological cycle influences water budgets and river systems at a local scale.",
+"text": "The hydrological cycle influences water budgets and river systems at a local scale.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Water budgets which show the annual balance between inputs (precipitation) and outputs (evapotranspiration) and their impact on soil, water availability and are influenced by climate type ( tropical temperate or polar examples). [synoptic link 2]"
+},
+{
+"k": "b",
+"t": "River regimes indicate the annual variation of discharge of a river and result from the impact of climate, geology and soils as shown in regimes from contrasting river basins ( Yukon, Amazon, Indus). [synoptic link 3]"
+},
+{
+"k": "c",
+"t": "The shape of storm hydrographs depends on physical features of drainage basins (size, shape, drainage density, rock type, soil, relief and vegetation) as well as human factors (land use and urbanisation). (P: the role of planners in managing land use). [synoptic link 4]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"hydrological-cycle"
+]
+}
+]
+},
+{
+"code": "5-EQ2",
+"title": "What factors influence the hydrological system over short- and long-term timescales?",
+"paper": null,
+"option": null,
+"area": "5",
+"theme": 7,
+"aLevelOnly": true,
+"topic": "hydrological-change",
+"statements": [
+{
+"id": "5.4",
+"short": "Deficits within the hydrological cycle result from physical processes but can have significant impacts.",
+"text": "Deficits within the hydrological cycle result from physical processes but can have significant impacts.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The courses of drought, both meteorological and hydrological: short-term precipitation deficit, longer term trends, and ENSO cycles. (5) [synoptic link 6]"
+},
+{
+"k": "b",
+"t": "The contribution human activity makes to the risk of drought: over-abstraction of surface water resources and ground water aquifers ( Sahelian or Australia drought)."
+},
+{
+"k": "c",
+"t": "The impacts of drought on ecosystem functioning (wetlands, forest stress) and the resilience of these ecosystems."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"hydrological-change"
+]
+},
+{
+"id": "5.5",
+"short": "Surpluses within the hydrological cycle can lead to flooding, with significant impacts for people.",
+"text": "Surpluses within the hydrological cycle can lead to flooding, with significant impacts for people.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Meteorological causes of flooding, including intense storms leading to flash flooding, unusually heavy or prolonged rainfall, extreme monsoonal rainfall and snowmelt. (5) [synoptic link 6]"
+},
+{
+"k": "b",
+"t": "Human actions that can exacerbate flood risk (changing land use within the river catchment, mismanagement of rivers using hard engineering systems.)"
+},
+{
+"k": "c",
+"t": "Damage from flooding has both environmental impacts (soils and ecosystems) and socio-economic impacts (economic activity, infrastructure and settlement) ( UK flood events 2007 or 2012)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"hydrological-change"
+]
+},
+{
+"id": "5.6",
+"short": "Climate change may have significant impacts on the hydrological cycle globally and locally.",
+"text": "Climate change may have significant impacts on the hydrological cycle globally and locally.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Climate change affects inputs and outputs within the hydrological cycle: trends in precipitation and evaporation."
+},
+{
+"k": "b",
+"t": "Climate change affects stores and flows, size of snow and glacier mass, reservoirs, lakes, amount of permafrost, soil moisture levels as well as rates of runoff and stream flow."
+},
+{
+"k": "c",
+"t": "Climate change resulting from short-term oscillations (ENSO cycles) and global warming increase the uncertainty in the system; this causes concerns over the security of water supplies. (F: projections of future drought and flood risk)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"hydrological-change"
+]
+}
+]
+},
+{
+"code": "5-EQ3",
+"title": "How does water insecurity occur and why is it becoming such a global issue for the 21st century?",
+"paper": null,
+"option": null,
+"area": "5",
+"theme": 7,
+"aLevelOnly": true,
+"topic": "water-insecurity",
+"statements": [
+{
+"id": "5.7",
+"short": "There are physical causes and human causes of water insecurity.",
+"text": "There are physical causes and human causes of water insecurity.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The growing mismatch between water supply and demand has led to a global pattern of water stress (below 1,700 m³ per person) and water scarcity (below 1000 m³ per person). [synoptic link 7]"
+},
+{
+"k": "b",
+"t": "The causes of water insecurity are physical (climate variability, salt water encroachment at coast) as well as human (over abstraction from rivers, lakes and groundwater aquifers, water contamination from agriculture, industrial water pollution)."
+},
+{
+"k": "c",
+"t": "The finite water resource faces pressure from rising demand (increasing population, improving living standards, industrialisation and agriculture), which is increasingly serious in some locations and is leading to increasing risk of water insecurity. (F: projections of future water scarcity)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"water-insecurity"
+]
+},
+{
+"id": "5.8",
+"short": "There are consequences and risks associated with water insecurity.",
+"text": "There are consequences and risks associated with water insecurity.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The causes of and global pattern of physical water scarcity and economic scarcity and why the price of water varies globally. [synoptic link 8]"
+},
+{
+"k": "b",
+"t": "The importance of water supply for economic development (industry, energy supply, agriculture) and human wellbeing (sanitation, health and food preparation); the environmental and economic problems resulting from inadequate water."
+},
+{
+"k": "c",
+"t": "The potential for conflicts to occur between users within a country, and internationally over local and trans-boundary water sources ( Nile or Mekong). (P: role of different players). [synoptic link 9]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"water-insecurity"
+]
+},
+{
+"id": "5.9",
+"short": "There are different approaches to managing water supply, some more sustainable than others.",
+"text": "There are different approaches to managing water supply, some more sustainable than others.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The pros and cons of the techno-fix of hard engineering schemes to include water transfers, mega dams and desalination plants ( water transfers in China)."
+},
+{
+"k": "b",
+"t": "The value of more sustainable schemes of restoration of water supplies and water conservation (smart irrigation, recycling of water) ( Singapore). (A: contrasting attitudes to water supply)"
+},
+{
+"k": "c",
+"t": "Integrated drainage basin management for large rivers ( Nile or Colorado) and water sharing treaties and frameworks (United Nations Economic Commission for Europe (UNECE), Water Convention, Helsinki, and the Water Framework Directive and Hydropower, Berlin). (P: role of players in reducing water conflict risk)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"water-insecurity"
+]
+}
+]
+},
+{
+"code": "6-EQ1",
+"title": "How does the carbon cycle operate to maintain planetary health?",
+"paper": null,
+"option": null,
+"area": "6",
+"theme": 8,
+"aLevelOnly": true,
+"topic": "carbon-cycle",
+"statements": [
+{
+"id": "6.1",
+"short": "Most global carbon is locked in terrestrial stores as part of the long-term geological cycle (slow carbon cycle).",
+"text": "Most global carbon is locked in terrestrial stores as part of the long-term geological cycle (slow carbon cycle).",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The biogeochemical carbon cycle consists of carbon stores of different sizes (terrestrial, oceans and atmosphere), with annual fluxes between stores of varying size (measured in Pg/Gt), rates and on different timescales. [synoptic link 1]"
+},
+{
+"k": "b",
+"t": "Most of the earth’s carbon is geological, resulting from the formation of sedimentary carbonate rocks (limestone) in the oceans and biologically derived carbon in shale, coal and other rocks."
+},
+{
+"k": "c",
+"t": "Rainwater becomes a weak carbonic acid when it absorbs carbon dioxide from the atmosphere that then reacts with silicate minerals. This chemical weathering process releases ions such as calcium, which are transported by rivers to the oceans, where organisms combine calcium with dissolved carbon to create calcium carbonate. Carbonate rock forms via sedimentation of dead organisms, and carbon dioxide is released back into the atmosphere by volcanism."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"carbon-cycle"
+]
+},
+{
+"id": "6.2",
+"short": "Biological processes sequester carbon on land and in the oceans on shorter timescales (fast carbon cycle).",
+"text": "Biological processes sequester carbon on land and in the oceans on shorter timescales (fast carbon cycle).",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Phytoplankton sequester atmospheric carbon during photosynthesis in surface ocean waters; carbonate shells/tests move into the deep ocean water through the carbonate pump and action of the thermohaline circulation."
+},
+{
+"k": "b",
+"t": "Terrestrial primary producers sequester carbon during photosynthesis; some of this carbon is returned to the atmosphere during respiration by consumer organisms."
+},
+{
+"k": "c",
+"t": "Biological carbon can be stored as dead organic matter in soils, or returned to the atmosphere via biological decomposition over several years."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"carbon-cycle"
+]
+},
+{
+"id": "6.3",
+"short": "A balanced carbon cycle is important in sustaining other earth systems but is increasingly altered by human activities.",
+"text": "A balanced carbon cycle is important in sustaining other earth systems but is increasingly altered by human activities.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The concentration of atmospheric carbon (carbon dioxide and methane) strongly influences the natural greenhouse effect, which in turn determines the distribution of temperature and precipitation. [synoptic link 2]"
+},
+{
+"k": "b",
+"t": "Ocean and terrestrial photosynthesis play an important role in regulating the composition of the atmosphere. Soil health is influenced by stored carbon, which is important for ecosystem productivity."
+},
+{
+"k": "c",
+"t": "The process of fossil fuel combustion has altered the balance of carbon pathways and stores with implications for climate, ecosystems and the hydrological cycle."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"carbon-cycle"
+]
+}
+]
+},
+{
+"code": "6-EQ2",
+"title": "What are the consequences for people and the environment of our increasing demand for energy?",
+"paper": null,
+"option": null,
+"area": "6",
+"theme": 8,
+"aLevelOnly": true,
+"topic": "energy-security",
+"statements": [
+{
+"id": "6.4",
+"short": "Energy security is a key goal for countries, with most relying on fossil fuels.",
+"text": "Energy security is a key goal for countries, with most relying on fossil fuels.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Consumption (per capita and in terms of units of GDP) and energy mix (domestic and foreign, primary and secondary energy, renewable versus non-renewable). [synoptic link 3]"
+},
+{
+"k": "b",
+"t": "Access to and consumption of energy resources depends on physical availability, cost, technology, public perception, level of economic development and environmental priorities ( national comparisons: USA versus France)."
+},
+{
+"k": "c",
+"t": "Energy players (P: role of TNCs, The Organisation of the Petroleum Exporting Countries (OPEC), consumers, governments) have different roles in securing pathways and energy supplies."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"energy-security"
+]
+},
+{
+"id": "6.5",
+"short": "Reliance on fossil fuels to drive economic development is still the global norm.",
+"text": "Reliance on fossil fuels to drive economic development is still the global norm.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "There is a mismatch between locations of conventional fossil fuel supply (oil, gas, coal) and regions where demand is highest, resulting from physical geography."
+},
+{
+"k": "b",
+"t": "Energy pathways (pipelines, transmission lines, shipping routes, road and rail) are a key aspect of security but can be prone to disruption especially as conventional fossil fuel sources deplete ( Russian gas to Europe). [synoptic link 4]"
+},
+{
+"k": "c",
+"t": "The development of unconventional fossil fuel energy resources (tar sands, oil shale, shale gas, deep water oil) has social costs and benefits, implications for the carbon cycle, and consequences for the resilience of fragile environments. ( Canadian tar sands, USA fracking, Brazilian deep water oil) (P: role of business in developing reserves, versus environmental groups and affected communities)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"energy-security"
+]
+},
+{
+"id": "6.6",
+"short": "There are alternatives to fossil fuels but each has costs and benefits.",
+"text": "There are alternatives to fossil fuels but each has costs and benefits.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Renewable and recyclable energy (nuclear power, wind power and solar power) could help decouple fossil fuel from economic growth; these energy sources have costs and benefits economically, socially, and environmentally and in terms of their contribution they can make to energy security. ( changing UK energy mix)"
+},
+{
+"k": "b",
+"t": "Biofuels are an alternative energy source that are increasing globally; growth in biofuels however has implications for food supply as well as uncertainty over how ‘carbon neutral’ they are. ( Biofuels in Brazil) [synoptic link 5]"
+},
+{
+"k": "c",
+"t": "Radical technologies, including carbon capture and storage and alternative energy sources (hydrogen fuel cells, electric vehicles) could reduce carbon emissions but uncertainty exists as to how far this is possible."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"energy-security"
+]
+}
+]
+},
+{
+"code": "6-EQ3",
+"title": "How are the carbon and water cycles linked to the global climate system?",
+"paper": null,
+"option": null,
+"area": "6",
+"theme": 8,
+"aLevelOnly": true,
+"topic": "carbon-water-climate",
+"statements": [
+{
+"id": "6.7",
+"short": "Biological carbon cycles and the water cycle are threatened by human activity.",
+"text": "Biological carbon cycles and the water cycle are threatened by human activity.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Growing demand for food, fuel and other resources globally has led to contrasting regional trends in land-use cover (deforestation, afforestation, conversion of grasslands to farming) affecting terrestrial carbon stores with wider implications for the water cycle and soil health. [synoptic link 6]"
+},
+{
+"k": "b",
+"t": "Ocean acidification, as a result of its role as a carbon sink, is increasing due to fossil fuel combustion and risks crossing the critical threshold for the health of coral reefs and other marine ecosystems that provide vital ecosystem services."
+},
+{
+"k": "c",
+"t": "Climate change, resulting from the enhanced greenhouse effect, may increase the frequency of drought due to shifting climate belts, which may impact on the health of forests as carbon stores. ( Amazonian drought events)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"carbon-water-climate"
+]
+},
+{
+"id": "6.8",
+"short": "There are implications for human wellbeing from the degradation of the water and carbon cycles.",
+"text": "There are implications for human wellbeing from the degradation of the water and carbon cycles.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Forest loss has implications for human wellbeing but there is some evidence that forest stores are being protected and even expanded in some locations (environmental Kuznets’ curve model). (A: attitudes of global consumers to environmental issues)"
+},
+{
+"k": "b",
+"t": "Increased temperatures affect evaporation rates and the quantity of water vapour in the atmosphere with implications for precipitation patterns, river regimes and water stores (cryosphere and drainage basin stores) ( Arctic) (F: uncertainty of global projections). [synoptic link 7]"
+},
+{
+"k": "c",
+"t": "Threats to ocean health pose threats to human wellbeing, especially in developing regions that depend on marine resources as a food source and for tourism and coastal protection."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"carbon-water-climate"
+]
+},
+{
+"id": "6.9",
+"short": "Further planetary warming risks large-scale release of stored carbon, requiring responses from different players at different scales.",
+"text": "Further planetary warming risks large-scale release of stored carbon, requiring responses from different players at different scales.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Future emissions, atmospheric concentration levels and climate warming are uncertain owing to natural factors (the role of carbon sinks), human factors (economic growth, population, energy sources) and positive feedback mechanisms (carbon release from peatlands and permafrost, and tipping points, including forest die back and alterations to the thermohaline circulation). (8) (F: uncertainty of global projections)"
+},
+{
+"k": "b",
+"t": "Adaptation strategies for a changed climate (water conservation and management, resilient agricultural systems, land-use planning, flood-risk management) have different costs and risks."
+},
+{
+"k": "c",
+"t": "Re-balancing the carbon cycle could be achieved through mitigation (carbon taxation, renewable switching, energy efficiency, afforestation, carbon capture and storage, and solar radiation management) but this requires global scale agreement and national actions both of which have proved to be problematic. (A: attitudes of different countries, TNCs and people)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"carbon-water-climate"
+]
+}
+]
+},
+{
+"code": "7-EQ1",
+"title": "What are superpowers and how have they changed over time?",
+"paper": null,
+"option": null,
+"area": "7",
+"theme": 9,
+"aLevelOnly": true,
+"topic": "superpowers-change",
+"statements": [
+{
+"id": "7.1",
+"short": "Geopolitical power stems from a range of human and physical of characteristics of superpowers.",
+"text": "Geopolitical power stems from a range of human and physical of characteristics of superpowers.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Superpowers, emerging and regional powers can be defined using contrasting characteristics (economic, political, military, cultural, demographic and access to natural resources). [synoptic link 1]"
+},
+{
+"k": "b",
+"t": "Mechanisms for maintaining power sit on a spectrum from ‘hard’ to ‘soft’ power, which vary in their effectiveness."
+},
+{
+"k": "c",
+"t": "The relative importance of these characteristics and mechanisms for maintaining power has changed over time ( China's ‘belt and road’ policy)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"superpowers-change"
+]
+},
+{
+"id": "7.2",
+"short": "Patterns of power change over time and can be uni-, bi- or multi-polar.",
+"text": "Patterns of power change over time and can be uni-, bi- or multi-polar.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The maintenance of power during the imperial era by direct militarised colonial control (British Empire, multipolar world 1919–1939)."
+},
+{
+"k": "b",
+"t": "Multi-faceted, indirect control (political, economic, military, cultural) including neo-colonial mechanisms has become more important (Cold War era; emergence of China as a potential rival to the USA’s hegemony). [synoptic link 2]"
+},
+{
+"k": "c",
+"t": "Different patterns of power bring varying degrees of geopolitical stability and risk."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"superpowers-change"
+]
+},
+{
+"id": "7.3",
+"short": "Emerging powers vary in their influence on people and the physical environment, which can change rapidly over time.",
+"text": "Emerging powers vary in their influence on people and the physical environment, which can change rapidly over time.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "A number of emerging countries, including Brazil, Russia, India and China (BRIC) and other G20 members, are increasingly important to global economic and political systems, as well as global environment governance (UN Climate Change Conference)."
+},
+{
+"k": "b",
+"t": "Each has evolving strengths and weaknesses (economic, political, military, cultural, demographic and environmental) that might inhibit or advance their economic and geopolitical role in the future."
+},
+{
+"k": "c",
+"t": "Contrasting development theories (World Systems Theory, Dependency Theory, Modernisation Theory) can be used to help explain changing patterns of power."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"superpowers-change"
+]
+}
+]
+},
+{
+"code": "7-EQ2",
+"title": "What are the impacts of superpowers on the global economy, political systems and the physical environment?",
+"paper": null,
+"option": null,
+"area": "7",
+"theme": 9,
+"aLevelOnly": true,
+"topic": "superpowers-impacts",
+"statements": [
+{
+"id": "7.4",
+"short": "Superpowers have a significant influence over the global economic system.",
+"text": "Superpowers have a significant influence over the global economic system.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Superpowers attempt to control the global economy (promoting free trade and capitalism) through a variety of IGOs (World Bank, IMF, WTO, World Economic Forum (WEF)). [synoptic link 3]"
+},
+{
+"k": "b",
+"t": "TNCs are dominant economic forces in the global economy and economic and cultural globalisation in terms of technology (patents) and trade patterns. (P: role of TNCs in maintaining power and wealth)"
+},
+{
+"k": "c",
+"t": "Global cultural influence (the arts, food the media) and ‘westernisation’ is an important aspect of power, linked to economic influence and technology."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"superpowers-impacts"
+]
+},
+{
+"id": "7.5",
+"short": "Superpowers and emerging nations play a key role in international decision making concerning people and the physical environment.",
+"text": "Superpowers and emerging nations play a key role in international decision making concerning people and the physical environment.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Superpowers and emerging nations play a key role in global action (crisis response, conflict, climate change). (P: role of powerful countries as ‘global police’)"
+},
+{
+"k": "b",
+"t": "Alliances, both military (North Atlantic Treaty Organisation (NATO), The Australia, New Zealand and United States Security Treaty (ANZUS) and economic (EU, United States- Mexico-Canada Agreement (USMCA), ASEAN) and environmental (IPCC) increase interdependence and are important in geostrategy and global influence."
+},
+{
+"k": "c",
+"t": "The UN (Security Council, International Court of Justice, and peacekeeping missions and climate change conferences) are important to global geopolitical stability. (A: actions and attitudes of global IGOs)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"superpowers-impacts"
+]
+},
+{
+"id": "7.6",
+"short": "Global concerns about the physical environment are disproportionately influenced by superpower actions.",
+"text": "Global concerns about the physical environment are disproportionately influenced by superpower actions.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Superpower resource demands (food, fossil fuels, and minerals) can cause environmental degradation and their carbon emissions contribute disproportionately to global warming. [synoptic link 4]"
+},
+{
+"k": "b",
+"t": "There are differences in the willingness of superpowers to act ( USA and China) to reduce carbon emissions and reach global agreements on environmental issues. (A: attitudes and actions of different countries)"
+},
+{
+"k": "c",
+"t": "Future growth in middle-class consumption in emerging superpowers has implications for the availability and cost of key resources (rare earths, oil, staple grains and water), as well as for the physical environment."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"superpowers-impacts"
+]
+}
+]
+},
+{
+"code": "7-EQ3",
+"title": "What spheres of influence are contested by superpowers and what are the implications of this?",
+"paper": null,
+"option": null,
+"area": "7",
+"theme": 9,
+"aLevelOnly": true,
+"topic": "superpowers-influence",
+"statements": [
+{
+"id": "7.7",
+"short": "Global influence is contested in a number of different economic, environmental and political spheres.",
+"text": "Global influence is contested in a number of different economic, environmental and political spheres.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Tensions can arise over the acquisition of physical resources (Arctic oil and gas) where ownership is disputed and disagreement exists over exploitation. (A: attitudes and actions in relation to resources)"
+},
+{
+"k": "b",
+"t": "The global system of intellectual property rights can be undermined by counterfeiting, which strains trade relations and TNC investment."
+},
+{
+"k": "c",
+"t": "Political spheres of influence can be contested leading to tensions over territory and physical resources ( South and East China Seas) and in some cases resulting in open conflict ( Western Russia/Eastern Europe) with implications for people and physical environments."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"superpowers-influence"
+]
+},
+{
+"id": "7.8",
+"short": "Developing nations have changing relationships with superpowers with consequences for people and the physical environment.",
+"text": "Developing nations have changing relationships with superpowers with consequences for people and the physical environment.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Developing economic ties between emerging powers and the developing world (China and African nations) increase interdependence, generate environmental impacts and bring opportunities and challenges. (P: role of emerging powers)"
+},
+{
+"k": "b",
+"t": "The rising economic importance of certain Asian countries ( China or India) on the global stage increases the geopolitical influence of the region but also creates economic and political tensions within the region. [synoptic link 5]"
+},
+{
+"k": "c",
+"t": "Cultural, political, economic and environmental tensions in the Middle East represent an ongoing challenge to superpowers and emerging powers due to complex geopolitical relations combined with the supply of vital energy resources. (A: contrasting cultural ideologies)"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"superpowers-influence"
+]
+},
+{
+"id": "7.9",
+"short": "Existing superpowers face ongoing economic restructuring, which challenges their power.",
+"text": "Existing superpowers face ongoing economic restructuring, which challenges their power.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Economic problems (debt, unemployment, economic restructuring, social costs) represent an ongoing challenge to superpowers ( USA and EU)."
+},
+{
+"k": "b",
+"t": "The economic costs of maintaining global military power (naval, nuclear, air power, intelligence services) and space exploration are questioned in some existing superpowers."
+},
+{
+"k": "c",
+"t": "The future balance of global power in 2030 and 2050 is uncertain and there are a range of possible outcomes (continued USA dominance, bi-polar and multi-polar structures). (F: uncertainty over future power structures) [synoptic link 6]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"superpowers-influence"
+]
+}
+]
+},
+{
+"code": "8A-EQ1",
+"title": "What is human development and why do levels vary from place to place?",
+"paper": null,
+"option": null,
+"area": "8A",
+"theme": 10,
+"aLevelOnly": true,
+"topic": "human-development",
+"statements": [
+{
+"id": "8A.1",
+"short": "Concepts of human development are complex and contested.",
+"text": "Concepts of human development are complex and contested.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Human development has traditionally been measured using the growth of GDP as an end in itself but the relationship between human contentment and levels of wealth and income is complex (Happy Planet Index) and many dominant western models are contested ( Sharia law or Bolivia under Evo Morales). [synoptic link 1]"
+},
+{
+"k": "b",
+"t": "Improvements in environmental quality, health, life expectancy and human rights are seen by some (Rosling) as more significant goals for development while economic growth is often seen as the best means of delivering them."
+},
+{
+"k": "c",
+"t": "Education is central to economic development (human capital) and to the understanding and assertion of human rights. However, this view is not universally shared (attitudes to gender equality in education), so both access to education and standards of achievement vary greatly among countries (UNESCO)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"human-development"
+]
+},
+{
+"id": "8A.2",
+"short": "There are notable variations in human health and life expectancy.",
+"text": "There are notable variations in human health and life expectancy.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "There are considerable variations in health and life expectancy in the developing world that are explained by differential access to basic needs such as food, water supply and sanitation, and which impact particularly on levels of infant and maternal mortality. [synoptic link 2]"
+},
+{
+"k": "b",
+"t": "Variations in health and life expectancy in the developed world are largely a function of differences in lifestyles, levels of deprivation and the availability, cost and effectiveness of medical care. [synoptic link 2]"
+},
+{
+"k": "c",
+"t": "There are significant variations in health and life expectancy within countries ( UK or Brazil) that can be related to ethnic variations, income levels and inequalities, which in turn impact on lifestyles ( Indigenous peoples in Australia)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"human-development"
+]
+},
+{
+"id": "8A.3",
+"short": "Governments and International Government Organisations play a significant role in defining development targets and policies.",
+"text": "Governments and International Government Organisations play a significant role in defining development targets and policies.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The relationship between economic and social development is complex and dependent on decisions made by governments on the importance of social progress; this ranges from welfare states with high levels of social spending to totalitarian regimes run by elites with low levels of spending on health and education. [synoptic link 3]"
+},
+{
+"k": "b",
+"t": "The dominant IGOs (World Bank, IMF, WTO) have traditionally promoted neo-liberal views of development based on the adoption of free trade, privatisation and deregulation of financial markets but also, recent programmes have been aimed at improving environmental quality, health, education and human rights."
+},
+{
+"k": "c",
+"t": "Progress against the United Nation’s Sustainable Development Goals (SDGs) has been mixed in terms of individual countries, global regions and targets; the UN post- 2015 development agenda expands on the MDGs, setting new goals to include sustainable development."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"human-development"
+]
+}
+]
+},
+{
+"code": "8A-EQ2",
+"title": "Why do human rights vary from place to place?",
+"paper": null,
+"option": null,
+"area": "8A",
+"theme": 10,
+"aLevelOnly": true,
+"topic": "human-rights",
+"statements": [
+{
+"id": "8A.4",
+"short": "Human rights have become important aspects of both international law and international agreements.",
+"text": "Human rights have become important aspects of both international law and international agreements.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The Universal Declaration of Human Rights (UDHR) is a statement of intent and a framework for foreign policy statements to explain economic or military intervention but not all states have signed the Declaration."
+},
+{
+"k": "b",
+"t": "The European Convention on Human Rights (ECHR) was drafted by the nations of the Council of Europe to help prevent conflict and integrated into the UK by the Human Rights Act of 1998; the ECHR remains controversial as some see it as an erosion of national sovereignty."
+},
+{
+"k": "c",
+"t": "The Geneva Convention forms a basis in international law for prosecuting individuals and organisations who commit war crimes and is endorsed by 196 countries; however few cases come to trial and over 150 countries continue to engage in torture."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"human-rights"
+]
+},
+{
+"id": "8A.5",
+"short": "There are significant differences between countries in both their definitions and protection of human rights.",
+"text": "There are significant differences between countries in both their definitions and protection of human rights.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Some states () frequently invoke human rights in international forums and debates whilst others prioritise economic development over human rights and defend this approach ()."
+},
+{
+"k": "b",
+"t": "Some superpowers and emerging powers have transitioned to more democratic governments but the degree of democratic freedom varies ( comparison of an authoritarian and a democratic system); the protection of human rights and degree of freedom of speech varies."
+},
+{
+"k": "c",
+"t": "Levels of political corruption vary and can be measured (Index of Corruption); high levels of corruption are a threat to human rights as the rule of law can be subverted. [synoptic link 4]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"human-rights"
+]
+},
+{
+"id": "8A.6",
+"short": "There are significant variations in human rights within countries, which are reflected in different levels of social development.",
+"text": "There are significant variations in human rights within countries, which are reflected in different levels of social development.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "In some states (post-colonial states) there are significant groups, defined by gender and/or ethnicity that have had fewer rights than the dominant group."
+},
+{
+"k": "b",
+"t": "Differences in rights are frequently reflected in differences in levels of health and education ( First Nations in Canada)."
+},
+{
+"k": "c",
+"t": "A demand for equality from both women and ethnic groups has been an important part of the history of many states in recent years ( Afghanistan, Australia, Bolivia) with progress taking place at different rates."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"human-rights"
+]
+}
+]
+},
+{
+"code": "8A-EQ3",
+"title": "How are human rights used as arguments for political and military intervention?",
+"paper": null,
+"option": null,
+"area": "8A",
+"theme": 10,
+"aLevelOnly": true,
+"topic": "intervention-arguments",
+"statements": [
+{
+"id": "8A.7",
+"short": "There are different forms of geopolitical intervention in defence of human rights.",
+"text": "There are different forms of geopolitical intervention in defence of human rights.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "There is a wide range of geopolitical interventions to address development and human rights issues: development aid, trade embargoes, military aid, indirect and direct military action."
+},
+{
+"k": "b",
+"t": "Interventions are promoted by IGOs, national governments and NGOs (Amnesty International, Human Rights Watch) but there is seldom consensus about the validity of these interventions."
+},
+{
+"k": "c",
+"t": "Some Western governments frequently condemn human rights violations and use them as conditions for offering aid, negotiating trade agreements, and as a reason for military intervention, which challenge ideas of national sovereignty ()."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"intervention-arguments"
+]
+},
+{
+"id": "8A.8",
+"short": "Some development is focused on improving both human rights and human welfare but other development has very negative environmental and cultural impacts.",
+"text": "Some development is focused on improving both human rights and human welfare but other development has very negative environmental and cultural impacts.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Development aid takes many forms from charitable gifts to address the impacts of hazards ( Haiti) administered both by NGOs ( Oxfam or Christian Aid) and national governments, to IGOs offering loans. [synoptic link 5]"
+},
+{
+"k": "b",
+"t": "The impact of development aid is contested, successes include progress in dealing with life-threatening conditions (malaria) and improvements in some aspects of human rights (gender equality) but critics suggest that it encourages dependency, and promotes corruption and the role of the elite at the expense of human rights and minority groups. [synoptic link 6]"
+},
+{
+"k": "c",
+"t": "Some economic development, both by superpowers and TNCs, has very serious impacts on the environment in which minority groups live and disregards their human rights to their land and culture ( oil in the Niger Delta or Dakota and Keystone XL pipeline, and land acquisitions by TNCs in Ethiopia). [synoptic link 7]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"intervention-arguments"
+]
+},
+{
+"id": "8A.9",
+"short": "Military aid and both direct and indirect military intervention are frequently justified in terms of human rights.",
+"text": "Military aid and both direct and indirect military intervention are frequently justified in terms of human rights.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Global strategic interests might drive military interventions but are often justified by the protagonists in terms of human rights ()."
+},
+{
+"k": "b",
+"t": "Military aid, both in terms of training personnel and weapons sales, is sometimes used to support countries that themselves have questionable human rights records ()."
+},
+{
+"k": "c",
+"t": "Direct military intervention is part of a ’war on terror’, which is partially justified as promoting human rights () but is compromised by the use of torture by combatant states that have signed the Declaration of Human Rights ()."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"intervention-arguments"
+]
+}
+]
+},
+{
+"code": "8A-EQ4",
+"title": "What are the outcomes of geopolitical interventions in terms of human development and human rights?",
+"paper": null,
+"option": null,
+"area": "8A",
+"theme": 10,
+"aLevelOnly": true,
+"topic": "intervention-outcomes",
+"statements": [
+{
+"id": "8A.10",
+"short": "There are several ways of measuring the success of geopolitical interventions.",
+"text": "There are several ways of measuring the success of geopolitical interventions.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Measurements of success comprise a wide range of variables, including improvements in health, life expectancy, educational levels, gender equality, freedom of speech and successful management of refugees as well as increases in GDP per capita. [synoptic link 8]"
+},
+{
+"k": "b",
+"t": "For some governments and IGOs, the introduction of democratic institutions is deemed important and freedom of expression is seen as central to the development of democratic and capitalist societies."
+},
+{
+"k": "c",
+"t": "For other countries, () success is measured in terms of economic growth with less attention to holistic development (human wellbeing) or human rights and the development of democratic institutions."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"intervention-outcomes"
+]
+},
+{
+"id": "8A.11",
+"short": "Development aid has a mixed record of success.",
+"text": "Development aid has a mixed record of success.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The relationship of aid, development, health and human rights is unclear, with relative success stories in some states ( Botswana or Ebola in West Africa) contrasted with relative failure in other states ( Haiti, Iraq)."
+},
+{
+"k": "b",
+"t": "In some states that receive substantial development aid, economic inequalities have increased while in other states economic inequalities have decreased; this in turn impacts on human development including health and life expectancy. [synoptic link 9]"
+},
+{
+"k": "c",
+"t": "The extent to which superpowers use development aid as an extension of their foreign policies and judge success in terms of access to resources, political support in IGOs and formation of military alliances. [synoptic link 10]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"intervention-outcomes"
+]
+},
+{
+"id": "8A.12",
+"short": "Military interventions, both direct and indirect, have a mixed record of success.",
+"text": "Military interventions, both direct and indirect, have a mixed record of success.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The recent history of military interventions, both direct and indirect, suggest that there are significant costs, including loss of sovereignty and human rights () and contrasts between short-term gains with long-term costs ()."
+},
+{
+"k": "b",
+"t": "Other non-military interventions may have a stronger record of improving both human rights and development ( UN Women or UNICEF)."
+},
+{
+"k": "c",
+"t": "Lack of action also has global consequences () which may impact negatively on progress in environmental, political and social development (human wellbeing and human rights)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"intervention-outcomes"
+]
+}
+]
+},
+{
+"code": "8B-EQ1",
+"title": "What are the impacts of globalisation on international migration?",
+"paper": null,
+"option": null,
+"area": "8B",
+"theme": 11,
+"aLevelOnly": true,
+"topic": "international-migration",
+"statements": [
+{
+"id": "8B.1",
+"short": "Globalisation has led to an increase in migration both within countries and among them.",
+"text": "Globalisation has led to an increase in migration both within countries and among them.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Globalisation has caused extremely significant changes in the global economic system, changing the pattern of demand for labour; this has encouraged both rural-urban migration within countries ( China) and international migration between countries ( EU-Schengen)."
+},
+{
+"k": "b",
+"t": "Between 3–4% of the global population live outside their country of birth but this proportion varies greatly between countries because of different policies relating to international migration and levels of engagement with the global economy ( Singapore or Japan or Australia)."
+},
+{
+"k": "c",
+"t": "The pattern of international migration is changing and will continue to change because environmental, economic and political events affect both the source areas of many migrants and their destinations; this results in flows of economic migrants, refugees and asylum seekers. [synoptic link 1]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"international-migration"
+]
+},
+{
+"id": "8B.2",
+"short": "The causes of migration are varied, complex and subject to change.",
+"text": "The causes of migration are varied, complex and subject to change.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Most migrants move for work or to re-join family members; there are other significant causes, including displacement of refugees due to conflict and poverty in their regions of origin ( migrants crossing the Mediterranean). [synoptic link 2]"
+},
+{
+"k": "b",
+"t": "Economic theory suggests that economic efficiency is maximised when goods (free trade), capital (deregulated financial markets) and labour (open-borders) can move freely across international borders but this poses serious challenges for national identity and sovereignty."
+},
+{
+"k": "c",
+"t": "The movement of labour is unrestricted within many nation states to ensure efficient allocation of resources ( regional movements in the UK) and the same logic applies for some global regions (EU) but does not yet apply at a global level."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"international-migration"
+]
+},
+{
+"id": "8B.3",
+"short": "The consequences of international migration are varied and disputed.",
+"text": "The consequences of international migration are varied and disputed.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Migration changes the cultural and ethnic composition of nation states but the integration of migrants varies both between nations and within them."
+},
+{
+"k": "b",
+"t": "Migration causes political tensions because of differences in perceptions of the social, economic, cultural and demographic impacts ( Labour flows across the Mexico-US border and between EU states). [synoptic link 3]"
+},
+{
+"k": "c",
+"t": "There are variations in the ability of people to migrate across national borders according to levels of skill and income; and opportunities, including the presence or absence of controls and international borders."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"international-migration"
+]
+}
+]
+},
+{
+"code": "8B-EQ2",
+"title": "How are nation states defined and how have they evolved in a globalising world?",
+"paper": null,
+"option": null,
+"area": "8B",
+"theme": 11,
+"aLevelOnly": true,
+"topic": "nation-states",
+"statements": [
+{
+"id": "8B.4",
+"short": "Nation states are highly varied and have very different histories.",
+"text": "Nation states are highly varied and have very different histories.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "National sovereign states vary greatly in their ethnic, cultural and linguistic unity ( Iceland compared to Singapore); this results from their history of population growth, their degree of isolation and the role of migration. [synoptic link 4]"
+},
+{
+"k": "b",
+"t": "Many national borders are a consequence of physical geography and historical development; other borders are a result of colonial history and might not take account of different ethnic or religious groups ( Iraq or Rwanda), which can lead to problems of sovereignty and legitimacy."
+},
+{
+"k": "c",
+"t": "There are many contested borders ( Ukraine/Russia) and not all nation states are universally recognised as such ( Taiwan) which can lead to both potential conflict and population movements."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"nation-states"
+]
+},
+{
+"id": "8B.5",
+"short": "Nationalism has played a role in the development of the modern world.",
+"text": "Nationalism has played a role in the development of the modern world.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "19th-century nationalism was important in the development of empires and a source of conflict in Europe and beyond as other nations became part of larger empires ( British Raj in India)."
+},
+{
+"k": "b",
+"t": "Since 1945, many new nation states have emerged as European empires disintegrated ( 1960s ‘wind of change’ in Africa); the transition to independence frequently involved conflicts that were costly environmentally, economically and in human terms ( Viet-Nam or Sudan)."
+},
+{
+"k": "c",
+"t": "Patterns of migration between former colonies and the imperial core country are still evident and important in changing the ethnic composition and cultural heterogeneity of those countries. [synoptic link 5]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"nation-states"
+]
+},
+{
+"id": "8B.6",
+"short": "Globalisation has led to the deregulation of capital markets and the emergence of new state forms.",
+"text": "Globalisation has led to the deregulation of capital markets and the emergence of new state forms.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Globalisation has encouraged the growth of states that have low-tax regimes which provide havens for the profits for TNCs and homes for wealthy expatriates."
+},
+{
+"k": "b",
+"t": "Most governments and IGOs have accepted the emergence of tax-havens although many NGOs have raised objections."
+},
+{
+"k": "c",
+"t": "Growing global inequalities have been recognised as a major threat to the sustainability of the global economic system and some governments have promoted alternative models ( Bolivia or Ecuador). [synoptic link 6]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"nation-states"
+]
+}
+]
+},
+{
+"code": "8B-EQ3",
+"title": "What are the impacts of global organisations on managing global issues and conflicts?",
+"paper": null,
+"option": null,
+"area": "8B",
+"theme": 11,
+"aLevelOnly": true,
+"topic": "global-organisations",
+"statements": [
+{
+"id": "8B.7",
+"short": "Global organisations are not new but have been important in the post-1945 world.",
+"text": "Global organisations are not new but have been important in the post-1945 world.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The United Nations was the first post-war IGO to be established and has grown in importance; its role in global governance is affected by the different geopolitical visons of members of the Security Council and its multiple functions in managing global environmental, socio-economic and political problems."
+},
+{
+"k": "b",
+"t": "Interventions by the UN through the use of economic sanctions and direct military intervention have been made in defence of human rights but have a mixed record of success. ( Trade Embargo Iran or UN forces in Congo)."
+},
+{
+"k": "c",
+"t": "Some member states (US, UK) have operated independently of the UN in intervening in countries labelled as ‘fragile states’ or to conduct a ‘war on terror’ with profound impacts on geopolitical relations and global stability."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"global-organisations"
+]
+},
+{
+"id": "8B.8",
+"short": "IGOs established after the Second World War have controlled the rules of world trade and financial flows.",
+"text": "IGOs established after the Second World War have controlled the rules of world trade and financial flows.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "The IMF, WB and WTO were established by the WWII allied nations and have been important in maintaining the dominance of ‘western’ capitalism, global economic management and trade policy (free trade)."
+},
+{
+"k": "b",
+"t": "Global borrowing rules and trade policies have been especially effective in delivering growth to the developed world, but the impact of Structural Adjustment and HIPC policies on the developing world’s economies and economic sovereignty is disputed ( Jamaica’s structural adjustment programme)."
+},
+{
+"k": "c",
+"t": "Membership of global trade and financial IGOs is almost universal, as a result of the dominance of these organisations, but regional groupings have emerged in the form of trading blocs ( NAFTA/SEATO) and in some cases (EU) there has been a movement to closer political unity."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"global-organisations"
+]
+},
+{
+"id": "8B.9",
+"short": "IGOs have been formed to manage the environmental problems facing the world, with varying success.",
+"text": "IGOs have been formed to manage the environmental problems facing the world, with varying success.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Global environmental issues including issues concerning the quality of the atmosphere and biosphere ( Montreal Protocol on Substances that Deplete the Ozone Layer) and biosphere ( Convention on International Trade in Endangered Species of Wild Fauna and Flora CITES). [synoptic link 7]"
+},
+{
+"k": "b",
+"t": "IGOs have been involved in developing laws for managing oceans ( UN Convention on the Law of the Sea) and international rivers ( Helsinki Water Convention rules) as well as monitoring the state of the environment ( Millennium Ecosystem Assessment)."
+},
+{
+"k": "c",
+"t": "IGO management also includes responsibility for Antarctica as a continent of peace and science ( Antarctic Treaty System)."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"global-organisations"
+]
+}
+]
+},
+{
+"code": "8B-EQ4",
+"title": "What are the threats to national sovereignty in a more globalised world?",
+"paper": null,
+"option": null,
+"area": "8B",
+"theme": 11,
+"aLevelOnly": true,
+"topic": "national-sovereignty",
+"statements": [
+{
+"id": "8B.10",
+"short": "National identity is an elusive and contested concept.",
+"text": "National identity is an elusive and contested concept.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Nationalism remains a powerful force; it is reinforced through education, sport and by political parties stressing loyalty to both the institutions and the ideals of nation states."
+},
+{
+"k": "b",
+"t": "Identity and loyalty has historically been tied to distinctive legal systems, methods of governance, national ‘character’ or even a landscape ( The English Countryside)."
+},
+{
+"k": "c",
+"t": "Most countries are multi-national with many contrasting ethnic groups; questions of national identity and loyalties are therefore complex, especially in an era of globalisation."
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"national-sovereignty"
+]
+},
+{
+"id": "8B.11",
+"short": "There are challenges to national identity.",
+"text": "There are challenges to national identity.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "Many UK-based companies are foreign owned ( EDF or Jaguar Land Rover (JLR)), making ‘Made in Britain’ an increasingly complex idea. [synoptic link 8]"
+},
+{
+"k": "b",
+"t": "‘Westernisation’ is often dominated by US cultural values through the operation of large corporations in both retailing and entertainment; this, in turn, promotes a distinctive view of the benefits the dominant capitalist model."
+},
+{
+"k": "c",
+"t": "Ownership of property, land and businesses in countries is increasingly non-national ( Qatari and Russian property in London and US or Indian or Chinese ownership of TNCs), which impacts on national identity. [synoptic link 9]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"national-sovereignty"
+]
+},
+{
+"id": "8B.12",
+"short": "There are consequences of disunity within nations.",
+"text": "There are consequences of disunity within nations.",
+"guidance": "",
+"level": "A level only",
+"points": [
+{
+"k": "a",
+"t": "There are strong nationalist movements seeking to create independent, smaller states whilst remaining within larger trading groups ( Catalonia or Scotland in the EU)."
+},
+{
+"k": "b",
+"t": "There are significant political tensions in the BRIC and other emerging nations resulting from the uneven pattern of the costs and benefits of globalisation."
+},
+{
+"k": "c",
+"t": "The role of the state is variable and national identity is not always strong, especially in ‘fragile states’ where there are stark differences between the politically and economically powerful elite, foreign investment groups and the wider population ( Somalia). [synoptic link 10]"
+}
+],
+"page": 0,
+"aLevelPart": "",
+"as": false,
+"topics": [
+"national-sovereignty"
+]
+}
+]
+}
+]

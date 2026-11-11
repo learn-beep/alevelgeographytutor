@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import b from '../../data/boundaries.json';
+import { B } from '../../lib/data';
+const grades = ['A*', 'A', 'B', 'C', 'D', 'E'];
+const first = b.alevel[b.alevel.length - 1]?.series.split(' ')[1], last = b.alevel[0]?.series.split(' ')[1];
+---
+<Base title={`${B.full} grade boundaries ${first}–${last} and grade calculator`} description={`Every ${B.short} A-level Geography (${B.alCode}) overall grade boundary since ${first}, with a calculator that turns your paper and NEA marks into a total, a grade and the marks you need for the next one.`} context="grade-boundaries" leadLine="Short of the grade you need? A tutor can work out exactly where the marks are.">
+  <h1>Grade boundaries and grade calculator</h1>
+  <p>{b.intro} Boundaries move every year with the difficulty of the papers, so use the last few series as a range, not a target.</p>
+  <h2>Grade calculator</h2>
+  <div class="calc" id="calc">
+    {b.papers.map((p, i) => <label>{p[0]} mark (out of {p[1]}) <input type="number" min="0" max={p[1]} id={`p${i}`} inputmode="numeric" /></label>)}
+    <label>Compare with <select id="series">{b.alevel.map((r) => <option value={r.series}>{r.series} boundaries</option>)}</select></label>
+    <div class="result" id="result">Enter your marks</div>
+    <div class="muted" id="next"></div>
+  </div>
+  <h2>A level ({B.alCode}), out of {b.max}</h2>
+  <div class="table-wrap"><table><thead><tr><th>Series</th>{grades.map((g) => <th>{g}</th>)}</tr></thead>
+    <tbody>{b.alevel.map((r) => <tr><td>{r.series}</td>{grades.map((g) => <td>{r[g]}</td>)}</tr>)}</tbody></table></div>
+  <p class="muted">{b.source}</p>
+  {b.components && <p class="muted">{b.components}</p>}
+  {b.as.length > 0 && <>
+    <h2>AS ({B.asCode}), out of {b.as[0].max}</h2>
+    <div class="table-wrap"><table><thead><tr><th>Series</th>{grades.slice(1).map((g) => <th>{g}</th>)}</tr></thead>
+      <tbody>{b.as.map((r) => <tr><td>{r.series}</td>{grades.slice(1).map((g) => <td>{r[g]}</td>)}</tr>)}</tbody></table></div>
+    <p class="muted">{b.asSource}</p>
+  </>}
+  <script define:vars={{ rows: b.alevel, n: b.papers.length, max: b.max }}>
+    const ids = Array.from({ length: n }, (_, i) => 'p' + i);
+    const out = document.getElementById('result'), next = document.getElementById('next'), sel = document.getElementById('series');
+    const grades = ['A*', 'A', 'B', 'C', 'D', 'E'];
+    function update() {
+      const marks = ids.map((i) => Number(document.getElementById(i).value || 0));
+      if (marks.every((m) => m === 0)) { out.textContent = 'Enter your marks'; next.textContent = ''; return; }
+      const total = marks.reduce((a, c) => a + c, 0);
+      const row = rows.find((r) => r.series === sel.value);
+      let grade = 'U';
+      for (const g of grades) { if (total >= row[g]) { grade = g; break; } }
+      if (grade === 'A*') { out.textContent = `${total}/${max}: grade A* on ${row.series} boundaries`; next.textContent = `${total - row['A*']} marks above the A* boundary.`; return; }
+      const idx = grades.indexOf(grade); const nextGrade = idx === -1 ? 'E' : grades[idx - 1]; const need = row[nextGrade] - total;
+      out.textContent = `${total}/${max}: grade ${grade} on ${row.series} boundaries`;
+      next.textContent = `${need} more mark${need === 1 ? '' : 's'} for ${/^[AE]/.test(nextGrade) ? 'an' : 'a'} ${nextGrade}.`;
+    }
+    [...ids.map((i) => document.getElementById(i)), sel].forEach((el) => el.addEventListener('input', update));
+  </script>
+</Base>

@@ -1,0 +1,71 @@
+---
+import Base from '../../layouts/Base.astro';
+import QuestionCard from '../../components/QuestionCard.astro';
+import Motif from '../../components/Motif.astro';
+import Icon from '../../components/Icon.astro';
+import Hint from '../../components/Hint.astro';
+import { allTopics, questionsForTopic, groupInfo, essayTitle, B } from '../../lib/data';
+export function getStaticPaths() {
+  return allTopics.map((t) => ({ params: { slug: t.slug }, props: { topic: t } }));
+}
+const { topic } = Astro.props;
+const qs = questionsForTopic(topic.slug);
+const current = qs.filter((q) => !q.notCurrentSpec);
+const years = [...new Set(qs.map((q) => q.year))].sort((a, b) => b - a);
+const papers = [...new Set(qs.map((q) => q.paper))].sort();
+const gi = groupInfo(topic.group);
+const essays = current.filter((q) => q.format === 'Essay' || (q.marks >= 9 && q.format === 'Synoptic'));
+const formats = [...new Set(current.map((q) => q.format))].filter(Boolean);
+const short = topic.name.split(' (')[0];
+const plain = (s: string) => s.replace(/\[synoptic link \d\]/gi, '').trim();
+---
+<Base title={`${short}: ${B.full} past-paper questions`} description={`Every ${B.short} A-level and AS Geography past-paper question on ${topic.name.charAt(0).toLowerCase() + topic.name.slice(1)} since ${B.since} (${current.length} parts), with the figures, mark schemes, examiner comments and every essay title set.`} context={`topic:${topic.slug}`}>
+  <div class="topic-head"><h1>{topic.name} <span class={`badge badge-${gi.badge}`}>{gi.short}</span></h1><Motif kind={gi.motif} /></div>
+  <div class="where">
+    <dl>
+      <dt>Part of</dt><dd>{topic.group}</dd>
+      <dt>Where it is examined</dt><dd>{gi.where}</dd>
+      <dt>Level</dt><dd>{topic.asOrA}</dd>
+      <dt>Specification</dt><dd>{topic.code}, {topic.statements.length} {B.id === 'edexcel' ? 'key idea' : 'content point'}{topic.statements.length === 1 ? '' : 's'}</dd>
+      <dt>Since {B.since}</dt><dd>{current.length} question parts, {essays.length} of them essays</dd>
+    </dl>
+  </div>
+  <div class="score-note" id="myscore" hidden></div>
+
+  <h2>Specification</h2>
+  <ul class="spec-list">{topic.statements.map((id) => <li><strong>{id}</strong> {plain(topic.statementText[id] || '')}{(topic.levels?.[id] === 'A level only' || (B.id === 'aqa' && !topic.asStatements?.includes(id))) && <span class="pill pill-hard" style="margin-left:.4rem">A level only</span>}</li>)}</ul>
+  <p class="muted small-text">In the board's own words. <a href="/specification/">Tick these off on the checklist</a>.</p>
+
+  {essays.length > 0 && <><h2>Every essay set on this topic</h2>
+  <div class="table-wrap"><table><thead><tr><th>Series</th><th>Paper</th><th>Q</th><th>Marks</th><th>Title</th></tr></thead>
+  <tbody>{essays.map((q) => <tr><td>{q.series}</td><td>{q.level === 'AS' ? 'AS ' : ''}{q.paper}</td><td><a href={`#${q.id}`}>{q.question}</a></td><td>{q.marks}</td><td>{essayTitle(q.text).slice(0, 260)}</td></tr>)}</tbody></table></div></>}
+
+  <h2>Past-paper questions</h2>
+  <p><a class="btn" href={`/questions/${topic.slug}/print/`}><Icon name="printer" />Print this topic as a pack</a></p>
+  <div class="filterbar"><div class="chips" role="group" aria-label="Filter">
+    <button class="chip" type="button" aria-pressed="true" data-filter="">All ({current.length})</button>
+    {formats.map((f) => <button class="chip" type="button" aria-pressed="false" data-filter={`format:${f}`}>{f}</button>)}
+    {papers.map((p) => <button class="chip" type="button" aria-pressed="false" data-filter={`paper:${p}`}>{p}</button>)}
+    <button class="chip" type="button" aria-pressed="false" data-filter="level:AS">AS</button>
+    <button class="chip" type="button" aria-pressed="false" data-filter="level:A level">A level</button>
+    {years.slice(0, 3).map((y) => <button class="chip" type="button" aria-pressed="false" data-filter={`year:${y}`}>{y}</button>)}
+  </div><div class="count" id="count"></div></div>
+  <Hint id="reveal" text="Tap a question to zoom it. The figures open above it; the mark scheme (with its levels and indicative content) and the examiner's comment open underneath." />
+  {qs.map((q) => <QuestionCard q={q} />)}
+
+  <script define:vars={{ slug: topic.slug, store: B.store }}>
+    try { const s = JSON.parse(localStorage.getItem(store + '-scores') || '{}')[slug]; if (s && s.total) { const el = document.getElementById('myscore'); el.hidden = false; el.innerHTML = `Your practice score on this topic: <strong>${s.earned}/${s.total}</strong> (${Math.round(100 * s.earned / s.total)}%) over ${s.n} question${s.n === 1 ? '' : 's'}. <a href="/practice/">Practise more</a>`; } } catch {}
+  </script>
+  <script>
+    const chips = document.querySelectorAll('.chip[data-filter]');
+    const cards = document.querySelectorAll('.qcard');
+    chips.forEach((c) => c.addEventListener('click', () => {
+      chips.forEach((x) => x.setAttribute('aria-pressed', 'false'));
+      c.setAttribute('aria-pressed', 'true');
+      const f = c.getAttribute('data-filter') || '';
+      const i = f.indexOf(':'); const key = f.slice(0, i), val = f.slice(i + 1);
+      cards.forEach((card) => { card.hidden = !!f && card.getAttribute('data-' + key) !== val; });
+      document.getElementById('count').textContent = `Showing ${[...cards].filter((c) => !c.hidden).length} of ${cards.length}`;
+    }));
+  </script>
+</Base>

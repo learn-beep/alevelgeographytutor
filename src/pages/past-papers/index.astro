@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allPapers, MATERIALS, B } from '../../lib/data';
+const order = (s) => { const [m, y] = s.split(' '); return Number(y) * 100 + (['June', 'October', 'November'].indexOf(m) + 1); };
+const seriesList = [...new Set(allPapers.filter((p) => p.kind === 'exam').map((p) => p.series))].sort((a, b) => order(b) - order(a));
+const specimens = allPapers.filter((p) => p.kind !== 'exam');
+const cell = (series, spec, n) => allPapers.find((p) => p.series === series && p.spec === spec && String(p.paperNo) === String(n));
+const firstYear = Math.min(...allPapers.filter((p) => p.kind === 'exam').map((p) => p.year));
+const lastYear = Math.max(...allPapers.map((p) => p.year));
+---
+<Base title={`${B.full} past papers (${B.alCode} and AS ${B.asCode}) ${firstYear}–${lastYear} with question-by-question tables`} description={`Every ${B.short} A-level and AS Geography past paper since ${firstYear}, question by question: topic, marks, AO split and type, with the questions, figures, mark schemes and examiner comments.`} context="past-papers">
+  <h1>{B.full} past papers</h1>
+  <p>Every {B.alCode} and {B.asCode} series since {firstYear}{specimens.length ? `, plus ${B.short}'s specimen papers` : ''}. Each paper page lists every question with its topic, marks, assessment objectives and type, and shows the questions with their {B.id === 'edexcel' ? 'resources' : 'figures'}, mark schemes and examiner's comments.</p>
+  <p class="muted">{B.pastPapersNote}</p>
+  <p><a class="btn" href={MATERIALS} rel="noopener">{B.short}'s own past-paper page</a></p>
+  <h2>A level ({B.alCode})</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Series</th>{B.alPapers.map((p) => <th>{p[1].split(':')[0]}</th>)}</tr></thead>
+    <tbody>{seriesList.filter((s) => B.alPapers.some((p) => cell(s, B.alCode, p[0]))).map((s) => <tr><td>{s}</td>{B.alPapers.map((pp) => { const p = cell(s, B.alCode, pp[0]); return <td>{p ? <a href={`/past-papers/${p.slug}/`}>{pp[1].split(': ')[1]}</a> : '—'}</td>; })}</tr>)}</tbody>
+  </table></div>
+  <h2 id="as">AS ({B.asCode})</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Series</th>{B.asPapers.map((p) => <th>{p[1].split(':')[0]}</th>)}</tr></thead>
+    <tbody>{seriesList.filter((s) => B.asPapers.some((p) => cell(s, B.asCode, p[0]))).map((s) => <tr><td>{s}</td>{B.asPapers.map((pp) => { const p = cell(s, B.asCode, pp[0]); return <td>{p ? <a href={`/past-papers/${p.slug}/`}>{pp[1].split(': ')[1]}</a> : '—'}</td>; })}</tr>)}</tbody>
+  </table></div>
+  {specimens.length > 0 && <><h2>Specimen papers</h2><ul>{specimens.map((p) => <li><a href={`/past-papers/${p.slug}/`}>{p.qual === 'AS' ? 'AS ' : 'A level '}{p.paper} ({p.series})</a></li>)}</ul></>}
+</Base>

@@ -1,0 +1,2171 @@
+[
+{
+"slug": "water-cycle",
+"name": "The water cycle and drainage basins",
+"group": "Water and carbon cycles",
+"strand": "Water and carbon cycles",
+"paper": "Water and carbon cycles",
+"code": "3.1.1.1, 3.1.1.2",
+"option": null,
+"statements": [
+"3.1.1.1-01",
+"3.1.1.2-01",
+"3.1.1.2-02",
+"3.1.1.2-03",
+"3.1.1.2-04",
+"3.1.1.2-05"
+],
+"statementText": {
+"3.1.1.1-01": "Systems in physical geography: systems concepts and their application to the water and carbon cycles inputs – outputs, energy, stores/components, flows/transfers, positive/negative feedback, dynamic equilibrium.",
+"3.1.1.2-01": "Global distribution and size of major stores of water – lithosphere, hydrosphere, cryosphere and atmosphere.",
+"3.1.1.2-02": "Processes driving change in the magnitude of these stores over time and space, including flows and transfers: evaporation, condensation, cloud formation, causes of precipitation and cryospheric processes at hill slope, drainage basin and global scales with reference to varying timescales involved.",
+"3.1.1.2-03": "Drainage basins as open systems – inputs and outputs, to include precipitation, evapo-transpiration and runoff; stores and flows, to include interception, surface, soil water, groundwater and channel storage; stemflow, infiltration overland flow, and channel flow. Concept of water balance.",
+"3.1.1.2-04": "Runoff variation and the flood hydrograph.",
+"3.1.1.2-05": "Changes in the water cycle over time to include natural variation including storm events, seasonal changes and human impact including farming practices, land use change and water abstraction."
+},
+"statementShort": {
+"3.1.1.1-01": "",
+"3.1.1.2-01": "",
+"3.1.1.2-02": "",
+"3.1.1.2-03": "",
+"3.1.1.2-04": "",
+"3.1.1.2-05": ""
+},
+"asStatements": [
+"3.1.1.1-01",
+"3.1.1.2-01",
+"3.1.1.2-02",
+"3.1.1.2-03",
+"3.1.1.2-04",
+"3.1.1.2-05"
+],
+"levels": {
+"3.1.1.1-01": null,
+"3.1.1.2-01": null,
+"3.1.1.2-02": null,
+"3.1.1.2-03": null,
+"3.1.1.2-04": null,
+"3.1.1.2-05": null
+},
+"parts": 49,
+"marks": 323,
+"essays": 8,
+"mcq": 13,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "carbon-cycle",
+"name": "The carbon cycle",
+"group": "Water and carbon cycles",
+"strand": "Water and carbon cycles",
+"paper": "Water and carbon cycles",
+"code": "3.1.1.3",
+"option": null,
+"statements": [
+"3.1.1.3-01",
+"3.1.1.3-02",
+"3.1.1.3-03",
+"3.1.1.3-04"
+],
+"statementText": {
+"3.1.1.3-01": "Global distribution, and size of major stores of carbon – lithosphere, hydrosphere, cryosphere biosphere, atmosphere.",
+"3.1.1.3-02": "Factors driving change in the magnitude of these stores over time and space, including flows and transfers at plant, sere and continental scales. Photosynthesis, respiration, decomposition, combustion, carbon sequestration in oceans and sediments, weathering.",
+"3.1.1.3-03": "Changes in the carbon cycle over time, to include natural variation (including wild fires, volcanic activity) and human impact (including hydrocarbon fuel extraction and burning, farming practices, deforestation, land use changes).",
+"3.1.1.3-04": "The carbon budget and the impact of the carbon cycle upon land, ocean and atmosphere, including global climate."
+},
+"statementShort": {
+"3.1.1.3-01": "",
+"3.1.1.3-02": "",
+"3.1.1.3-03": "",
+"3.1.1.3-04": ""
+},
+"asStatements": [
+"3.1.1.3-01",
+"3.1.1.3-02",
+"3.1.1.3-03",
+"3.1.1.3-04"
+],
+"levels": {
+"3.1.1.3-01": null,
+"3.1.1.3-02": null,
+"3.1.1.3-03": null,
+"3.1.1.3-04": null
+},
+"parts": 37,
+"marks": 366,
+"essays": 11,
+"mcq": 4,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "water-carbon-climate",
+"name": "Water, carbon, climate and life on Earth",
+"group": "Water and carbon cycles",
+"strand": "Water and carbon cycles",
+"paper": "Water and carbon cycles",
+"code": "3.1.1.4, 3.1.1.5, 3.1.1.6",
+"option": null,
+"statements": [
+"3.1.1.4-01",
+"3.1.1.4-02",
+"3.1.1.5-01",
+"3.1.1.6-01",
+"3.1.1.6-02"
+],
+"statementText": {
+"3.1.1.4-01": "The key role of the carbon and water stores and cycles in supporting life on Earth with particular reference to climate. The relationship between the water cycle and carbon cycle in the atmosphere. The role of feedbacks within and between cycles and their link to climate change and implications for life on Earth.",
+"3.1.1.4-02": "Human interventions in the carbon cycle designed to influence carbon transfers and mitigate the impacts of climate change.",
+"3.1.1.5-01": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme water and carbon cycles. Students must specifically understand simple mass balance, unit conversions and the analysis and presentation of field data.",
+"3.1.1.6-01": "Case study of a tropical rainforest setting to illustrate and analyse key themes in water and carbon cycles and their relationship to environmental change and human activity.",
+"3.1.1.6-02": "Case study of a river catchment(s) at a local scale to illustrate and analyse the key themes above, engage with field data and consider the impact of precipitation upon drainage basin stores and transfers and implications for sustainable water supply and/or flooding."
+},
+"statementShort": {
+"3.1.1.4-01": "",
+"3.1.1.4-02": "",
+"3.1.1.5-01": "",
+"3.1.1.6-01": "",
+"3.1.1.6-02": ""
+},
+"asStatements": [
+"3.1.1.4-01",
+"3.1.1.4-02",
+"3.1.1.5-01",
+"3.1.1.6-01",
+"3.1.1.6-02"
+],
+"levels": {
+"3.1.1.4-01": null,
+"3.1.1.4-02": null,
+"3.1.1.5-01": null,
+"3.1.1.6-01": null,
+"3.1.1.6-02": null
+},
+"parts": 37,
+"marks": 453,
+"essays": 16,
+"mcq": 2,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "desert-systems",
+"name": "Deserts as systems: processes and sediment",
+"group": "Hot desert systems and landscapes",
+"strand": "Hot desert systems and landscapes",
+"paper": "Hot desert systems and landscapes",
+"code": "3.1.2.1, 3.1.2.2",
+"option": null,
+"statements": [
+"3.1.2.1-01",
+"3.1.2.1-02",
+"3.1.2.1-03",
+"3.1.2.1-04",
+"3.1.2.2-01",
+"3.1.2.2-02",
+"3.1.2.2-03",
+"3.1.2.2-04",
+"3.1.2.2-05",
+"3.1.2.2-06"
+],
+"statementText": {
+"3.1.2.1-01": "Systems in physical geography: systems concepts and their application to the development of desert landscapes – inputs, outputs, energy, stores/components, flows/transfers, positive/negative feedback, dynamic equilibrium. The concepts of landform and landscape and how related landforms combine to form characteristic landscapes.",
+"3.1.2.1-02": "The global distribution of mid and low latitude deserts and their margins (arid and semi-arid).",
+"3.1.2.1-03": "Characteristics of hot desert environments and their margins: climate, soils and vegetation (and their interaction). Water balance and aridity index.",
+"3.1.2.1-04": "The causes of aridity: atmospheric processes relating to pressure, winds, continentality, relief and cold ocean currents.",
+"3.1.2.2-01": "Sources of energy in hot desert environments: insolation, winds, runoff.",
+"3.1.2.2-02": "Sediment sources, cells and budgets.",
+"3.1.2.2-03": "Geomorphological processes: weathering, mass movement, erosion, transportation and deposition.",
+"3.1.2.2-04": "Distinctively arid geomorphological processes: weathering (thermal fracture, exfoliation, chemical weathering, block and granular disintegration).",
+"3.1.2.2-05": "The role of wind – erosion: deflation and abrasion; transportation; suspension, saltation, surface creep, deposition.",
+"3.1.2.2-06": "Sources of water: exogenous, endoreic and ephemeral; the episodic role of water; sheet flooding, channel flash flooding."
+},
+"statementShort": {
+"3.1.2.1-01": "",
+"3.1.2.1-02": "",
+"3.1.2.1-03": "",
+"3.1.2.1-04": "",
+"3.1.2.2-01": "",
+"3.1.2.2-02": "",
+"3.1.2.2-03": "",
+"3.1.2.2-04": "",
+"3.1.2.2-05": "",
+"3.1.2.2-06": ""
+},
+"asStatements": [],
+"levels": {
+"3.1.2.1-01": null,
+"3.1.2.1-02": null,
+"3.1.2.1-03": null,
+"3.1.2.1-04": null,
+"3.1.2.2-01": null,
+"3.1.2.2-02": null,
+"3.1.2.2-03": null,
+"3.1.2.2-04": null,
+"3.1.2.2-05": null,
+"3.1.2.2-06": null
+},
+"parts": 25,
+"marks": 232,
+"essays": 7,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "arid-landscapes",
+"name": "Arid landforms and landscapes",
+"group": "Hot desert systems and landscapes",
+"strand": "Hot desert systems and landscapes",
+"paper": "Hot desert systems and landscapes",
+"code": "3.1.2.3",
+"option": null,
+"statements": [
+"3.1.2.3-01",
+"3.1.2.3-02"
+],
+"statementText": {
+"3.1.2.3-01": "Origin and development of landforms of mid and low latitude deserts: aeolian – deflation hollows, desert pavements, ventifacts, yardangs, zeugen, barchans and seif dunes; water – wadis, bahadas, pediments, playas, inselbergs.",
+"3.1.2.3-02": "The relationship between process, time, landforms and landscapes in mid and low latitude desert settings: characteristic desert landscapes."
+},
+"statementShort": {
+"3.1.2.3-01": "",
+"3.1.2.3-02": ""
+},
+"asStatements": [],
+"levels": {
+"3.1.2.3-01": null,
+"3.1.2.3-02": null
+},
+"parts": 10,
+"marks": 100,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "desertification",
+"name": "Desertification",
+"group": "Hot desert systems and landscapes",
+"strand": "Hot desert systems and landscapes",
+"paper": "Hot desert systems and landscapes",
+"code": "3.1.2.4, 3.1.2.5, 3.1.2.6",
+"option": null,
+"statements": [
+"3.1.2.4-01",
+"3.1.2.5-01",
+"3.1.2.6-01",
+"3.1.2.6-02"
+],
+"statementText": {
+"3.1.2.4-01": "The changing extent and distribution of hot deserts over the last 10,000 years. The causes of desertification – climate change and human impact; distribution of areas at risk; impact on ecosystems, landscapes and populations. Predicted climate change and its impacts; alternative possible futures for local populations.",
+"3.1.2.5-01": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme landscape systems. These should include observation skills, measurement and geospatial mapping skills and data manipulation and statistical skills applied to field measurements.",
+"3.1.2.6-01": "Case study of a hot desert environment setting to illustrate and analyse key themes set out above and engage with field data (exemplifying field data may be gathered in settings that experience some of the aeolian processes associated with mid and low latitude desert environments such as coastal dunes).",
+"3.1.2.6-02": "Case study at a local scale of a landscape where desertification has occurred to illustrate and analyse key themes of desertification, causes and impacts, implications for sustainable development. Evaluation of human responses of resilience, mitigation and adaptation."
+},
+"statementShort": {
+"3.1.2.4-01": "",
+"3.1.2.5-01": "",
+"3.1.2.6-01": "",
+"3.1.2.6-02": ""
+},
+"asStatements": [],
+"levels": {
+"3.1.2.4-01": null,
+"3.1.2.5-01": null,
+"3.1.2.6-01": null,
+"3.1.2.6-02": null
+},
+"parts": 16,
+"marks": 180,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "coastal-systems",
+"name": "Coastal systems and processes",
+"group": "Coastal systems and landscapes",
+"strand": "Coastal systems and landscapes",
+"paper": "Coastal systems and landscapes",
+"code": "3.1.3.1, 3.1.3.2",
+"option": null,
+"statements": [
+"3.1.3.1-01",
+"3.1.3.2-01",
+"3.1.3.2-02",
+"3.1.3.2-03",
+"3.1.3.2-04"
+],
+"statementText": {
+"3.1.3.1-01": "Systems in physical geography: systems concepts and their application to the development of coastal landscapes – inputs, outputs, energy, stores/components, flows/transfers, positive/negative feedback, dynamic equilibrium. The concepts of landform and landscape and how related landforms combine to form characteristic landscapes.",
+"3.1.3.2-01": "Sources of energy in coastal environments: winds, waves (constructive and destructive), currents and tides. Low energy and high energy coasts.",
+"3.1.3.2-02": "Sediment sources, cells and budgets.",
+"3.1.3.2-03": "Geomorphological processes: weathering, mass movement, erosion, transportation and deposition.",
+"3.1.3.2-04": "Distinctively coastal processes: marine: erosion – hydraulic action, wave quarrying, corrasion/ abrasion, cavitation, solution, attrition; transportation: traction, suspension (longshore/littoral drift) and deposition; sub-aerial weathering, mass movement and runoff."
+},
+"statementShort": {
+"3.1.3.1-01": "",
+"3.1.3.2-01": "",
+"3.1.3.2-02": "",
+"3.1.3.2-03": "",
+"3.1.3.2-04": ""
+},
+"asStatements": [
+"3.1.3.1-01",
+"3.1.3.2-01",
+"3.1.3.2-02",
+"3.1.3.2-03",
+"3.1.3.2-04"
+],
+"levels": {
+"3.1.3.1-01": null,
+"3.1.3.2-01": null,
+"3.1.3.2-02": null,
+"3.1.3.2-03": null,
+"3.1.3.2-04": null
+},
+"parts": 35,
+"marks": 196,
+"essays": 3,
+"mcq": 9,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "coastal-landforms",
+"name": "Coastal landforms and landscapes",
+"group": "Coastal systems and landscapes",
+"strand": "Coastal systems and landscapes",
+"paper": "Coastal systems and landscapes",
+"code": "3.1.3.3",
+"option": null,
+"statements": [
+"3.1.3.3-01",
+"3.1.3.3-02",
+"3.1.3.3-03",
+"3.1.3.3-04",
+"3.1.3.3-05",
+"3.1.3.3-06",
+"3.1.3.3-07"
+],
+"statementText": {
+"3.1.3.3-01": "Origin and development of landforms and landscapes of coastal erosion: cliffs and wave cut platforms, cliff profile features including caves, arches and stacks; factors and processes in their development.",
+"3.1.3.3-02": "Origin and development of landforms and landscapes of coastal deposition. Beaches, simple and compound spits, tombolos, offshore bars, barrier beaches and islands and sand dunes; factors and processes in their development.",
+"3.1.3.3-03": "Estuarine mudflat/saltmarsh environments and associated landscapes; factors and processes in their development.",
+"3.1.3.3-04": "Eustatic, isostatic and tectonic sea level change: major changes in sea level in the last 10,000 years.",
+"3.1.3.3-05": "Coastlines of emergence and submergence. Origin and development of associated landforms: raised beaches, marine platforms; rias, fjords, Dalmatian coasts.",
+"3.1.3.3-06": "Recent and predicted climatic change and potential impact on coasts.",
+"3.1.3.3-07": "The relationship between process, time, landforms and landscapes in coastal settings."
+},
+"statementShort": {
+"3.1.3.3-01": "",
+"3.1.3.3-02": "",
+"3.1.3.3-03": "",
+"3.1.3.3-04": "",
+"3.1.3.3-05": "",
+"3.1.3.3-06": "",
+"3.1.3.3-07": ""
+},
+"asStatements": [
+"3.1.3.3-01",
+"3.1.3.3-02",
+"3.1.3.3-03",
+"3.1.3.3-04",
+"3.1.3.3-05",
+"3.1.3.3-06",
+"3.1.3.3-07"
+],
+"levels": {
+"3.1.3.3-01": null,
+"3.1.3.3-02": null,
+"3.1.3.3-03": null,
+"3.1.3.3-04": null,
+"3.1.3.3-05": null,
+"3.1.3.3-06": null,
+"3.1.3.3-07": null
+},
+"parts": 55,
+"marks": 505,
+"essays": 15,
+"mcq": 8,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "coastal-management",
+"name": "Coastal management",
+"group": "Coastal systems and landscapes",
+"strand": "Coastal systems and landscapes",
+"paper": "Coastal systems and landscapes",
+"code": "3.1.3.4, 3.1.3.5, 3.1.3.6",
+"option": null,
+"statements": [
+"3.1.3.4-01",
+"3.1.3.5-01",
+"3.1.3.6-01",
+"3.1.3.6-02"
+],
+"statementText": {
+"3.1.3.4-01": "Human intervention in coastal landscapes. Traditional approaches to coastal flood and erosion risk: hard and soft engineering. Sustainable approaches to coastal flood risk and coastal erosion management: shoreline management/integrated coastal zone management.",
+"3.1.3.5-01": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme landscape systems. These should include observation skills, measurement and geospatial mapping skills and data manipulation and statistical skills applied to field measurements.",
+"3.1.3.6-01": "Case study(ies) of coastal environment(s) at a local scale to illustrate and analyse fundamental coastal processes, their landscape outcomes as set out above and engage with field data and challenges represented in their sustainable management.",
+"3.1.3.6-02": "Case study of a contrasting coastal landscape beyond the UK to illustrate and analyse how it presents risks and opportunities for human occupation and development and evaluate human responses of resilience, mitigation and adaptation."
+},
+"statementShort": {
+"3.1.3.4-01": "",
+"3.1.3.5-01": "",
+"3.1.3.6-01": "",
+"3.1.3.6-02": ""
+},
+"asStatements": [
+"3.1.3.4-01",
+"3.1.3.5-01",
+"3.1.3.6-01",
+"3.1.3.6-02"
+],
+"levels": {
+"3.1.3.4-01": null,
+"3.1.3.5-01": null,
+"3.1.3.6-01": null,
+"3.1.3.6-02": null
+},
+"parts": 25,
+"marks": 330,
+"essays": 13,
+"mcq": 1,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "glacial-systems",
+"name": "Glacial systems and processes",
+"group": "Glacial systems and landscapes",
+"strand": "Glacial systems and landscapes",
+"paper": "Glacial systems and landscapes",
+"code": "3.1.4.1, 3.1.4.2, 3.1.4.3",
+"option": null,
+"statements": [
+"3.1.4.1-01",
+"3.1.4.2-01",
+"3.1.4.2-02",
+"3.1.4.2-03",
+"3.1.4.3-01",
+"3.1.4.3-02",
+"3.1.4.3-03",
+"3.1.4.3-04",
+"3.1.4.3-05",
+"3.1.4.3-06"
+],
+"statementText": {
+"3.1.4.1-01": "Systems in physical geography: systems concepts and their application to the development of glaciated landscapes – inputs, outputs, energy, stores/components, flows/transfers, positive/ negative feedback, dynamic equilibrium. The concepts of landform and landscape and how related landforms combine to form characteristic landscapes.",
+"3.1.4.2-01": "The global distribution of cold environments.",
+"3.1.4.2-02": "Physical characteristics of cold environments. Climate, soils and vegetation (and their interaction).",
+"3.1.4.2-03": "The global distribution of past and present cold environments (polar, alpine, glacial and periglacial) and of areas affected by the Pleistocene glaciations.",
+"3.1.4.3-01": "Glacial systems including glacial budgets.",
+"3.1.4.3-02": "Ablation and accumulation – historical patterns of ice advance and retreat.",
+"3.1.4.3-03": "Warm and cold based glaciers: characteristics and development.",
+"3.1.4.3-04": "Geomorphological processes – weathering: frost action, nivation; ice movement: internal deformation, rotational, compressional, extensional and basal sliding; erosion: plucking, abrasion; transportation and deposition.",
+"3.1.4.3-05": "Fluvioglacial processes: meltwater, erosion transportation and deposition.",
+"3.1.4.3-06": "Periglacial features and processes: permafrost, active layer and mass movement."
+},
+"statementShort": {
+"3.1.4.1-01": "",
+"3.1.4.2-01": "",
+"3.1.4.2-02": "",
+"3.1.4.2-03": "",
+"3.1.4.3-01": "",
+"3.1.4.3-02": "",
+"3.1.4.3-03": "",
+"3.1.4.3-04": "",
+"3.1.4.3-05": "",
+"3.1.4.3-06": ""
+},
+"asStatements": [
+"3.1.4.1-01",
+"3.1.4.2-01",
+"3.1.4.2-02",
+"3.1.4.2-03",
+"3.1.4.3-01",
+"3.1.4.3-02",
+"3.1.4.3-03",
+"3.1.4.3-04",
+"3.1.4.3-05",
+"3.1.4.3-06"
+],
+"levels": {
+"3.1.4.1-01": null,
+"3.1.4.2-01": null,
+"3.1.4.2-02": null,
+"3.1.4.2-03": null,
+"3.1.4.3-01": null,
+"3.1.4.3-02": null,
+"3.1.4.3-03": null,
+"3.1.4.3-04": null,
+"3.1.4.3-05": null,
+"3.1.4.3-06": null
+},
+"parts": 64,
+"marks": 396,
+"essays": 6,
+"mcq": 13,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "glaciated-landscapes",
+"name": "Glaciated landforms and landscapes",
+"group": "Glacial systems and landscapes",
+"strand": "Glacial systems and landscapes",
+"paper": "Glacial systems and landscapes",
+"code": "3.1.4.4",
+"option": null,
+"statements": [
+"3.1.4.4-01",
+"3.1.4.4-02",
+"3.1.4.4-03",
+"3.1.4.4-04",
+"3.1.4.4-05",
+"3.1.4.4-06"
+],
+"statementText": {
+"3.1.4.4-01": "Origin and development of glaciated landscapes.",
+"3.1.4.4-02": "Erosional and depositional landforms: corries, arêtes, glacial troughs, hanging valleys, truncated spurs, roches moutonnées. Characteristic glaciated landscapes.",
+"3.1.4.4-03": "Origin and development of landforms and landscapes of glacial deposition: drumlins, erratics, moraines, till plains. Characteristic glaciated landscapes.",
+"3.1.4.4-04": "Fluvioglacial landforms of erosion and deposition: meltwater channels, kames, eskers, outwash plains. Characteristic fluvioglacial landscapes.",
+"3.1.4.4-05": "Periglacial landforms: patterned ground, ice wedges, pingos, blockfields, solifluction, lobes, terracettes, thermokarst. Characteristic periglacial landscapes.",
+"3.1.4.4-06": "The relationship between process, time, landforms and landscapes in glaciated settings: characteristic glaciated and periglacial landscapes."
+},
+"statementShort": {
+"3.1.4.4-01": "",
+"3.1.4.4-02": "",
+"3.1.4.4-03": "",
+"3.1.4.4-04": "",
+"3.1.4.4-05": "",
+"3.1.4.4-06": ""
+},
+"asStatements": [
+"3.1.4.4-01",
+"3.1.4.4-02",
+"3.1.4.4-03",
+"3.1.4.4-04",
+"3.1.4.4-05",
+"3.1.4.4-06"
+],
+"levels": {
+"3.1.4.4-01": null,
+"3.1.4.4-02": null,
+"3.1.4.4-03": null,
+"3.1.4.4-04": null,
+"3.1.4.4-05": null,
+"3.1.4.4-06": null
+},
+"parts": 31,
+"marks": 268,
+"essays": 8,
+"mcq": 5,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "cold-environments",
+"name": "Human impacts on cold environments",
+"group": "Glacial systems and landscapes",
+"strand": "Glacial systems and landscapes",
+"paper": "Glacial systems and landscapes",
+"code": "3.1.4.5, 3.1.4.6, 3.1.4.7",
+"option": null,
+"statements": [
+"3.1.4.5-01",
+"3.1.4.6-01",
+"3.1.4.7-01",
+"3.1.4.7-02"
+],
+"statementText": {
+"3.1.4.5-01": "Concept of environmental fragility. Human impacts on fragile cold environments over time and at a variety of scales. Recent and prospective impact of climate change. Management of cold environments at present and in alternative possible futures.",
+"3.1.4.6-01": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme landscape systems. These should include observation skills, measurement and geospatial mapping skills and data manipulation and statistical skills applied to field measurements.",
+"3.1.4.7-01": "Case study(ies) of glaciated environment(s) at a local scale to illustrate and analyse fundamental glacial processes, their landscape outcomes as set out above and engage with field data.",
+"3.1.4.7-02": "Case study of a contrasting glaciated landscape from beyond the UK to illustrate and analyse how it presents challenges and opportunities for human occupation and development and evaluate human responses of resilience, mitigation and adaptation."
+},
+"statementShort": {
+"3.1.4.5-01": "",
+"3.1.4.6-01": "",
+"3.1.4.7-01": "",
+"3.1.4.7-02": ""
+},
+"asStatements": [
+"3.1.4.5-01",
+"3.1.4.6-01",
+"3.1.4.7-01",
+"3.1.4.7-02"
+],
+"levels": {
+"3.1.4.5-01": null,
+"3.1.4.6-01": null,
+"3.1.4.7-01": null,
+"3.1.4.7-02": null
+},
+"parts": 28,
+"marks": 381,
+"essays": 15,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "hazard-concept",
+"name": "Hazards: concepts, perception and management",
+"group": "Hazards",
+"strand": "Hazards",
+"paper": "Hazards",
+"code": "3.1.5.1",
+"option": null,
+"statements": [
+"3.1.5.1-01"
+],
+"statementText": {
+"3.1.5.1-01": "Nature, forms and potential impacts of natural hazards (geophysical, atmospheric and hydrological). Hazard perception and its economic and cultural determinants. Characteristic human responses – fatalism, prediction, adjustment/adaptation, mitigation, management, risk sharing – and their relationship to hazard incidence, intensity, magnitude, distribution and level of development. The Park model of human response to hazards. The Hazard Management Cycle."
+},
+"statementShort": {
+"3.1.5.1-01": ""
+},
+"asStatements": [
+"3.1.5.1-01"
+],
+"levels": {
+"3.1.5.1-01": null
+},
+"parts": 17,
+"marks": 186,
+"essays": 7,
+"mcq": 2,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "plate-tectonics",
+"name": "Plate tectonics",
+"group": "Hazards",
+"strand": "Hazards",
+"paper": "Hazards",
+"code": "3.1.5.2",
+"option": null,
+"statements": [
+"3.1.5.2-01",
+"3.1.5.2-02",
+"3.1.5.2-03"
+],
+"statementText": {
+"3.1.5.2-01": "Earth structure and internal energy sources. Plate tectonic theory of crustal evolution: tectonic plates; plate movement; gravitational sliding; ridge push, slab pull; convection currents and sea-floor spreading.",
+"3.1.5.2-02": "Destructive, constructive and conservative plate margins. Characteristic processes: seismicity and vulcanicity. Associated landforms: young fold mountains, rift valleys, ocean ridges, deep sea trenches and island arcs, volcanoes.",
+"3.1.5.2-03": "Magma plumes and their relationship to plate movement."
+},
+"statementShort": {
+"3.1.5.2-01": "",
+"3.1.5.2-02": "",
+"3.1.5.2-03": ""
+},
+"asStatements": [
+"3.1.5.2-01",
+"3.1.5.2-02",
+"3.1.5.2-03"
+],
+"levels": {
+"3.1.5.2-01": null,
+"3.1.5.2-02": null,
+"3.1.5.2-03": null
+},
+"parts": 17,
+"marks": 78,
+"essays": 2,
+"mcq": 8,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "volcanic-hazards",
+"name": "Volcanic hazards",
+"group": "Hazards",
+"strand": "Hazards",
+"paper": "Hazards",
+"code": "3.1.5.3",
+"option": null,
+"statements": [
+"3.1.5.3-01",
+"3.1.5.3-02",
+"3.1.5.3-03"
+],
+"statementText": {
+"3.1.5.3-01": "The nature of vulcanicity and its relation to plate tectonics: forms of volcanic hazard: nuées ardentes, lava flows, mudflows, pyroclastic and ash fallout, gases/acid rain, tephra. Spatial distribution, magnitude, frequency, regularity and predictability of hazard events.",
+"3.1.5.3-02": "Impacts: primary/secondary, environmental, social, economic, political. Short and long-term responses: risk management designed to reduce the impacts of the hazard through preparedness, mitigation, prevention and adaptation.",
+"3.1.5.3-03": "Impacts and human responses as evidenced by a recent volcanic event."
+},
+"statementShort": {
+"3.1.5.3-01": "",
+"3.1.5.3-02": "",
+"3.1.5.3-03": ""
+},
+"asStatements": [
+"3.1.5.3-01",
+"3.1.5.3-02",
+"3.1.5.3-03"
+],
+"levels": {
+"3.1.5.3-01": null,
+"3.1.5.3-02": null,
+"3.1.5.3-03": null
+},
+"parts": 23,
+"marks": 169,
+"essays": 3,
+"mcq": 6,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "seismic-hazards",
+"name": "Seismic hazards: earthquakes and tsunamis",
+"group": "Hazards",
+"strand": "Hazards",
+"paper": "Hazards",
+"code": "3.1.5.4",
+"option": null,
+"statements": [
+"3.1.5.4-01",
+"3.1.5.4-02",
+"3.1.5.4-03"
+],
+"statementText": {
+"3.1.5.4-01": "The nature of seismicity and its relation to plate tectonics: forms of seismic hazard: earthquakes, shockwaves, tsunamis, liquefaction, landslides. Spatial distribution, randomness, magnitude, frequency, regularity, predictability of hazard events.",
+"3.1.5.4-02": "Impacts: primary/secondary; environmental, social, economic, political. Short and long-term responses; risk management designed to reduce the impacts of the hazard through preparedness, mitigation, prevention and adaptation.",
+"3.1.5.4-03": "Impacts and human responses as evidenced by a recent seismic event."
+},
+"statementShort": {
+"3.1.5.4-01": "",
+"3.1.5.4-02": "",
+"3.1.5.4-03": ""
+},
+"asStatements": [
+"3.1.5.4-01",
+"3.1.5.4-02",
+"3.1.5.4-03"
+],
+"levels": {
+"3.1.5.4-01": null,
+"3.1.5.4-02": null,
+"3.1.5.4-03": null
+},
+"parts": 25,
+"marks": 219,
+"essays": 5,
+"mcq": 4,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "storm-hazards",
+"name": "Storm hazards: tropical cyclones",
+"group": "Hazards",
+"strand": "Hazards",
+"paper": "Hazards",
+"code": "3.1.5.5",
+"option": null,
+"statements": [
+"3.1.5.5-01",
+"3.1.5.5-02",
+"3.1.5.5-03"
+],
+"statementText": {
+"3.1.5.5-01": "The nature of tropical storms and their underlying causes. Forms of storm hazard: high winds, storm surges, coastal flooding, river flooding and landslides. Spatial distribution, magnitude, frequency, regularity, predictability of hazard events.",
+"3.1.5.5-02": "Impacts: primary/secondary, environmental, social, economic, political. Short and long-term responses: risk management designed to reduce the impacts of the hazard through preparedness, mitigation, prevention and adaptation.",
+"3.1.5.5-03": "Impacts and human responses as evidenced by two recent tropical storms in contrasting areas of the world."
+},
+"statementShort": {
+"3.1.5.5-01": "",
+"3.1.5.5-02": "",
+"3.1.5.5-03": ""
+},
+"asStatements": [
+"3.1.5.5-01",
+"3.1.5.5-02",
+"3.1.5.5-03"
+],
+"levels": {
+"3.1.5.5-01": null,
+"3.1.5.5-02": null,
+"3.1.5.5-03": null
+},
+"parts": 20,
+"marks": 179,
+"essays": 4,
+"mcq": 3,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "wildfires",
+"name": "Fires in nature (wildfires)",
+"group": "Hazards",
+"strand": "Hazards",
+"paper": "Hazards",
+"code": "3.1.5.6, 3.1.5.7",
+"option": null,
+"statements": [
+"3.1.5.6-01",
+"3.1.5.6-02",
+"3.1.5.7-01",
+"3.1.5.7-02"
+],
+"statementText": {
+"3.1.5.6-01": "Nature of wildfires. Conditions favouring intense wild fires: vegetation type, fuel characteristics, climate and recent weather and fire behaviour. Causes of fires: natural and human agency. Impacts: primary/secondary, environmental, social, economic, political. Short and long-term responses; risk management designed to reduce the impacts of the hazard through preparedness, mitigation, prevention and adaptation.",
+"3.1.5.6-02": "Impact and human responses as evidenced by a recent wild fire event.",
+"3.1.5.7-01": "Case study of a multi-hazardous environment beyond the UK to illustrate and analyse the nature of the hazards and the social, economic and environmental risks presented, and how human qualities and responses such as resilience, adaptation, mitigation and management contribute to its continuing human occupation.",
+"3.1.5.7-02": "Case study at a local scale of a specified place in a hazardous setting to illustrate the physical nature of the hazard and analyse how the economic, social and political character of its community reflects the presence and impacts of the hazard and the community’s response to the risk."
+},
+"statementShort": {
+"3.1.5.6-01": "",
+"3.1.5.6-02": "",
+"3.1.5.7-01": "",
+"3.1.5.7-02": ""
+},
+"asStatements": [
+"3.1.5.6-01",
+"3.1.5.6-02",
+"3.1.5.7-01",
+"3.1.5.7-02"
+],
+"levels": {
+"3.1.5.6-01": null,
+"3.1.5.6-02": null,
+"3.1.5.7-01": null,
+"3.1.5.7-02": null
+},
+"parts": 20,
+"marks": 232,
+"essays": 8,
+"mcq": 3,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "ecosystems-processes",
+"name": "Ecosystems: processes and sustainability",
+"group": "Ecosystems under stress",
+"strand": "Ecosystems under stress",
+"paper": "Ecosystems under stress",
+"code": "3.1.6.1, 3.1.6.2",
+"option": null,
+"statements": [
+"3.1.6.1-01",
+"3.1.6.1-02",
+"3.1.6.2-01",
+"3.1.6.2-02",
+"3.1.6.2-03",
+"3.1.6.2-04",
+"3.1.6.2-05",
+"3.1.6.2-06"
+],
+"statementText": {
+"3.1.6.1-01": "The concept of biodiversity. Local and global trends in biodiversity. Causes, rates and potential impacts of declining biodiversity.",
+"3.1.6.1-02": "Ecosystems and their importance for human populations in the light of continuing population growth and economic development. Human populations in ecosystem development and sustainability.",
+"3.1.6.2-01": "Nature of ecosystems – their structure, energy flows, trophic levels, food chains and food webs.",
+"3.1.6.2-02": "Application of systems concepts to ecosystems – inputs, outputs, stores and transfers of energy and materials. Concepts of biomass and net primary production.",
+"3.1.6.2-03": "Concepts of succession: seral stages, climatic climax, sub-climax and plagioclimax.",
+"3.1.6.2-04": "Mineral nutrient cycling.",
+"3.1.6.2-05": "Nature of terrestrial ecosystems and the inter-connections between climate, vegetation, soil and topography which produce them. Ecosystem responses to changes in one or more of their components or environmental controls.",
+"3.1.6.2-06": "Factors influencing the changing of ecosystems, including climate change and human exploitation of the global environment."
+},
+"statementShort": {
+"3.1.6.1-01": "",
+"3.1.6.1-02": "",
+"3.1.6.2-01": "",
+"3.1.6.2-02": "",
+"3.1.6.2-03": "",
+"3.1.6.2-04": "",
+"3.1.6.2-05": "",
+"3.1.6.2-06": ""
+},
+"asStatements": [],
+"levels": {
+"3.1.6.1-01": null,
+"3.1.6.1-02": null,
+"3.1.6.2-01": null,
+"3.1.6.2-02": null,
+"3.1.6.2-03": null,
+"3.1.6.2-04": null,
+"3.1.6.2-05": null,
+"3.1.6.2-06": null
+},
+"parts": 31,
+"marks": 212,
+"essays": 3,
+"mcq": 6,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "biomes",
+"name": "Biomes",
+"group": "Ecosystems under stress",
+"strand": "Ecosystems under stress",
+"paper": "Ecosystems under stress",
+"code": "3.1.6.3",
+"option": null,
+"statements": [
+"3.1.6.3-01",
+"3.1.6.3-02"
+],
+"statementText": {
+"3.1.6.3-01": "The concept of the biome. The global distribution of major terrestrial biomes.",
+"3.1.6.3-02": "The nature of two contrasting biomes: tropical rainforest and savanna grassland to include: • the main characteristics of each biome • ecological responses to the climate, soil and soil moisture budget – adaptations by flora and fauna • human activity and its impact on each biome • typical development issues in each biome to include changes in population, economic development, agricultural extension and intensification, implications for biodiversity and sustainability."
+},
+"statementShort": {
+"3.1.6.3-01": "",
+"3.1.6.3-02": ""
+},
+"asStatements": [],
+"levels": {
+"3.1.6.3-01": null,
+"3.1.6.3-02": null
+},
+"parts": 13,
+"marks": 130,
+"essays": 3,
+"mcq": 1,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "british-ecosystems",
+"name": "Ecosystems in the British Isles over time",
+"group": "Ecosystems under stress",
+"strand": "Ecosystems under stress",
+"paper": "Ecosystems under stress",
+"code": "3.1.6.4",
+"option": null,
+"statements": [
+"3.1.6.4-01",
+"3.1.6.4-02",
+"3.1.6.4-03"
+],
+"statementText": {
+"3.1.6.4-01": "Succession and climatic climax as illustrated by lithoseres and hydroseres.",
+"3.1.6.4-02": "The characteristics of the climatic climax: temperate deciduous woodland biome.",
+"3.1.6.4-03": "The effects of human activity on succession – illustrated by one plagioclimax such as a heather moorland."
+},
+"statementShort": {
+"3.1.6.4-01": "",
+"3.1.6.4-02": "",
+"3.1.6.4-03": ""
+},
+"asStatements": [],
+"levels": {
+"3.1.6.4-01": null,
+"3.1.6.4-02": null,
+"3.1.6.4-03": null
+},
+"parts": 9,
+"marks": 77,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "marine-ecosystems",
+"name": "Marine ecosystems: coral reefs",
+"group": "Ecosystems under stress",
+"strand": "Ecosystems under stress",
+"paper": "Ecosystems under stress",
+"code": "3.1.6.5",
+"option": null,
+"statements": [
+"3.1.6.5-01",
+"3.1.6.5-02"
+],
+"statementText": {
+"3.1.6.5-01": "The distribution and main characteristics of coral reef ecosystems. Environmental conditions associated with reef development.",
+"3.1.6.5-02": "The following aspects should be examined with reference to a named, located coral reef: Factors in the health and survival of reefs: • Natural: Water temperature, acidity, salinity, algal blooms. • Human activity and its impact: Major drainage basin schemes, onshore development, desalination, pollution, tourism, fishing. • Future prospects for coral reefs."
+},
+"statementShort": {
+"3.1.6.5-01": "",
+"3.1.6.5-02": ""
+},
+"asStatements": [],
+"levels": {
+"3.1.6.5-01": null,
+"3.1.6.5-02": null
+},
+"parts": 9,
+"marks": 92,
+"essays": 2,
+"mcq": 1,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "local-ecosystems",
+"name": "Local ecosystems",
+"group": "Ecosystems under stress",
+"strand": "Ecosystems under stress",
+"paper": "Ecosystems under stress",
+"code": "3.1.6.6, 3.1.6.7",
+"option": null,
+"statements": [
+"3.1.6.6-01",
+"3.1.6.6-02",
+"3.1.6.6-03",
+"3.1.6.7-01",
+"3.1.6.7-02"
+],
+"statementText": {
+"3.1.6.6-01": "The main characteristics of a distinctive local ecosystem (such as an area of heathland, managed parkland, pond, dune system). Ecological responses to the climate, soil and soil moisture budget – adaptations by flora and fauna.",
+"3.1.6.6-02": "Local factors in ecological development and change (such as agriculture, urban change, the planned and unplanned introduction of new species).",
+"3.1.6.6-03": "The impacts of change and measures to manage these impacts. Conservation strategies and their implementation in specific settings.",
+"3.1.6.7-01": "Case study of a specified region experiencing ecological change to illustrate and analyse the nature of the change and the reasons for it, how the economic, social and political character of its community reflects its ecological setting and how the community is responding to change.",
+"3.1.6.7-02": "Case study of a specified ecosystem at a local scale to illustrate and analyse key themes set out above, including the nature and properties of the ecosystem, human impact upon it and the challenges and opportunities presented in its sustainable development."
+},
+"statementShort": {
+"3.1.6.6-01": "",
+"3.1.6.6-02": "",
+"3.1.6.6-03": "",
+"3.1.6.7-01": "",
+"3.1.6.7-02": ""
+},
+"asStatements": [],
+"levels": {
+"3.1.6.6-01": null,
+"3.1.6.6-02": null,
+"3.1.6.6-03": null,
+"3.1.6.7-01": null,
+"3.1.6.7-02": null
+},
+"parts": 6,
+"marks": 98,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "globalisation",
+"name": "Globalisation and global systems",
+"group": "Global systems and global governance",
+"strand": "Global systems and global governance",
+"paper": "Global systems and global governance",
+"code": "3.2.1.1, 3.2.1.2, 3.2.1.6, 3.2.1.7",
+"option": null,
+"statements": [
+"3.2.1.1-01",
+"3.2.1.1-02",
+"3.2.1.2-01",
+"3.2.1.2-02",
+"3.2.1.6-01",
+"3.2.1.7-01"
+],
+"statementText": {
+"3.2.1.1-01": "Dimensions of globalisation: flows of capital, labour, products, services and information; global marketing; patterns of production, distribution and consumption.",
+"3.2.1.1-02": "Factors in globalisation: the development of technologies, systems and relationships, including financial, transport, security, communications, management and information systems and trade agreements.",
+"3.2.1.2-01": "Form and nature of economic, political, social and environmental interdependence in the contemporary world.",
+"3.2.1.2-02": "Issues associated with interdependence including how: • unequal flows of people, money, ideas and technology within global systems can sometimes act to promote stability, growth and development but can also cause inequalities, conflicts and injustices for people and places • unequal power relations enable some states to drive global systems to their own advantage and to directly influence geopolitical events, while others are only able to respond or resist in a more constrained way.",
+"3.2.1.6-01": "The impacts of globalisation to consider the benefits of growth, development, integration, stability against the costs in terms of inequalities, injustice, conflict and environmental impact.",
+"3.2.1.7-01": "Students must engage with quantitative and qualitative approaches across the theme as a whole."
+},
+"statementShort": {
+"3.2.1.1-01": "",
+"3.2.1.1-02": "",
+"3.2.1.2-01": "",
+"3.2.1.2-02": "",
+"3.2.1.6-01": "",
+"3.2.1.7-01": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.1.1-01": null,
+"3.2.1.1-02": null,
+"3.2.1.2-01": null,
+"3.2.1.2-02": null,
+"3.2.1.6-01": null,
+"3.2.1.7-01": null
+},
+"parts": 17,
+"marks": 148,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "international-trade",
+"name": "International trade and access to markets",
+"group": "Global systems and global governance",
+"strand": "Global systems and global governance",
+"paper": "Global systems and global governance",
+"code": "3.2.1.3",
+"option": null,
+"statements": [
+"3.2.1.3-01",
+"3.2.1.3-02",
+"3.2.1.3-03",
+"3.2.1.3-04",
+"3.2.1.3-05",
+"3.2.1.3-06"
+],
+"statementText": {
+"3.2.1.3-01": "Global features and trends in the volume and pattern of international trade and investment associated with globalisation.",
+"3.2.1.3-02": "Trading relationships and patterns between large, highly developed economies such as the United States, the European Union, emerging major economies such as China and India and smaller, less developed economies such as those in sub-Saharan Africa, southern Asia and Latin America.",
+"3.2.1.3-03": "Differential access to markets associated with levels of economic development and trading agreements and its impacts on economic and societal well-being.",
+"3.2.1.3-04": "The nature and role of transnational corporations (TNCs), including their spatial organisation, production, linkages, trading and marketing patterns, with a detailed reference to a specified TNC and its impacts on those countries in which it operates.",
+"3.2.1.3-05": "World trade in at least one food commodity or one manufacturing product.",
+"3.2.1.3-06": "Analysis and assessment of the geographical consequences of global systems to specifically consider how international trade and variable access to markets underly and impacts on students' and other people's lives across the globe."
+},
+"statementShort": {
+"3.2.1.3-01": "",
+"3.2.1.3-02": "",
+"3.2.1.3-03": "",
+"3.2.1.3-04": "",
+"3.2.1.3-05": "",
+"3.2.1.3-06": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.1.3-01": null,
+"3.2.1.3-02": null,
+"3.2.1.3-03": null,
+"3.2.1.3-04": null,
+"3.2.1.3-05": null,
+"3.2.1.3-06": null
+},
+"parts": 13,
+"marks": 114,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "global-governance",
+"name": "Global governance",
+"group": "Global systems and global governance",
+"strand": "Global systems and global governance",
+"paper": "Global systems and global governance",
+"code": "3.2.1.4",
+"option": null,
+"statements": [
+"3.2.1.4-01",
+"3.2.1.4-02"
+],
+"statementText": {
+"3.2.1.4-01": "The emergence and developing role of norms, laws and institutions in regulating and reproducing global systems.",
+"3.2.1.4-02": "Issues associated with attempts at global governance, including how: • agencies, including the UN in the post-1945 era, can work to promote growth and stability but may also exacerbate inequalities and injustices • interactions between the local, regional, national, international and global scales are fundamental to understanding global governance."
+},
+"statementShort": {
+"3.2.1.4-01": "",
+"3.2.1.4-02": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.1.4-01": null,
+"3.2.1.4-02": null
+},
+"parts": 9,
+"marks": 81,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "antarctica",
+"name": "The global commons: Antarctica",
+"group": "Global systems and global governance",
+"strand": "Global systems and global governance",
+"paper": "Global systems and global governance",
+"code": "3.2.1.5, 3.2.1.5.1",
+"option": null,
+"statements": [
+"3.2.1.5-01",
+"3.2.1.5.1-01",
+"3.2.1.5.1-02",
+"3.2.1.5.1-03",
+"3.2.1.5.1-04",
+"3.2.1.5.1-05"
+],
+"statementText": {
+"3.2.1.5-01": "The concept of the ‘global commons’. The rights of all to the benefits of the global commons. Acknowledgement that the rights of all people to sustainable development must also acknowledge the need to protect the global commons.",
+"3.2.1.5.1-01": "An outline of the contemporary geography, including climate, of Antarctica (including the Southern Ocean as far north as the Antarctic Convergence) to demonstrate its role as a global common and illustrate its vulnerability to global economic pressures and environmental change.",
+"3.2.1.5.1-02": "Threats to Antarctica arising from: • climate change • fishing and whaling • the search for mineral resources • tourism and scientific research.",
+"3.2.1.5.1-03": "Critical appraisal of the developing governance of Antarctica. International government organisations to include United Nations (UN) agencies such as United Nations Environment Programme (UNEP) and the International Whaling Commission. The Antarctic Treaty (1959), the Protocol on Environmental Protection to the Antarctic Treaty (1991); IWC Whaling Moratorium (1982) – their purpose, scope and systems for inspection and enforcement.",
+"3.2.1.5.1-04": "The role of NGOs in monitoring threats and enhancing protection of Antarctica.",
+"3.2.1.5.1-05": "Analysis and assessment of the geographical consequences of global governance for citizens and places in Antarctica and elsewhere to specifically consider how global governance underlies and impacts on students’ and other people's lives across the globe."
+},
+"statementShort": {
+"3.2.1.5-01": "",
+"3.2.1.5.1-01": "",
+"3.2.1.5.1-02": "",
+"3.2.1.5.1-03": "",
+"3.2.1.5.1-04": "",
+"3.2.1.5.1-05": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.1.5-01": null,
+"3.2.1.5.1-01": null,
+"3.2.1.5.1-02": null,
+"3.2.1.5.1-03": null,
+"3.2.1.5.1-04": null,
+"3.2.1.5.1-05": null
+},
+"parts": 12,
+"marks": 138,
+"essays": 5,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "nature-of-places",
+"name": "The nature and importance of places",
+"group": "Changing places",
+"strand": "Changing places",
+"paper": "Changing places",
+"code": "3.2.2.1",
+"option": null,
+"statements": [
+"3.2.2.1-01",
+"3.2.2.1-02",
+"3.2.2.1-03",
+"3.2.2.1-04"
+],
+"statementText": {
+"3.2.2.1-01": "The concept of place and the importance of place in human life and experience.",
+"3.2.2.1-02": "Insider and outsider perspectives on place.",
+"3.2.2.1-03": "Categories of place: • near places and far places • experienced places and media places.",
+"3.2.2.1-04": "Factors contributing to the character of places: • Endogenous: location, topography, physical geography, land use, built environment and infrastructure, demographic and economic characteristics. • Exogenous: relationships with other places."
+},
+"statementShort": {
+"3.2.2.1-01": "",
+"3.2.2.1-02": "",
+"3.2.2.1-03": "",
+"3.2.2.1-04": ""
+},
+"asStatements": [
+"3.2.2.1-01",
+"3.2.2.1-02",
+"3.2.2.1-03",
+"3.2.2.1-04"
+],
+"levels": {
+"3.2.2.1-01": null,
+"3.2.2.1-02": null,
+"3.2.2.1-03": null,
+"3.2.2.1-04": null
+},
+"parts": 43,
+"marks": 331,
+"essays": 7,
+"mcq": 8,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "relationships-connections",
+"name": "Places: relationships and connections",
+"group": "Changing places",
+"strand": "Changing places",
+"paper": "Changing places",
+"code": "3.2.2.2, 3.2.2.2.1",
+"option": null,
+"statements": [
+"3.2.2.2-01",
+"3.2.2.2.1-01",
+"3.2.2.2.1-02"
+],
+"statementText": {
+"3.2.2.2-01": "In relation to the local place within which students live or study and then at least one further contrasting place and encompassing local, regional, national, international and global scales: • the ways in which the following factors: relationships and connections, meaning and representation, affect continuity and change in the nature of places and our understanding of place and • the ways in which students’ own lives and those of others are affected by continuity and change in the nature of places and our understanding of place.",
+"3.2.2.2.1-01": "The impact of relationships and connections on people and place with a particular focus on: either changing demographic and cultural characteristics or economic change and social inequalities.",
+"3.2.2.2.1-02": "• How the demographic, socio-economic and cultural characteristics of places are shaped by shifting flows of people, resources, money and investment, and ideas at all scales from local to global. • The characteristics and impacts of external forces operating at different scales from local to global, including either government policies or the decisions of transnational corporations or the impacts of international or global institutions. • How past and present connections, within and beyond localities, shape places and embed them in the regional, national, international and global scales."
+},
+"statementShort": {
+"3.2.2.2-01": "",
+"3.2.2.2.1-01": "",
+"3.2.2.2.1-02": ""
+},
+"asStatements": [
+"3.2.2.2-01",
+"3.2.2.2.1-01",
+"3.2.2.2.1-02"
+],
+"levels": {
+"3.2.2.2-01": null,
+"3.2.2.2.1-01": null,
+"3.2.2.2.1-02": null
+},
+"parts": 28,
+"marks": 289,
+"essays": 9,
+"mcq": 4,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "meaning-representation",
+"name": "Places: meaning and representation",
+"group": "Changing places",
+"strand": "Changing places",
+"paper": "Changing places",
+"code": "3.2.2.2.2",
+"option": null,
+"statements": [
+"3.2.2.2.2-01",
+"3.2.2.2.2-02"
+],
+"statementText": {
+"3.2.2.2.2-01": "The importance of the meanings and representations attached to places by people with a particular focus on people's lived experience of place in the past and at present.",
+"3.2.2.2.2-02": "• How humans perceive, engage with and form attachments to places and how they present and represent the world to others, including the way in which everyday place meanings are bound up with different identities, perspectives and experiences. • How external agencies, including government, corporate bodies and community or local groups make attempts to influence or create specific place-meanings and thereby shape the actions and behaviours of individuals, groups, businesses and institutions. • How places may be represented in a variety of different forms such as advertising copy, tourist agency material, local art exhibitions in diverse media (eg film, photography, art, story, song etc) that often give contrasting images to that presented formally or statistically such as cartography and census data. • How both past and present processes of development can be seen to influence the social and economic characteristics of places and so be implicit in present meanings."
+},
+"statementShort": {
+"3.2.2.2.2-01": "",
+"3.2.2.2.2-02": ""
+},
+"asStatements": [
+"3.2.2.2.2-01",
+"3.2.2.2.2-02"
+],
+"levels": {
+"3.2.2.2.2-01": null,
+"3.2.2.2.2-02": null
+},
+"parts": 41,
+"marks": 398,
+"essays": 10,
+"mcq": 2,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "place-studies",
+"name": "Place studies and changing places skills",
+"group": "Changing places",
+"strand": "Changing places",
+"paper": "Changing places",
+"code": "3.2.2.3, 3.2.2.4",
+"option": null,
+"statements": [
+"3.2.2.3-01",
+"3.2.2.4-01",
+"3.2.2.4-02",
+"3.2.2.4-03",
+"3.2.2.4-04",
+"3.2.2.4-05"
+],
+"statementText": {
+"3.2.2.3-01": "Students must engage with a range of quantitative and qualitative approaches across the theme as a whole. Quantitative data, including the use of geospatial data, must be used to investigate and present place characteristics, particular weight must be given to qualitative approaches involved in representing place, and to analysing critically the impacts of different media on place meanings and perceptions. The use of different types of data should allow the development of critical perspectives on the data categories and approaches.",
+"3.2.2.4-01": "Local place study exploring the developing character of a place local to the home or study centre.",
+"3.2.2.4-02": "Contrasting place study exploring the developing character of a contrasting and distant place.",
+"3.2.2.4-03": "Place studies must apply the knowledge acquired through engagement with prescribed specification content and thereby further enhance understanding of the way students' own lives and those of others are affected by continuity and change in the nature of places. Sources must include qualitative and quantitative data to represent places in the past and present.",
+"3.2.2.4-04": "Both place studies must focus equally on: • people's lived experience of the place in the past and at present and either • changing demographic and cultural characteristics or • economic change and social inequalities.",
+"3.2.2.4-05": "Suitable data sources could include: • statistics, such as census data • maps • geo-located data • geospatial data, including geographic information systems (GIS) applications • photographs • text, from varied media • audio-visual media • artistic representations • oral sources, such as interviews, reminiscences, songs etc."
+},
+"statementShort": {
+"3.2.2.3-01": "",
+"3.2.2.4-01": "",
+"3.2.2.4-02": "",
+"3.2.2.4-03": "",
+"3.2.2.4-04": "",
+"3.2.2.4-05": ""
+},
+"asStatements": [
+"3.2.2.3-01",
+"3.2.2.4-01",
+"3.2.2.4-02",
+"3.2.2.4-03",
+"3.2.2.4-04",
+"3.2.2.4-05"
+],
+"levels": {
+"3.2.2.3-01": null,
+"3.2.2.4-01": null,
+"3.2.2.4-02": null,
+"3.2.2.4-03": null,
+"3.2.2.4-04": null,
+"3.2.2.4-05": null
+},
+"parts": 32,
+"marks": 331,
+"essays": 12,
+"mcq": 4,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "urbanisation",
+"name": "Urbanisation",
+"group": "Contemporary urban environments",
+"strand": "Contemporary urban environments",
+"paper": "Contemporary urban environments",
+"code": "3.2.3.1",
+"option": null,
+"statements": [
+"3.2.3.1-01",
+"3.2.3.1-02",
+"3.2.3.1-03",
+"3.2.3.1-04"
+],
+"statementText": {
+"3.2.3.1-01": "Urbanisation and its importance in human affairs. Global patterns of urbanisation since 1945. Urbanisation, suburbanisation, counter-urbanisation, urban resurgence. The emergence of megacities and world cities and their role in global and regional economies.",
+"3.2.3.1-02": "Economic, social, technological, political and demographic processes associated with urbanisation and urban growth.",
+"3.2.3.1-03": "Urban change: deindustrialisation, decentralisation, rise of service economy.",
+"3.2.3.1-04": "Urban policy and regeneration in Britain since 1979."
+},
+"statementShort": {
+"3.2.3.1-01": "",
+"3.2.3.1-02": "",
+"3.2.3.1-03": "",
+"3.2.3.1-04": ""
+},
+"asStatements": [
+"3.2.3.1-01",
+"3.2.3.1-02",
+"3.2.3.1-03",
+"3.2.3.1-04"
+],
+"levels": {
+"3.2.3.1-01": null,
+"3.2.3.1-02": null,
+"3.2.3.1-03": null,
+"3.2.3.1-04": null
+},
+"parts": 35,
+"marks": 206,
+"essays": 4,
+"mcq": 11,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "urban-forms",
+"name": "Urban forms and social and economic issues",
+"group": "Contemporary urban environments",
+"strand": "Contemporary urban environments",
+"paper": "Contemporary urban environments",
+"code": "3.2.3.2, 3.2.3.3",
+"option": null,
+"statements": [
+"3.2.3.2-01",
+"3.2.3.2-02",
+"3.2.3.3-01",
+"3.2.3.3-02"
+],
+"statementText": {
+"3.2.3.2-01": "Contemporary characteristics of mega/world cities. Urban characteristics in contrasting settings. Physical and human factors in urban forms. Spatial patterns of land use, economic inequality, social segregation and cultural diversity in contrasting urban areas, and the factors that influence them.",
+"3.2.3.2-02": "New urban landscapes: town centre mixed developments, cultural and heritage quarters, fortress developments, gentrified areas, edge cities. The concept of the post-modern western city.",
+"3.2.3.3-01": "Issues associated with economic inequality, social segregation and cultural diversity in contrasting urban areas.",
+"3.2.3.3-02": "Strategies to manage these issues."
+},
+"statementShort": {
+"3.2.3.2-01": "",
+"3.2.3.2-02": "",
+"3.2.3.3-01": "",
+"3.2.3.3-02": ""
+},
+"asStatements": [
+"3.2.3.2-01",
+"3.2.3.2-02",
+"3.2.3.3-01",
+"3.2.3.3-02"
+],
+"levels": {
+"3.2.3.2-01": null,
+"3.2.3.2-02": null,
+"3.2.3.3-01": null,
+"3.2.3.3-02": null
+},
+"parts": 30,
+"marks": 309,
+"essays": 10,
+"mcq": 4,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "urban-climate",
+"name": "Urban climate",
+"group": "Contemporary urban environments",
+"strand": "Contemporary urban environments",
+"paper": "Contemporary urban environments",
+"code": "3.2.3.4",
+"option": null,
+"statements": [
+"3.2.3.4-01",
+"3.2.3.4-02",
+"3.2.3.4-03"
+],
+"statementText": {
+"3.2.3.4-01": "The impact of urban forms and processes on local climate and weather.",
+"3.2.3.4-02": "Urban temperatures: the urban heat island effect. Precipitation: frequency and intensity. Fogs and thunderstorms in urban environments. Wind: the effects of urban structures and layout on wind speed, direction and frequency. Air quality: particulate and photo-chemical pollution.",
+"3.2.3.4-03": "Pollution reduction policies."
+},
+"statementShort": {
+"3.2.3.4-01": "",
+"3.2.3.4-02": "",
+"3.2.3.4-03": ""
+},
+"asStatements": [
+"3.2.3.4-01",
+"3.2.3.4-02",
+"3.2.3.4-03"
+],
+"levels": {
+"3.2.3.4-01": null,
+"3.2.3.4-02": null,
+"3.2.3.4-03": null
+},
+"parts": 14,
+"marks": 64,
+"essays": 0,
+"mcq": 4,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "urban-drainage",
+"name": "Urban drainage",
+"group": "Contemporary urban environments",
+"strand": "Contemporary urban environments",
+"paper": "Contemporary urban environments",
+"code": "3.2.3.5",
+"option": null,
+"statements": [
+"3.2.3.5-01",
+"3.2.3.5-02",
+"3.2.3.5-03"
+],
+"statementText": {
+"3.2.3.5-01": "Urban precipitation, surfaces and catchment characteristics; impacts on drainage basin storage areas; urban water cycle: water movement through urban catchments as measured by hydrographs.",
+"3.2.3.5-02": "Issues associated with catchment management in urban areas. The development of sustainable urban drainage systems (SUDS).",
+"3.2.3.5-03": "River restoration and conservation in damaged urban catchments with reference to a specific project. Reasons for and aims of the project; attitudes and contributions of parties involved; project activities and evaluation of project outcomes."
+},
+"statementShort": {
+"3.2.3.5-01": "",
+"3.2.3.5-02": "",
+"3.2.3.5-03": ""
+},
+"asStatements": [
+"3.2.3.5-01",
+"3.2.3.5-02",
+"3.2.3.5-03"
+],
+"levels": {
+"3.2.3.5-01": null,
+"3.2.3.5-02": null,
+"3.2.3.5-03": null
+},
+"parts": 12,
+"marks": 89,
+"essays": 2,
+"mcq": 4,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "urban-waste",
+"name": "Urban waste and other environmental issues",
+"group": "Contemporary urban environments",
+"strand": "Contemporary urban environments",
+"paper": "Contemporary urban environments",
+"code": "3.2.3.6, 3.2.3.7",
+"option": null,
+"statements": [
+"3.2.3.6-01",
+"3.2.3.6-02",
+"3.2.3.7-01",
+"3.2.3.7-02"
+],
+"statementText": {
+"3.2.3.6-01": "Urban physical waste generation: sources of waste - industrial and commercial activity, personal consumption. Relation of waste components and waste streams to economic characteristics, lifestyles and attitudes. The environmental impacts of alternative approaches to waste disposal: unregulated, recycling, recovery, incineration, burial, submergence and trade.",
+"3.2.3.6-02": "Comparison of incineration and landfill approaches to waste disposal in relation to a specified urban area.",
+"3.2.3.7-01": "Environmental problems in contrasting urban areas: atmospheric pollution, water pollution and dereliction.",
+"3.2.3.7-02": "Strategies to manage these environmental problems."
+},
+"statementShort": {
+"3.2.3.6-01": "",
+"3.2.3.6-02": "",
+"3.2.3.7-01": "",
+"3.2.3.7-02": ""
+},
+"asStatements": [
+"3.2.3.6-01",
+"3.2.3.6-02",
+"3.2.3.7-01",
+"3.2.3.7-02"
+],
+"levels": {
+"3.2.3.6-01": null,
+"3.2.3.6-02": null,
+"3.2.3.7-01": null,
+"3.2.3.7-02": null
+},
+"parts": 17,
+"marks": 194,
+"essays": 5,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "sustainable-cities",
+"name": "Sustainable urban development",
+"group": "Contemporary urban environments",
+"strand": "Contemporary urban environments",
+"paper": "Contemporary urban environments",
+"code": "3.2.3.8, 3.2.3.9",
+"option": null,
+"statements": [
+"3.2.3.8-01",
+"3.2.3.8-02",
+"3.2.3.8-03",
+"3.2.3.9-01"
+],
+"statementText": {
+"3.2.3.8-01": "Impact of urban areas on local and global environments. Ecological footprint of major urban areas. Dimensions of sustainability: natural, physical, social and economic. Nature and features of sustainable cities. Concept of liveability.",
+"3.2.3.8-02": "Contemporary opportunities and challenges in developing more sustainable cities.",
+"3.2.3.8-03": "Strategies for developing more sustainable cities.",
+"3.2.3.9-01": "Case studies of two contrasting urban areas to illustrate and analyse key themes set out above, to include: • patterns of economic and social well-being • the nature and impact of physical environmental conditions with particular reference to the implications for environmental sustainability, the character of the study areas and the experience and attitudes of their populations."
+},
+"statementShort": {
+"3.2.3.8-01": "",
+"3.2.3.8-02": "",
+"3.2.3.8-03": "",
+"3.2.3.9-01": ""
+},
+"asStatements": [
+"3.2.3.8-01",
+"3.2.3.8-02",
+"3.2.3.8-03",
+"3.2.3.9-01"
+],
+"levels": {
+"3.2.3.8-01": null,
+"3.2.3.8-02": null,
+"3.2.3.8-03": null,
+"3.2.3.9-01": null
+},
+"parts": 15,
+"marks": 188,
+"essays": 7,
+"mcq": 3,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "population-environment",
+"name": "Environment and population",
+"group": "Population and the environment",
+"strand": "Population and the environment",
+"paper": "Population and the environment",
+"code": "3.2.4.1, 3.2.4.2",
+"option": null,
+"statements": [
+"3.2.4.1-01",
+"3.2.4.2-01",
+"3.2.4.2-02",
+"3.2.4.2-03",
+"3.2.4.2-04"
+],
+"statementText": {
+"3.2.4.1-01": "The environmental context for human population characteristics and change. Key elements in the physical environment: climate, soils, resource distributions including water supply. Key population parameters: distribution, density, numbers, change. Key role of development processes. Global patterns of population numbers, densities and change rates.",
+"3.2.4.2-01": "Global and regional patterns of food production and consumption. Agricultural systems and agricultural productivity. Relationship with key physical environmental variables – climate and soils.",
+"3.2.4.2-02": "Characteristics and distribution of two major climatic types to exemplify relationships between climate and human activities and numbers. Climate change as it affects agriculture.",
+"3.2.4.2-03": "Characteristics and distribution of two key zonal soils to exemplify relationship between soils and human activities especially agriculture. Soil problems and their management as they relate to agriculture: soil erosion, waterlogging, salinisation, structural deterioration.",
+"3.2.4.2-04": "Strategies to ensure food security."
+},
+"statementShort": {
+"3.2.4.1-01": "",
+"3.2.4.2-01": "",
+"3.2.4.2-02": "",
+"3.2.4.2-03": "",
+"3.2.4.2-04": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.4.1-01": null,
+"3.2.4.2-01": null,
+"3.2.4.2-02": null,
+"3.2.4.2-03": null,
+"3.2.4.2-04": null
+},
+"parts": 15,
+"marks": 106,
+"essays": 1,
+"mcq": 2,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "health-wellbeing",
+"name": "Environment, health and well-being",
+"group": "Population and the environment",
+"strand": "Population and the environment",
+"paper": "Population and the environment",
+"code": "3.2.4.3",
+"option": null,
+"statements": [
+"3.2.4.3-01",
+"3.2.4.3-02",
+"3.2.4.3-03",
+"3.2.4.3-04",
+"3.2.4.3-05"
+],
+"statementText": {
+"3.2.4.3-01": "Global patterns of health, mortality and morbidity. Economic and social development and the epidemiological transition.",
+"3.2.4.3-02": "The relationship between environment variables eg climate, topography (drainage) and incidence of disease. Air quality and health. Water quality and health.",
+"3.2.4.3-03": "The global prevalence, distribution, seasonal incidence of one specified biologically transmitted disease, eg malaria; its links to physical and socio-economic environments including impacts of environmental variables on transmission vectors. Impact on health and well-being. Management and mitigation strategies.",
+"3.2.4.3-04": "The global prevalence and distribution of one specified non-communicable disease, eg a specific type of cancer, coronary heart disease, asthma; its links to physical and socio-economic environment including impacts of lifestyles. Impact on health and well-being. Management and mitigation strategies.",
+"3.2.4.3-05": "Role of international agencies and NGOs in promoting health and combating disease at the global scale."
+},
+"statementShort": {
+"3.2.4.3-01": "",
+"3.2.4.3-02": "",
+"3.2.4.3-03": "",
+"3.2.4.3-04": "",
+"3.2.4.3-05": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.4.3-01": null,
+"3.2.4.3-02": null,
+"3.2.4.3-03": null,
+"3.2.4.3-04": null,
+"3.2.4.3-05": null
+},
+"parts": 14,
+"marks": 157,
+"essays": 5,
+"mcq": 1,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "population-change",
+"name": "Population change and population futures",
+"group": "Population and the environment",
+"strand": "Population and the environment",
+"paper": "Population and the environment",
+"code": "3.2.4.4, 3.2.4.5, 3.2.4.6, 3.2.4.7",
+"option": null,
+"statements": [
+"3.2.4.4-01",
+"3.2.4.4-02",
+"3.2.4.5-01",
+"3.2.4.5-02",
+"3.2.4.6-01",
+"3.2.4.6-02",
+"3.2.4.7-01",
+"3.2.4.7-02"
+],
+"statementText": {
+"3.2.4.4-01": "Factors in natural population change: the demographic transition model, key vital rates, age–sex composition; cultural controls. Models of natural population change, and their application in contrasting physical and human settings. Concept of the Demographic Dividend.",
+"3.2.4.4-02": "International migration: refugees, asylum seekers and economic migrants: environmental and socio-economic causes, processes. Demographic, environmental, social, economic, health and political implications of migration.",
+"3.2.4.5-01": "Population growth dynamics. Concepts of overpopulation, underpopulation and optimum population. Implications of population size and structure for the balance between population and resources; the concepts of ‘carrying capacity’ and ‘ecological footprint’ and their implications.",
+"3.2.4.5-02": "Population, resources and pollution model: positive and negative feedback. Contrasting perspectives on population growth and its implications; Malthusian, neo-Malthusian and alternatives such as associated with Boserup and Simon.",
+"3.2.4.6-01": "Health impacts of global environmental change: ozone depletion – skin cancer, cataracts; climate change – thermal stress, emergent and changing distribution of vector borne diseases, agricultural productivity and nutritional standards.",
+"3.2.4.6-02": "Prospects for the global population. Projected distributions. Critical appraisal of future population-environment relationships.",
+"3.2.4.7-01": "Case study of a country/society experiencing specific patterns of overall population change – increase or decline – to illustrate and analyse the character, scale, and patterns of change, relevant environmental and socio-economic factors and implications for the country/society.",
+"3.2.4.7-02": "Case study of a specified local area to illustrate and analyse the relationship between place and health related to its physical environment, socio-economic character and the experience and attitudes of its populations."
+},
+"statementShort": {
+"3.2.4.4-01": "",
+"3.2.4.4-02": "",
+"3.2.4.5-01": "",
+"3.2.4.5-02": "",
+"3.2.4.6-01": "",
+"3.2.4.6-02": "",
+"3.2.4.7-01": "",
+"3.2.4.7-02": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.4.4-01": null,
+"3.2.4.4-02": null,
+"3.2.4.5-01": null,
+"3.2.4.5-02": null,
+"3.2.4.6-01": null,
+"3.2.4.6-02": null,
+"3.2.4.7-01": null,
+"3.2.4.7-02": null
+},
+"parts": 31,
+"marks": 283,
+"essays": 7,
+"mcq": 5,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "resource-development",
+"name": "Resource development and natural resource issues",
+"group": "Resource security",
+"strand": "Resource security",
+"paper": "Resource security",
+"code": "3.2.5.1, 3.2.5.2, 3.2.5.6, 3.2.5.7",
+"option": null,
+"statements": [
+"3.2.5.1-01",
+"3.2.5.1-02",
+"3.2.5.2-01",
+"3.2.5.2-02",
+"3.2.5.6-01",
+"3.2.5.7-01",
+"3.2.5.7-02"
+],
+"statementText": {
+"3.2.5.1-01": "Concept of a resource. Resource classifications to include stock and flow resources. Stock resource evaluation: measured reserves, indicated reserves, inferred resources, possible resources. Natural resource development over time: exploration, exploitation, development. Concept of the resource frontier. Concept of resource peak.",
+"3.2.5.1-02": "Sustainable resource development. Environmental Impact Assessment (EIA) in relation to resource development projects.",
+"3.2.5.2-01": "Global patterns of production, consumption and trade/movements of energy and ore minerals. Global patterns of water availability and demand.",
+"3.2.5.2-02": "The geopolitics of energy, ore mineral and water resource distributions, trade and management.",
+"3.2.5.6-01": "Alternative energy, water and mineral ore futures and their relationship with a range of technological, economic, environmental and political developments.",
+"3.2.5.7-01": "Case study of either water or energy or mineral ore resource issues in a global or specified regional setting to illustrate and analyse theme(s) set out above, their implications for the setting including the relationship between resource security and human welfare and attempts to manage the resource.",
+"3.2.5.7-02": "Case study of a specified place to illustrate and analyse how aspects of its physical environment affects the availability and cost of water or energy or mineral ore and the way in which water or energy or mineral ore is used."
+},
+"statementShort": {
+"3.2.5.1-01": "",
+"3.2.5.1-02": "",
+"3.2.5.2-01": "",
+"3.2.5.2-02": "",
+"3.2.5.6-01": "",
+"3.2.5.7-01": "",
+"3.2.5.7-02": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.5.1-01": null,
+"3.2.5.1-02": null,
+"3.2.5.2-01": null,
+"3.2.5.2-02": null,
+"3.2.5.6-01": null,
+"3.2.5.7-01": null,
+"3.2.5.7-02": null
+},
+"parts": 18,
+"marks": 137,
+"essays": 3,
+"mcq": 3,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "water-security",
+"name": "Water security",
+"group": "Resource security",
+"strand": "Resource security",
+"paper": "Resource security",
+"code": "3.2.5.3",
+"option": null,
+"statements": [
+"3.2.5.3-01",
+"3.2.5.3-02",
+"3.2.5.3-03",
+"3.2.5.3-04",
+"3.2.5.3-05",
+"3.2.5.3-06",
+"3.2.5.3-07"
+],
+"statementText": {
+"3.2.5.3-01": "Sources of water; components of demand, water stress.",
+"3.2.5.3-02": "Relationship of water supply (volume and quality) to key aspects of physical geography – climate, geology and drainage.",
+"3.2.5.3-03": "Strategies to increase water supply to include catchment, diversion, storage and water transfers and desalination.",
+"3.2.5.3-04": "Environmental impacts of a major water supply scheme incorporating a major dam and/or barrage and associated distribution networks.",
+"3.2.5.3-05": "Strategies to manage water consumption (including reducing demand).",
+"3.2.5.3-06": "Sustainability issues associated with water management: virtual water trade, conservation, recycling, ‘greywater’ and groundwater management.",
+"3.2.5.3-07": "Water conflicts at a variety of scales – local, national, international."
+},
+"statementShort": {
+"3.2.5.3-01": "",
+"3.2.5.3-02": "",
+"3.2.5.3-03": "",
+"3.2.5.3-04": "",
+"3.2.5.3-05": "",
+"3.2.5.3-06": "",
+"3.2.5.3-07": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.5.3-01": null,
+"3.2.5.3-02": null,
+"3.2.5.3-03": null,
+"3.2.5.3-04": null,
+"3.2.5.3-05": null,
+"3.2.5.3-06": null,
+"3.2.5.3-07": null
+},
+"parts": 14,
+"marks": 146,
+"essays": 4,
+"mcq": 3,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "energy-security",
+"name": "Energy security",
+"group": "Resource security",
+"strand": "Resource security",
+"paper": "Resource security",
+"code": "3.2.5.4",
+"option": null,
+"statements": [
+"3.2.5.4-01",
+"3.2.5.4-02",
+"3.2.5.4-03",
+"3.2.5.4-04",
+"3.2.5.4-05",
+"3.2.5.4-06",
+"3.2.5.4-07"
+],
+"statementText": {
+"3.2.5.4-01": "Sources of energy, both primary and secondary. Components of demand and energy mixes in contrasting settings.",
+"3.2.5.4-02": "Relationship of energy supply (volume and quality) to key aspects of physical geography – climate, geology and drainage.",
+"3.2.5.4-03": "Energy supplies in a globalising world: competing national interests and the role of transnational corporations in energy production, processing and distribution.",
+"3.2.5.4-04": "Environmental impacts of a major energy resource development such as an oil, coal or gas field and associated distribution networks.",
+"3.2.5.4-05": "Strategies to increase energy supply (oil and gas exploration, nuclear power and development of renewable sources).",
+"3.2.5.4-06": "Strategies to manage energy consumption (including reducing demand).",
+"3.2.5.4-07": "Sustainability issues associated with energy production, trade and consumption: acid rain, the enhanced greenhouse effect, nuclear waste and energy conservation."
+},
+"statementShort": {
+"3.2.5.4-01": "",
+"3.2.5.4-02": "",
+"3.2.5.4-03": "",
+"3.2.5.4-04": "",
+"3.2.5.4-05": "",
+"3.2.5.4-06": "",
+"3.2.5.4-07": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.5.4-01": null,
+"3.2.5.4-02": null,
+"3.2.5.4-03": null,
+"3.2.5.4-04": null,
+"3.2.5.4-05": null,
+"3.2.5.4-06": null,
+"3.2.5.4-07": null
+},
+"parts": 19,
+"marks": 163,
+"essays": 3,
+"mcq": 2,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "mineral-security",
+"name": "Mineral security",
+"group": "Resource security",
+"strand": "Resource security",
+"paper": "Resource security",
+"code": "3.2.5.5",
+"option": null,
+"statements": [
+"3.2.5.5-01",
+"3.2.5.5-02",
+"3.2.5.5-03",
+"3.2.5.5-04",
+"3.2.5.5-05"
+],
+"statementText": {
+"3.2.5.5-01": "With reference to iron ore or a specified globally traded non-ferrous metal ore eg copper, tin, manganese.",
+"3.2.5.5-02": "Sources of the specified ore. Distribution of reserves/resources. End uses of the ore. Components of demand for ore. Role of specified ore in global commerce and industry.",
+"3.2.5.5-03": "Key aspects of physical geography associated with ore occurrence and working: geological conditions and location.",
+"3.2.5.5-04": "Environmental impacts of a major mineral resource extraction scheme and associated distribution networks.",
+"3.2.5.5-05": "Sustainability issues associated with ore extraction, trade and processing."
+},
+"statementShort": {
+"3.2.5.5-01": "",
+"3.2.5.5-02": "",
+"3.2.5.5-03": "",
+"3.2.5.5-04": "",
+"3.2.5.5-05": ""
+},
+"asStatements": [],
+"levels": {
+"3.2.5.5-01": null,
+"3.2.5.5-02": null,
+"3.2.5.5-03": null,
+"3.2.5.5-04": null,
+"3.2.5.5-05": null
+},
+"parts": 6,
+"marks": 59,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "fieldwork",
+"name": "Fieldwork and the geographical investigation",
+"group": "Fieldwork and geographical skills",
+"strand": "Fieldwork and geographical skills",
+"paper": "Fieldwork and geographical skills",
+"code": "3.3.F",
+"option": null,
+"statements": [
+"3.3.F-01",
+"3.3.F-02",
+"3.3.F-03",
+"3.3.F-04",
+"3.3.F-05",
+"3.3.F-06",
+"3.3.F-07"
+],
+"statementText": {
+"3.3.F-01": "Preparation for fieldwork, including background reading, drawing up aims and objectives for the enquiry, planning research in the field and from secondary sources, using data sampling techniques and carrying out health and safety procedures",
+"3.3.F-02": "Collection of primary data in the field and using secondary data sources",
+"3.3.F-03": "Processing and presenting data using relevant graphical and cartographical techniques",
+"3.3.F-04": "Analysing data, including using statistical techniques where relevant",
+"3.3.F-05": "Drawing conclusions related back to the original aims and objectives and linking these conclusions to both the place studied and the general ideas forming the basis of the enquiry",
+"3.3.F-06": "Reviewing the success, or otherwise, of all stages of the enquiry",
+"3.3.F-07": "Considering how the enquiry could be further developed"
+},
+"statementShort": {
+"3.3.F-01": "",
+"3.3.F-02": "",
+"3.3.F-03": "",
+"3.3.F-04": "",
+"3.3.F-05": "",
+"3.3.F-06": "",
+"3.3.F-07": ""
+},
+"asStatements": [
+"3.3.F-01",
+"3.3.F-02",
+"3.3.F-03",
+"3.3.F-04",
+"3.3.F-05",
+"3.3.F-06",
+"3.3.F-07"
+],
+"levels": {
+"3.3.F-01": null,
+"3.3.F-02": null,
+"3.3.F-03": null,
+"3.3.F-04": null,
+"3.3.F-05": null,
+"3.3.F-06": null,
+"3.3.F-07": null
+},
+"parts": 115,
+"marks": 498,
+"essays": 0,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+}
+]

@@ -1,0 +1,17 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allPapers, byId, allTopics, topicByslug, GROUPS, B } from '../../lib/data';
+const palette = ['#e8640c','#1f7a4d','#2b5fb3','#a86b00','#7b3fb3','#b3261e','#0e8a8a','#6b6b6b','#c2185b','#4e7d1e','#5d4037','#00695c','#8e24aa','#ef6c00','#3949ab','#00838f','#c62828','#558b2f','#6d4c41','#283593'];
+const gcol = Object.fromEntries(GROUPS.map((g, i) => [g[0], palette[i]]));
+const colour = Object.fromEntries(allTopics.map((t) => [t.slug, gcol[t.group]]));
+const papers = allPapers.filter((p) => p.kind === 'exam').sort((a, b) => b.year - a.year || b.spec.localeCompare(a.spec) || String(a.paperNo).localeCompare(String(b.paperNo)));
+---
+<Base title={`Every ${B.full} paper as a timeline`} description="Each paper as a strip: every question coloured by topic and sized by marks, so you can see which topics carry the marks and how often each comes up." context="timeline">
+  <h1>Every paper, question by question</h1>
+  <p>Each strip is one paper; each block is a question part, sized by marks and coloured by topic area. Tap a block to open it. Option questions are all shown, though each student answers only their own; the essays are the big blocks.</p>
+  <div class="tl-key">{GROUPS.map((g) => <span><i style={`background:${gcol[g[0]]}`}></i>{g[0].replace(/^Topic (\w+): .*/, 'Topic $1')}</span>)}</div>
+  <div class="timeline">
+    {papers.map((p) => { const qs = p.questions.map((id) => byId.get(id)).filter(Boolean); const total = qs.reduce((n, q) => n + q.marks, 0) || 1; return <div class="tl-row"><span class="lab"><a href={`/past-papers/${p.slug}/`}>{p.series.replace('June ', 'Jun ').replace('November ', 'Nov ')} {p.qual === 'AS' ? 'AS ' : ''}P{Number(p.paperNo)}</a></span><div class="tl-strip">{qs.map((q) => <a href={`/past-papers/${p.slug}/#${q.id}`} style={`width:${(100 * q.marks / total).toFixed(2)}%;background:${colour[q.topics[0]] || '#bbb'};opacity:${q.notCurrentSpec ? 0.35 : 1}`} title={`Q${q.question}: ${q.topics.map((t) => topicByslug.get(t)?.name).join(', ')}, ${q.marks} marks`}></a>)}</div></div>; })}
+  </div>
+  
+</Base>

@@ -1,0 +1,74 @@
+{
+ "max": 300,
+ "papers": [
+  [
+   "Paper 1",
+   120
+  ],
+  [
+   "Paper 2",
+   120
+  ],
+  [
+   "NEA (independent investigation)",
+   60
+  ]
+ ],
+ "intro": "Paper 1 and Paper 2 are each marked out of 120 and the NEA out of 60, and the raw marks are added with no weighting, so the overall boundaries are out of 300 (40% for each paper and 20% for the NEA).",
+ "source": "AQA's published subject grade boundaries for A-level Geography (7037), out of 300. June 2026 checked against AQA's June 2026 boundary document; earlier years as compiled by cognito.org from AQA's figures.",
+ "alevel": [
+  {
+   "series": "June 2026",
+   "max": 300,
+   "A*": 246,
+   "A": 219,
+   "B": 189,
+   "C": 160,
+   "D": 131,
+   "E": 102
+  },
+  {
+   "series": "June 2025",
+   "max": 300,
+   "A*": 241,
+   "A": 213,
+   "B": 183,
+   "C": 153,
+   "D": 123,
+   "E": 94
+  },
+  {
+   "series": "June 2024",
+   "max": 300,
+   "A*": 239,
+   "A": 211,
+   "B": 179,
+   "C": 148,
+   "D": 117,
+   "E": 86
+  },
+  {
+   "series": "June 2023",
+   "max": 300,
+   "A*": 239,
+   "A": 210,
+   "B": 177,
+   "C": 144,
+   "D": 111,
+   "E": 79
+  },
+  {
+   "series": "June 2022",
+   "max": 300,
+   "A*": 227,
+   "A": 198,
+   "B": 166,
+   "C": 134,
+   "D": 102,
+   "E": 70
+  }
+ ],
+ "components": "June 2026 paper boundaries (out of 120): Paper 1 A* 97, A 85, B 74, C 63, D 53, E 43; Paper 2 A* 97, A 85, B 74, C 63, D 52, E 41. NEA (out of 60): A* 53, A 49, B 41, C 33, D 25, E 18.",
+ "asSource": "",
+ "as": []
+}

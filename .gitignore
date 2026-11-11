@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.netlify/
+.build/
+.no-public/
+.env
+/past-papers/
+*.zip

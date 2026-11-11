@@ -1,0 +1,44 @@
+---
+import Base from '../../layouts/Base.astro';
+import Hint from '../../components/Hint.astro';
+import spec from '../../data/spec.json';
+import { B, GROUPS } from '../../lib/data';
+const total = spec.reduce((n, s) => n + s.statements.length, 0);
+// AQA: sections without statements are headings (3.1 Physical geography, 3.1.1 Water and carbon cycles); Edexcel: a heading per topic.
+const rows = [];
+let lastArea = null;
+for (const s of spec as any[]) {
+  if (!s.statements.length) { rows.push({ head: `${s.code} ${s.title}`, level: s.code.split('.').length <= 2 ? 2 : 3 }); continue; }
+  if (B.id === 'edexcel' && s.area !== lastArea) { lastArea = s.area; rows.push({ head: (GROUPS.find((g) => g[0].startsWith(`Topic ${s.area}:`)) || [s.area])[0], level: 2 }); }
+  rows.push({ sec: s });
+}
+const plain = (t: string) => t.replace(/\[synoptic link \d\]/gi, '').trim();
+---
+<Base title={`${B.full} specification checklist (${B.alCode} and ${B.asCode}), tickable`} description={`Every ${B.id === 'edexcel' ? 'key idea and its detailed content' : 'content point'} of the ${B.short} AS and A-level Geography specification as a tickable checklist, with the A-level-only content marked and links to the past-paper questions for each topic.`} context="specification" leadLine="Big gaps on the checklist? A tutor can plan the order to close them.">
+  <h1>Specification checklist</h1>
+  <p>Every {B.id === 'edexcel' ? 'key idea' : 'content point'} in the {B.spec} In the board's own words. Tick what you're confident with; ticks are saved in this browser only. {B.id === 'edexcel' ? 'Topics 5 to 8 are A level only; AS covers Topics 1 to 4 with the same key ideas.' : 'Content that is not in the AS specification is marked A level only.'} <a href={B.specUrl} rel="noopener">The full specification on {B.short}'s site</a>.</p>
+  <Hint id="ticks" text="Ticks are saved in this browser only. The revision planner uses them to pick your weak topics." />
+  <p class="muted"><span id="done">0</span> of {total} ticked · <button class="chip" type="button" id="clear">Clear my ticks</button></p>
+  {rows.map((r) => r.head ? (r.level === 2 ? <h2 class="strand-head">{r.head}</h2> : <h3>{r.head}</h3>) : (
+    <section>
+      <h4>{r.sec.code.replace('-', ' ')} {r.sec.title} {r.sec.option && <span class="muted small-text">{r.sec.option}</span>} {r.sec.topic && <a class="small-text" href={`/questions/${r.sec.topic}/`}>questions</a>}</h4>
+      <ul class="spec-list">
+        {r.sec.statements.map((st) => (
+          <li><label><input type="checkbox" data-spec={st.id} /><span><strong>{st.id}</strong> {plain(st.text)}{(st.level === 'A level only' || (B.id === 'aqa' && !st.as)) && <span class="pill pill-hard" style="margin-left:.4rem">A level only</span>}
+            {st.points?.length > 0 && <ul class="points">{st.points.map((p) => <li>{p.k}. {plain(p.t)}</li>)}</ul>}</span></label></li>
+        ))}
+      </ul>
+    </section>
+  ))}
+  <script define:vars={{ store: B.store }}>
+    const KEY = store + '-spec';
+    const boxes = document.querySelectorAll('input[data-spec]');
+    const done = document.getElementById('done');
+    let state = {};
+    try { state = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch {}
+    const paint = () => { let n = 0; boxes.forEach((b) => { b.checked = !!state[b.dataset.spec]; if (b.checked) n++; }); done.textContent = String(n); };
+    boxes.forEach((b) => b.addEventListener('change', () => { state[b.dataset.spec] = b.checked; try { localStorage.setItem(KEY, JSON.stringify(state)); } catch {} paint(); }));
+    document.getElementById('clear').addEventListener('click', () => { state = {}; try { localStorage.removeItem(KEY); } catch {} paint(); });
+    paint();
+  </script>
+</Base>

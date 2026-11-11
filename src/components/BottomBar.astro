@@ -1,0 +1,16 @@
+---
+import Icon from './Icon.astro';
+import board from '../data/board.json';
+const B: any = board;
+---
+<nav class="bottom-bar" aria-label="Quick links">
+  {B.id ? <>
+    <a href="/questions/"><Icon name="book" />Topics</a>
+    <a href="/past-papers/"><Icon name="file" />Papers</a>
+    <a href="/practice/"><Icon name="target" />Practice</a>
+  </> : <>
+    <a href="/aqa/"><Icon name="book" />AQA</a>
+    <a href="/edexcel/"><Icon name="book" />Edexcel</a>
+  </>}
+  <a class="tutor" href="/tutors/"><Icon name="users" />Tutors</a>
+</nav>

@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import tutors from '../../data/tutors.json';
+---
+<Base title="A-level Geography tutors: AQA and Edexcel, online one-to-one" description="Online one-to-one A-level Geography tutoring for AQA, Edexcel and the other boards, from experienced heads of Geography, including a Pearson author and Edexcel examiner. Paid trial lesson, no packages." context="tutors" leadLine="Tell us the year group, the exam board, the target grade and your availability, and we will arrange a trial lesson.">
+  <h1>Your A-level Geography tutors</h1>
+  <p>Online one-to-one lessons for AS and A-level Geography with experienced heads of Geography who know what the examiners reward: using the data in the figures, developing points into explanation, and the sustained argument and conclusion that lift a 20-mark essay into the top level.</p>
+  {tutors.map((tutor) => <section class="tutor">
+    <div class="tutor-head">
+      {tutor.photo ? <img class="tutor-photo" src={tutor.photo} alt={tutor.name} width="160" height="160" /> : <div class="tutor-photo tutor-initial" aria-hidden="true">{tutor.name[0]}</div>}
+      <div><h2>{tutor.name}</h2><p class="muted">{tutor.title}</p></div>
+    </div>
+    {tutor.bio.map((p) => <p>{p}</p>)}
+    <ul>{tutor.offers.map((o) => <li>{o}</li>)}</ul>
+  </section>)}
+  <h2>Fees and how it works</h2>
+  <ul>
+    <li><strong>Fee on enquiry</strong>, online, one-to-one. The first lesson is a paid trial; if it isn't right for you there is no obligation to continue.</li>
+    <li>No packages and nothing to buy in advance: you pay lesson by lesson.</li>
+    <li>Most students have one or two lessons a week at a regular slot, which is what moves a grade.</li>
+  </ul>
+  <ol>
+    <li>Message us on WhatsApp or send the enquiry form with the year, the exam board, the target grade and the times that work for you.</li>
+    <li>We match you with the tutor who fits best, and she gets in touch to arrange the trial lesson.</li>
+    <li>Lessons are booked directly with your tutor from then on.</li>
+  </ol>
+  <p class="muted">DBS-checked; references available. Practising past papers by board: <a href="/aqa/">AQA</a> · <a href="/edexcel/">Edexcel</a>.</p>
+</Base>

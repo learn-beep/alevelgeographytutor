@@ -1,0 +1,574 @@
+[
+ {
+  "slug": "water-cycle",
+  "name": "The water cycle and drainage basins",
+  "group": "Water and carbon cycles",
+  "code": "3.1.1.1, 3.1.1.2",
+  "statements": [
+   "3.1.1.1-01",
+   "3.1.1.2-01",
+   "3.1.1.2-02",
+   "3.1.1.2-03",
+   "3.1.1.2-04",
+   "3.1.1.2-05"
+  ]
+ },
+ {
+  "slug": "carbon-cycle",
+  "name": "The carbon cycle",
+  "group": "Water and carbon cycles",
+  "code": "3.1.1.3",
+  "statements": [
+   "3.1.1.3-01",
+   "3.1.1.3-02",
+   "3.1.1.3-03",
+   "3.1.1.3-04"
+  ]
+ },
+ {
+  "slug": "water-carbon-climate",
+  "name": "Water, carbon, climate and life on Earth",
+  "group": "Water and carbon cycles",
+  "code": "3.1.1.4, 3.1.1.5, 3.1.1.6",
+  "statements": [
+   "3.1.1.4-01",
+   "3.1.1.4-02",
+   "3.1.1.5-01",
+   "3.1.1.6-01",
+   "3.1.1.6-02"
+  ]
+ },
+ {
+  "slug": "desert-systems",
+  "name": "Deserts as systems: processes and sediment",
+  "group": "Hot desert systems and landscapes",
+  "code": "3.1.2.1, 3.1.2.2",
+  "statements": [
+   "3.1.2.1-01",
+   "3.1.2.1-02",
+   "3.1.2.1-03",
+   "3.1.2.1-04",
+   "3.1.2.2-01",
+   "3.1.2.2-02",
+   "3.1.2.2-03",
+   "3.1.2.2-04",
+   "3.1.2.2-05",
+   "3.1.2.2-06"
+  ]
+ },
+ {
+  "slug": "arid-landscapes",
+  "name": "Arid landforms and landscapes",
+  "group": "Hot desert systems and landscapes",
+  "code": "3.1.2.3",
+  "statements": [
+   "3.1.2.3-01",
+   "3.1.2.3-02"
+  ]
+ },
+ {
+  "slug": "desertification",
+  "name": "Desertification",
+  "group": "Hot desert systems and landscapes",
+  "code": "3.1.2.4, 3.1.2.5, 3.1.2.6",
+  "statements": [
+   "3.1.2.4-01",
+   "3.1.2.5-01",
+   "3.1.2.6-01",
+   "3.1.2.6-02"
+  ]
+ },
+ {
+  "slug": "coastal-systems",
+  "name": "Coastal systems and processes",
+  "group": "Coastal systems and landscapes",
+  "code": "3.1.3.1, 3.1.3.2",
+  "statements": [
+   "3.1.3.1-01",
+   "3.1.3.2-01",
+   "3.1.3.2-02",
+   "3.1.3.2-03",
+   "3.1.3.2-04"
+  ]
+ },
+ {
+  "slug": "coastal-landforms",
+  "name": "Coastal landforms and landscapes",
+  "group": "Coastal systems and landscapes",
+  "code": "3.1.3.3",
+  "statements": [
+   "3.1.3.3-01",
+   "3.1.3.3-02",
+   "3.1.3.3-03",
+   "3.1.3.3-04",
+   "3.1.3.3-05",
+   "3.1.3.3-06",
+   "3.1.3.3-07"
+  ]
+ },
+ {
+  "slug": "coastal-management",
+  "name": "Coastal management",
+  "group": "Coastal systems and landscapes",
+  "code": "3.1.3.4, 3.1.3.5, 3.1.3.6",
+  "statements": [
+   "3.1.3.4-01",
+   "3.1.3.5-01",
+   "3.1.3.6-01",
+   "3.1.3.6-02"
+  ]
+ },
+ {
+  "slug": "glacial-systems",
+  "name": "Glacial systems and processes",
+  "group": "Glacial systems and landscapes",
+  "code": "3.1.4.1, 3.1.4.2, 3.1.4.3",
+  "statements": [
+   "3.1.4.1-01",
+   "3.1.4.2-01",
+   "3.1.4.2-02",
+   "3.1.4.2-03",
+   "3.1.4.3-01",
+   "3.1.4.3-02",
+   "3.1.4.3-03",
+   "3.1.4.3-04",
+   "3.1.4.3-05",
+   "3.1.4.3-06"
+  ]
+ },
+ {
+  "slug": "glaciated-landscapes",
+  "name": "Glaciated landforms and landscapes",
+  "group": "Glacial systems and landscapes",
+  "code": "3.1.4.4",
+  "statements": [
+   "3.1.4.4-01",
+   "3.1.4.4-02",
+   "3.1.4.4-03",
+   "3.1.4.4-04",
+   "3.1.4.4-05",
+   "3.1.4.4-06"
+  ]
+ },
+ {
+  "slug": "cold-environments",
+  "name": "Human impacts on cold environments",
+  "group": "Glacial systems and landscapes",
+  "code": "3.1.4.5, 3.1.4.6, 3.1.4.7",
+  "statements": [
+   "3.1.4.5-01",
+   "3.1.4.6-01",
+   "3.1.4.7-01",
+   "3.1.4.7-02"
+  ]
+ },
+ {
+  "slug": "hazard-concept",
+  "name": "Hazards: concepts, perception and management",
+  "group": "Hazards",
+  "code": "3.1.5.1",
+  "statements": [
+   "3.1.5.1-01"
+  ]
+ },
+ {
+  "slug": "plate-tectonics",
+  "name": "Plate tectonics",
+  "group": "Hazards",
+  "code": "3.1.5.2",
+  "statements": [
+   "3.1.5.2-01",
+   "3.1.5.2-02",
+   "3.1.5.2-03"
+  ]
+ },
+ {
+  "slug": "volcanic-hazards",
+  "name": "Volcanic hazards",
+  "group": "Hazards",
+  "code": "3.1.5.3",
+  "statements": [
+   "3.1.5.3-01",
+   "3.1.5.3-02",
+   "3.1.5.3-03"
+  ]
+ },
+ {
+  "slug": "seismic-hazards",
+  "name": "Seismic hazards: earthquakes and tsunamis",
+  "group": "Hazards",
+  "code": "3.1.5.4",
+  "statements": [
+   "3.1.5.4-01",
+   "3.1.5.4-02",
+   "3.1.5.4-03"
+  ]
+ },
+ {
+  "slug": "storm-hazards",
+  "name": "Storm hazards: tropical cyclones",
+  "group": "Hazards",
+  "code": "3.1.5.5",
+  "statements": [
+   "3.1.5.5-01",
+   "3.1.5.5-02",
+   "3.1.5.5-03"
+  ]
+ },
+ {
+  "slug": "wildfires",
+  "name": "Fires in nature (wildfires)",
+  "group": "Hazards",
+  "code": "3.1.5.6, 3.1.5.7",
+  "statements": [
+   "3.1.5.6-01",
+   "3.1.5.6-02",
+   "3.1.5.7-01",
+   "3.1.5.7-02"
+  ]
+ },
+ {
+  "slug": "ecosystems-processes",
+  "name": "Ecosystems: processes and sustainability",
+  "group": "Ecosystems under stress",
+  "code": "3.1.6.1, 3.1.6.2",
+  "statements": [
+   "3.1.6.1-01",
+   "3.1.6.1-02",
+   "3.1.6.2-01",
+   "3.1.6.2-02",
+   "3.1.6.2-03",
+   "3.1.6.2-04",
+   "3.1.6.2-05",
+   "3.1.6.2-06"
+  ]
+ },
+ {
+  "slug": "biomes",
+  "name": "Biomes",
+  "group": "Ecosystems under stress",
+  "code": "3.1.6.3",
+  "statements": [
+   "3.1.6.3-01",
+   "3.1.6.3-02"
+  ]
+ },
+ {
+  "slug": "british-ecosystems",
+  "name": "Ecosystems in the British Isles over time",
+  "group": "Ecosystems under stress",
+  "code": "3.1.6.4",
+  "statements": [
+   "3.1.6.4-01",
+   "3.1.6.4-02",
+   "3.1.6.4-03"
+  ]
+ },
+ {
+  "slug": "marine-ecosystems",
+  "name": "Marine ecosystems: coral reefs",
+  "group": "Ecosystems under stress",
+  "code": "3.1.6.5",
+  "statements": [
+   "3.1.6.5-01",
+   "3.1.6.5-02"
+  ]
+ },
+ {
+  "slug": "local-ecosystems",
+  "name": "Local ecosystems",
+  "group": "Ecosystems under stress",
+  "code": "3.1.6.6, 3.1.6.7",
+  "statements": [
+   "3.1.6.6-01",
+   "3.1.6.6-02",
+   "3.1.6.6-03",
+   "3.1.6.7-01",
+   "3.1.6.7-02"
+  ]
+ },
+ {
+  "slug": "globalisation",
+  "name": "Globalisation and global systems",
+  "group": "Global systems and global governance",
+  "code": "3.2.1.1, 3.2.1.2, 3.2.1.6, 3.2.1.7",
+  "statements": [
+   "3.2.1.1-01",
+   "3.2.1.1-02",
+   "3.2.1.2-01",
+   "3.2.1.2-02",
+   "3.2.1.6-01",
+   "3.2.1.7-01"
+  ]
+ },
+ {
+  "slug": "international-trade",
+  "name": "International trade and access to markets",
+  "group": "Global systems and global governance",
+  "code": "3.2.1.3",
+  "statements": [
+   "3.2.1.3-01",
+   "3.2.1.3-02",
+   "3.2.1.3-03",
+   "3.2.1.3-04",
+   "3.2.1.3-05",
+   "3.2.1.3-06"
+  ]
+ },
+ {
+  "slug": "global-governance",
+  "name": "Global governance",
+  "group": "Global systems and global governance",
+  "code": "3.2.1.4",
+  "statements": [
+   "3.2.1.4-01",
+   "3.2.1.4-02"
+  ]
+ },
+ {
+  "slug": "antarctica",
+  "name": "The global commons: Antarctica",
+  "group": "Global systems and global governance",
+  "code": "3.2.1.5, 3.2.1.5.1",
+  "statements": [
+   "3.2.1.5-01",
+   "3.2.1.5.1-01",
+   "3.2.1.5.1-02",
+   "3.2.1.5.1-03",
+   "3.2.1.5.1-04",
+   "3.2.1.5.1-05"
+  ]
+ },
+ {
+  "slug": "nature-of-places",
+  "name": "The nature and importance of places",
+  "group": "Changing places",
+  "code": "3.2.2.1",
+  "statements": [
+   "3.2.2.1-01",
+   "3.2.2.1-02",
+   "3.2.2.1-03",
+   "3.2.2.1-04"
+  ]
+ },
+ {
+  "slug": "relationships-connections",
+  "name": "Places: relationships and connections",
+  "group": "Changing places",
+  "code": "3.2.2.2, 3.2.2.2.1",
+  "statements": [
+   "3.2.2.2-01",
+   "3.2.2.2.1-01",
+   "3.2.2.2.1-02"
+  ]
+ },
+ {
+  "slug": "meaning-representation",
+  "name": "Places: meaning and representation",
+  "group": "Changing places",
+  "code": "3.2.2.2.2",
+  "statements": [
+   "3.2.2.2.2-01",
+   "3.2.2.2.2-02"
+  ]
+ },
+ {
+  "slug": "place-studies",
+  "name": "Place studies and changing places skills",
+  "group": "Changing places",
+  "code": "3.2.2.3, 3.2.2.4",
+  "statements": [
+   "3.2.2.3-01",
+   "3.2.2.4-01",
+   "3.2.2.4-02",
+   "3.2.2.4-03",
+   "3.2.2.4-04",
+   "3.2.2.4-05"
+  ]
+ },
+ {
+  "slug": "urbanisation",
+  "name": "Urbanisation",
+  "group": "Contemporary urban environments",
+  "code": "3.2.3.1",
+  "statements": [
+   "3.2.3.1-01",
+   "3.2.3.1-02",
+   "3.2.3.1-03",
+   "3.2.3.1-04"
+  ]
+ },
+ {
+  "slug": "urban-forms",
+  "name": "Urban forms and social and economic issues",
+  "group": "Contemporary urban environments",
+  "code": "3.2.3.2, 3.2.3.3",
+  "statements": [
+   "3.2.3.2-01",
+   "3.2.3.2-02",
+   "3.2.3.3-01",
+   "3.2.3.3-02"
+  ]
+ },
+ {
+  "slug": "urban-climate",
+  "name": "Urban climate",
+  "group": "Contemporary urban environments",
+  "code": "3.2.3.4",
+  "statements": [
+   "3.2.3.4-01",
+   "3.2.3.4-02",
+   "3.2.3.4-03"
+  ]
+ },
+ {
+  "slug": "urban-drainage",
+  "name": "Urban drainage",
+  "group": "Contemporary urban environments",
+  "code": "3.2.3.5",
+  "statements": [
+   "3.2.3.5-01",
+   "3.2.3.5-02",
+   "3.2.3.5-03"
+  ]
+ },
+ {
+  "slug": "urban-waste",
+  "name": "Urban waste and other environmental issues",
+  "group": "Contemporary urban environments",
+  "code": "3.2.3.6, 3.2.3.7",
+  "statements": [
+   "3.2.3.6-01",
+   "3.2.3.6-02",
+   "3.2.3.7-01",
+   "3.2.3.7-02"
+  ]
+ },
+ {
+  "slug": "sustainable-cities",
+  "name": "Sustainable urban development",
+  "group": "Contemporary urban environments",
+  "code": "3.2.3.8, 3.2.3.9",
+  "statements": [
+   "3.2.3.8-01",
+   "3.2.3.8-02",
+   "3.2.3.8-03",
+   "3.2.3.9-01"
+  ]
+ },
+ {
+  "slug": "population-environment",
+  "name": "Environment and population",
+  "group": "Population and the environment",
+  "code": "3.2.4.1, 3.2.4.2",
+  "statements": [
+   "3.2.4.1-01",
+   "3.2.4.2-01",
+   "3.2.4.2-02",
+   "3.2.4.2-03",
+   "3.2.4.2-04"
+  ]
+ },
+ {
+  "slug": "health-wellbeing",
+  "name": "Environment, health and well-being",
+  "group": "Population and the environment",
+  "code": "3.2.4.3",
+  "statements": [
+   "3.2.4.3-01",
+   "3.2.4.3-02",
+   "3.2.4.3-03",
+   "3.2.4.3-04",
+   "3.2.4.3-05"
+  ]
+ },
+ {
+  "slug": "population-change",
+  "name": "Population change and population futures",
+  "group": "Population and the environment",
+  "code": "3.2.4.4, 3.2.4.5, 3.2.4.6, 3.2.4.7",
+  "statements": [
+   "3.2.4.4-01",
+   "3.2.4.4-02",
+   "3.2.4.5-01",
+   "3.2.4.5-02",
+   "3.2.4.6-01",
+   "3.2.4.6-02",
+   "3.2.4.7-01",
+   "3.2.4.7-02"
+  ]
+ },
+ {
+  "slug": "resource-development",
+  "name": "Resource development and natural resource issues",
+  "group": "Resource security",
+  "code": "3.2.5.1, 3.2.5.2, 3.2.5.6, 3.2.5.7",
+  "statements": [
+   "3.2.5.1-01",
+   "3.2.5.1-02",
+   "3.2.5.2-01",
+   "3.2.5.2-02",
+   "3.2.5.6-01",
+   "3.2.5.7-01",
+   "3.2.5.7-02"
+  ]
+ },
+ {
+  "slug": "water-security",
+  "name": "Water security",
+  "group": "Resource security",
+  "code": "3.2.5.3",
+  "statements": [
+   "3.2.5.3-01",
+   "3.2.5.3-02",
+   "3.2.5.3-03",
+   "3.2.5.3-04",
+   "3.2.5.3-05",
+   "3.2.5.3-06",
+   "3.2.5.3-07"
+  ]
+ },
+ {
+  "slug": "energy-security",
+  "name": "Energy security",
+  "group": "Resource security",
+  "code": "3.2.5.4",
+  "statements": [
+   "3.2.5.4-01",
+   "3.2.5.4-02",
+   "3.2.5.4-03",
+   "3.2.5.4-04",
+   "3.2.5.4-05",
+   "3.2.5.4-06",
+   "3.2.5.4-07"
+  ]
+ },
+ {
+  "slug": "mineral-security",
+  "name": "Mineral security",
+  "group": "Resource security",
+  "code": "3.2.5.5",
+  "statements": [
+   "3.2.5.5-01",
+   "3.2.5.5-02",
+   "3.2.5.5-03",
+   "3.2.5.5-04",
+   "3.2.5.5-05"
+  ]
+ },
+ {
+  "slug": "fieldwork",
+  "name": "Fieldwork and the geographical investigation",
+  "group": "Fieldwork and geographical skills",
+  "code": "3.3.F",
+  "statements": [
+   "3.3.F-01",
+   "3.3.F-02",
+   "3.3.F-03",
+   "3.3.F-04",
+   "3.3.F-05",
+   "3.3.F-06",
+   "3.3.F-07"
+  ]
+ }
+]

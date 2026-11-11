@@ -1,0 +1,21 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+---
+<Base title="About this site" context="about" description="Who runs alevelgeographytutor.com and where the questions, figures and mark schemes come from.">
+  <h1>About this site</h1>
+  <p>alevelgeographytutor.com is run by {site.company}, an A-level tutoring business with a small team of specialist tutors. The site exists to give AQA and Edexcel Geography students the past-paper material they actually use, sorted the way they revise, free and without sign-up; and to introduce students who want more help to an experienced Geography tutor.</p>
+  <h2>Where the material comes from</h2>
+  <ul>
+    <li><strong>AQA</strong> (A level 7037, AS 7036): AQA's own published question papers, inserts, mark schemes and examiners' reports for every series since June 2017. AQA no longer hosts the June 2017 to 2019 papers; those come from copies of AQA's original papers kept online, and are labelled.</li>
+    <li><strong>Pearson Edexcel</strong> (A level 9GE0, AS 8GE0): Pearson's own published question papers with their Resource Booklets, mark schemes and examiners' reports for every series since June 2017.</li>
+    <li>Each question part is tagged to the specification content it assesses, its assessment objectives and its question type, and linked to the figures it uses. Notes on common errors come from the mark schemes and the examiners' reports.</li>
+    <li><strong>Grade boundaries and exam dates</strong> are the boards' published figures.</li>
+    <li>Anything written for the site, such as topic notes, is original and written by our tutors; nothing derived from the boards' material is generated automatically.</li>
+  </ul>
+  <p>This site is not affiliated with AQA or Pearson. The June 2026 papers will be added when the boards release them, expected after the summer 2027 exams.</p>
+  <h2>Who writes it</h2>
+  <p>The tutoring is by specialist Geography tutors; see the <a href="/tutors/">tutors page</a>. The site is built and maintained by the same small team that runs <a href="https://www.alevelbiologytutor.com" rel="noopener">alevelbiologytutor.com</a>, <a href="https://www.mathsaleveltutor.com" rel="noopener">mathsaleveltutor.com</a>, <a href="https://www.alevelpsychologytutor.com" rel="noopener">alevelpsychologytutor.com</a> and <a href="https://www.economicsaleveltutor.com" rel="noopener">economicsaleveltutor.com</a>.</p>
+  <h2>Mistakes</h2>
+  <p>If you find one, tell us on the <a href="/report/">report a mistake</a> page; corrections usually go live the same week.</p>
+</Base>

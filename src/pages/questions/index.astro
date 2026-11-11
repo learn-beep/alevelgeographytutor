@@ -1,0 +1,19 @@
+---
+import Base from '../../layouts/Base.astro';
+import { allTopics, groupInfo, GROUPS, B, allQuestions } from '../../lib/data';
+---
+<Base title={`${B.full} questions by topic (every paper since ${B.since})`} description={`Every ${B.short} AS and A-level Geography past-paper question since ${B.since} sorted into ${allTopics.length} topics, each with its figures, mark schemes, examiner comments and every essay title set.`} context="questions-index">
+  <h1>Questions by topic</h1>
+  <p>Every {B.short} AS ({B.asCode}) and A-level ({B.alCode}) Geography past-paper question since {B.since}, {allQuestions.length.toLocaleString()} parts, sorted into topics by the specification content each question assesses. Each topic page shows every question with its {B.id === 'edexcel' ? 'resources' : 'figures'}, the mark scheme with its levels and the examiner's comment, every essay title set, and filters by paper, year and question type.</p>
+  {GROUPS.map((g) => (
+    <>
+      <h2 class="strand-head">{g[0]}</h2>
+      <p class="muted small-text">{g[4]}</p>
+      <ul class="topic-list">
+        {allTopics.filter((t) => t.group === g[0]).map((t) => <li><a href={`/questions/${t.slug}/`}><span>{t.name}</span><span class="strand"><span class={`badge badge-${groupInfo(t.group).badge}`}>{groupInfo(t.group).short}</span> {t.parts} parts</span></a></li>)}
+      </ul>
+    </>
+  ))}
+  <h2>By question type</h2>
+  <ul>{B.types.map((t: any) => <li><a href={`/questions/type/${t[0]}/`}>{t[2]}</a></li>)}</ul>
+</Base>

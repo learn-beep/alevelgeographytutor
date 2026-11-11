@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import Heatmap from '../../components/Heatmap.astro';
+import { allPapers, allQuestions, allTopics, GROUPS, B } from '../../lib/data';
+const order = (s) => { const [m, y] = s.split(' '); return Number(y) * 100 + (['June', 'October', 'November'].indexOf(m) + 1); };
+const series = [...new Set(allPapers.filter((p) => p.spec === B.alCode && p.kind === 'exam').map((p) => p.series))].sort((a, b) => order(a) - order(b));
+const rows = allTopics.map((t) => [t.slug, t.name]);
+const marks = (s, slug) => allQuestions.filter((q) => q.spec === B.alCode && q.series === s && q.topics[0] === slug).reduce((n, q) => n + q.marks, 0);
+---
+<Base title={`What comes up in ${B.full}: marks by topic, ${series[0]?.split(' ')[1]}–${series[series.length - 1]?.split(' ')[1]}`} description={`Marks set on each ${B.short} A-level Geography topic in every series, from the content each question assesses, with the latest papers and every paper as a timeline.`} context="analysis">
+  <h1>What comes up, series by series</h1>
+  <p>Marks set on each topic across the A-level ({B.alCode}) papers in each series, counted from the main content each question assesses. Darker cells carry more marks; the right-hand column is the total. Every option question is counted, so option topics show their full question even though each student answers one.</p>
+  <Heatmap areas={rows} series={series} value={marks} title="Marks by topic by series" short={(s) => s.replace('June ', 'Jun ').replace('November ', 'Nov ').replace('October ', 'Oct ').replace(' 20', ' ')} />
+  <p class="muted">{B.latestNote} There were no exams in June 2020 or June 2021; the autumn 2020 and 2021 series used the papers printed for those summers.</p>
+  <p><a href="/what-came-up/">What came up in the latest papers</a> · <a href="/timeline/">Every paper as a timeline</a></p>
+</Base>

@@ -1,0 +1,41 @@
+{
+ "series": "Summer 2027",
+ "source": "AQA key dates for A-level Geography 7037 and AS 7036, June 2027",
+ "alevel": [
+  {
+   "code": "7037/1",
+   "name": "Paper 1: Physical geography",
+   "date": "2027-05-11",
+   "session": "Morning",
+   "length": "2 hours 30 minutes",
+   "marks": 120
+  },
+  {
+   "code": "7037/2",
+   "name": "Paper 2: Human geography",
+   "date": "2027-05-20",
+   "session": "Afternoon",
+   "length": "2 hours 30 minutes",
+   "marks": 120
+  }
+ ],
+ "as": [
+  {
+   "code": "7036/1",
+   "name": "Paper 1: Physical geography and people and the environment",
+   "date": "2027-05-11",
+   "session": "Afternoon",
+   "length": "1 hour 30 minutes",
+   "marks": 80
+  },
+  {
+   "code": "7036/2",
+   "name": "Paper 2: Human geography and geography fieldwork investigation",
+   "date": "2027-05-19",
+   "session": "Morning",
+   "length": "1 hour 30 minutes",
+   "marks": 80
+  }
+ ],
+ "asNote": "AS marks do not count towards the A level. The A-level NEA (7037/C) is submitted by AQA's deadline of 15 May 2027; your school sets its own earlier deadline."
+}

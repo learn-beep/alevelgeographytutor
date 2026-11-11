@@ -1,0 +1,14 @@
+---
+import site from '../data/site.json';
+import board from '../data/board.json';
+const B: any = board;
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="wrap">
+    {B.id ? <div>{B.spec} <a href={B.id === 'aqa' ? '/edexcel/' : '/aqa/'}>Studying {B.id === 'aqa' ? 'Edexcel' : 'AQA'}? Switch board</a></div> : <div>AQA A-level Geography (7037, AS 7036) and Pearson Edexcel A-level Geography (9GE0, AS 8GE0).</div>}
+    <div>Past-paper questions, mark schemes and examiner reports are © {B.id ? B.holder : 'AQA and Pearson Education Ltd'} and are shown free for study. This site is not affiliated with {B.id ? B.holder : 'AQA or Pearson'}. <a href="/about/">About this site</a></div>
+    <div><a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a> · <a href="/report/">Report a mistake</a></div>
+    <div>© {year} {site.company} · Company no. {site.companyNumber}, registered in England and Wales · <a href={`mailto:${site.email}`}>{site.email}</a></div>
+  </div>
+</footer>

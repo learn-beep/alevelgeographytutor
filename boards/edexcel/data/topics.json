@@ -1,0 +1,1502 @@
+[
+{
+"slug": "tectonic-hazards-risk",
+"name": "Tectonic hazards: why some places are at risk",
+"group": "Topic 1: Tectonic processes and hazards",
+"strand": "Topic 1: Tectonic processes and hazards",
+"paper": "Topic 1: Tectonic processes and hazards",
+"code": "1 EQ1",
+"option": null,
+"statements": [
+"1.1",
+"1.2",
+"1.3"
+],
+"statementText": {
+"1.1": "The global distribution of tectonic hazards can be explained by plate boundary and other tectonic processes.",
+"1.2": "There are theoretical frameworks that attempt to explain plate movements.",
+"1.3": "Physical processes explain the causes of tectonic hazards."
+},
+"statementShort": {
+"1.1": "The global distribution of tectonic hazards can be explained by plate boundary and other tectonic processes.",
+"1.2": "There are theoretical frameworks that attempt to explain plate movements.",
+"1.3": "Physical processes explain the causes of tectonic hazards."
+},
+"asStatements": [],
+"levels": {
+"1.1": "AS & A level",
+"1.2": "AS & A level",
+"1.3": "AS & A level"
+},
+"parts": 43,
+"marks": 264,
+"essays": 9,
+"mcq": 2,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "tectonic-disasters",
+"name": "Tectonic disasters: vulnerability, resilience and impacts",
+"group": "Topic 1: Tectonic processes and hazards",
+"strand": "Topic 1: Tectonic processes and hazards",
+"paper": "Topic 1: Tectonic processes and hazards",
+"code": "1 EQ2",
+"option": null,
+"statements": [
+"1.4",
+"1.5",
+"1.6"
+],
+"statementText": {
+"1.4": "Disaster occurrence can be explained by the relationship between hazards, vulnerability, resilience and disaster.",
+"1.5": "Tectonic hazard profiles are important to an understanding of contrasting hazard impacts, vulnerability and resilience.",
+"1.6": "Development and governance are important in understanding disaster impact and vulnerability and resilience."
+},
+"statementShort": {
+"1.4": "Disaster occurrence can be explained by the relationship between hazards, vulnerability, resilience and disaster.",
+"1.5": "Tectonic hazard profiles are important to an understanding of contrasting hazard impacts, vulnerability and resilience.",
+"1.6": "Development and governance are important in understanding disaster impact and vulnerability and resilience."
+},
+"asStatements": [],
+"levels": {
+"1.4": "AS & A level",
+"1.5": "AS & A level",
+"1.6": "AS & A level"
+},
+"parts": 32,
+"marks": 210,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "tectonic-hazard-management",
+"name": "Managing tectonic hazards and disasters",
+"group": "Topic 1: Tectonic processes and hazards",
+"strand": "Topic 1: Tectonic processes and hazards",
+"paper": "Topic 1: Tectonic processes and hazards",
+"code": "1 EQ3",
+"option": null,
+"statements": [
+"1.7",
+"1.8",
+"1.9"
+],
+"statementText": {
+"1.7": "Understanding the complex trends and patterns for tectonic disasters helps explain differential impacts.",
+"1.8": "Theoretical frameworks can be used to understand the predication, impact and management of tectonic hazards.",
+"1.9": "Tectonic hazard impacts can be managed by a variety of mitigation and adaptation strategies, which vary in their effectiveness."
+},
+"statementShort": {
+"1.7": "Understanding the complex trends and patterns for tectonic disasters helps explain differential impacts.",
+"1.8": "Theoretical frameworks can be used to understand the predication, impact and management of tectonic hazards.",
+"1.9": "Tectonic hazard impacts can be managed by a variety of mitigation and adaptation strategies, which vary in their effectiveness."
+},
+"asStatements": [],
+"levels": {
+"1.7": "AS & A level",
+"1.8": "AS & A level",
+"1.9": "AS & A level"
+},
+"parts": 26,
+"marks": 172,
+"essays": 2,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "glaciation-climate-change",
+"name": "Climate change and glaciated landscapes over time",
+"group": "Topic 2A: Glaciated landscapes and change",
+"strand": "Topic 2A: Glaciated landscapes and change",
+"paper": "Topic 2A: Glaciated landscapes and change",
+"code": "2A EQ1",
+"option": null,
+"statements": [
+"2A.1",
+"2A.2",
+"2A.3"
+],
+"statementText": {
+"2A.1": "The causes of longer and shorter climate change from the start of the Pleistocene, through the Holocene and into the Anthropocene.",
+"2A.2": "Present and past Pleistocene distribution of ice cover.",
+"2A.3": "Periglacial processes produce distinctive landscapes."
+},
+"statementShort": {
+"2A.1": "The causes of longer and shorter climate change from the start of the Pleistocene, through the Holocene and into the Anthropocene.",
+"2A.2": "Present and past Pleistocene distribution of ice cover.",
+"2A.3": "Periglacial processes produce distinctive landscapes."
+},
+"asStatements": [],
+"levels": {
+"2A.1": "AS & A level",
+"2A.2": "AS & A level",
+"2A.3": "AS & A level"
+},
+"parts": 17,
+"marks": 86,
+"essays": 0,
+"mcq": 1,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "glacier-systems",
+"name": "Glacier systems: mass balance and movement",
+"group": "Topic 2A: Glaciated landscapes and change",
+"strand": "Topic 2A: Glaciated landscapes and change",
+"paper": "Topic 2A: Glaciated landscapes and change",
+"code": "2A EQ2",
+"option": null,
+"statements": [
+"2A.4",
+"2A.5",
+"2A.6"
+],
+"statementText": {
+"2A.4": "Mass balance is important in understanding glacial dynamics and the operation of glaciers as systems.",
+"2A.5": "Different processes explain glacial movement and variations in rates.",
+"2A.6": "The glacier landform system."
+},
+"statementShort": {
+"2A.4": "Mass balance is important in understanding glacial dynamics and the operation of glaciers as systems.",
+"2A.5": "Different processes explain glacial movement and variations in rates.",
+"2A.6": "The glacier landform system."
+},
+"asStatements": [],
+"levels": {
+"2A.4": "AS & A level",
+"2A.5": "AS & A level",
+"2A.6": "AS & A level"
+},
+"parts": 23,
+"marks": 149,
+"essays": 3,
+"mcq": 1,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "glacial-landforms",
+"name": "Glacial landforms and landscapes",
+"group": "Topic 2A: Glaciated landscapes and change",
+"strand": "Topic 2A: Glaciated landscapes and change",
+"paper": "Topic 2A: Glaciated landscapes and change",
+"code": "2A EQ3",
+"option": null,
+"statements": [
+"2A.7",
+"2A.8",
+"2A.9"
+],
+"statementText": {
+"2A.7": "Glacial erosion creates distinctive landforms and contributes to glaciated landscapes.",
+"2A.8": "Glacial deposition creates distinctive landforms and contributes to glaciated landscapes.",
+"2A.9": "Glacial meltwater plays a significant role in creating distinctive landforms and contributes to glaciated landscapes."
+},
+"statementShort": {
+"2A.7": "Glacial erosion creates distinctive landforms and contributes to glaciated landscapes.",
+"2A.8": "Glacial deposition creates distinctive landforms and contributes to glaciated landscapes.",
+"2A.9": "Glacial meltwater plays a significant role in creating distinctive landforms and contributes to glaciated landscapes."
+},
+"asStatements": [],
+"levels": {
+"2A.7": "AS & A level",
+"2A.8": "AS & A level",
+"2A.9": "AS & A level"
+},
+"parts": 56,
+"marks": 237,
+"essays": 1,
+"mcq": 3,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "glaciated-landscapes-management",
+"name": "Using and managing glaciated landscapes",
+"group": "Topic 2A: Glaciated landscapes and change",
+"strand": "Topic 2A: Glaciated landscapes and change",
+"paper": "Topic 2A: Glaciated landscapes and change",
+"code": "2A EQ4",
+"option": null,
+"statements": [
+"2A.10",
+"2A.11",
+"2A.12"
+],
+"statementText": {
+"2A.10": "Glacial and periglacial landscapes have intrinsic cultural, economic and environmental value.",
+"2A.11": "There are threats facing fragile active and relict glaciated upland landscapes.",
+"2A.12": "Threats to glaciated landscapes can be managed using a spectrum of approaches."
+},
+"statementShort": {
+"2A.10": "Glacial and periglacial landscapes have intrinsic cultural, economic and environmental value.",
+"2A.11": "There are threats facing fragile active and relict glaciated upland landscapes.",
+"2A.12": "Threats to glaciated landscapes can be managed using a spectrum of approaches."
+},
+"asStatements": [],
+"levels": {
+"2A.10": "AS & A level",
+"2A.11": "AS & A level",
+"2A.12": "AS & A level"
+},
+"parts": 37,
+"marks": 351,
+"essays": 13,
+"mcq": 1,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "coastal-landscapes-processes",
+"name": "Coastal landscapes: types and processes",
+"group": "Topic 2B: Coastal landscapes and change",
+"strand": "Topic 2B: Coastal landscapes and change",
+"paper": "Topic 2B: Coastal landscapes and change",
+"code": "2B EQ1",
+"option": null,
+"statements": [
+"2B.1",
+"2B.2",
+"2B.3"
+],
+"statementText": {
+"2B.1": "The coast, and wider littoral zone, has distinctive features and landscapes.",
+"2B.2": "Geological structure influences the development of coastal landscapes at a variety of scales.",
+"2B.3": "Rates of coastal recession and stability depend on lithology and other factors."
+},
+"statementShort": {
+"2B.1": "The coast, and wider littoral zone, has distinctive features and landscapes.",
+"2B.2": "Geological structure influences the development of coastal landscapes at a variety of scales.",
+"2B.3": "Rates of coastal recession and stability depend on lithology and other factors."
+},
+"asStatements": [],
+"levels": {
+"2B.1": "AS & A level",
+"2B.2": "AS & A level",
+"2B.3": "AS & A level"
+},
+"parts": 15,
+"marks": 97,
+"essays": 2,
+"mcq": 1,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "coastal-landforms",
+"name": "Coastal landforms, sediment cells and longshore drift",
+"group": "Topic 2B: Coastal landscapes and change",
+"strand": "Topic 2B: Coastal landscapes and change",
+"paper": "Topic 2B: Coastal landscapes and change",
+"code": "2B EQ2",
+"option": null,
+"statements": [
+"2B.4",
+"2B.5",
+"2B.6"
+],
+"statementText": {
+"2B.4": "Marine erosion creates distinctive coastal landforms and contributes to coastal landscapes.",
+"2B.5": "Sediment transport and deposition create distinctive landforms and contribute to coastal landscapes.",
+"2B.6": "Subaerial processes of mass movement and weathering influence coastal landforms and contribute to coastal landscapes."
+},
+"statementShort": {
+"2B.4": "Marine erosion creates distinctive coastal landforms and contributes to coastal landscapes.",
+"2B.5": "Sediment transport and deposition create distinctive landforms and contribute to coastal landscapes.",
+"2B.6": "Subaerial processes of mass movement and weathering influence coastal landforms and contribute to coastal landscapes."
+},
+"asStatements": [],
+"levels": {
+"2B.4": "AS & A level",
+"2B.5": "AS & A level",
+"2B.6": "AS & A level"
+},
+"parts": 67,
+"marks": 273,
+"essays": 1,
+"mcq": 4,
+"papers": [
+"Paper 1",
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "coastal-erosion-sea-level",
+"name": "Coastal erosion, sea-level change and coastal risk",
+"group": "Topic 2B: Coastal landscapes and change",
+"strand": "Topic 2B: Coastal landscapes and change",
+"paper": "Topic 2B: Coastal landscapes and change",
+"code": "2B EQ3",
+"option": null,
+"statements": [
+"2B.7",
+"2B.8",
+"2B.9"
+],
+"statementText": {
+"2B.7": "Sea level change influences coasts on different timescales.",
+"2B.8": "Rapid coastal retreat causes threats to people at the coast.",
+"2B.9": "Coastal flooding is a significant and increasing risk for some coastlines."
+},
+"statementShort": {
+"2B.7": "Sea level change influences coasts on different timescales.",
+"2B.8": "Rapid coastal retreat causes threats to people at the coast.",
+"2B.9": "Coastal flooding is a significant and increasing risk for some coastlines."
+},
+"asStatements": [],
+"levels": {
+"2B.7": "AS & A level",
+"2B.8": "AS & A level",
+"2B.9": "AS & A level"
+},
+"parts": 30,
+"marks": 269,
+"essays": 8,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "coastal-management",
+"name": "Coastal management and players",
+"group": "Topic 2B: Coastal landscapes and change",
+"strand": "Topic 2B: Coastal landscapes and change",
+"paper": "Topic 2B: Coastal landscapes and change",
+"code": "2B EQ4",
+"option": null,
+"statements": [
+"2B.10",
+"2B.11",
+"2B.12"
+],
+"statementText": {
+"2B.10": "Increasing risks of coastal recession and coastal flooding have serious consequences for affected communities.",
+"2B.11": "There are different approaches to managing the risks associated with coastal recession and flooding.",
+"2B.12": "Coastlines are now increasingly managed by holistic integrated coastal zone management (ICZM)."
+},
+"statementShort": {
+"2B.10": "Increasing risks of coastal recession and coastal flooding have serious consequences for affected communities.",
+"2B.11": "There are different approaches to managing the risks associated with coastal recession and flooding.",
+"2B.12": "Coastlines are now increasingly managed by holistic integrated coastal zone management (ICZM)."
+},
+"asStatements": [],
+"levels": {
+"2B.10": "AS & A level",
+"2B.11": "AS & A level",
+"2B.12": "AS & A level"
+},
+"parts": 24,
+"marks": 236,
+"essays": 8,
+"mcq": 1,
+"papers": [
+"Paper 1"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "globalisation-causes",
+"name": "Causes of globalisation",
+"group": "Topic 3: Globalisation",
+"strand": "Topic 3: Globalisation",
+"paper": "Topic 3: Globalisation",
+"code": "3 EQ1",
+"option": null,
+"statements": [
+"3.1",
+"3.2",
+"3.3"
+],
+"statementText": {
+"3.1": "Globalisation is a long-standing process which has accelerated because of rapid developments in transport, communications and businesses.",
+"3.2": "Political and economic decision making are important factors in the acceleration of globalisation.",
+"3.3": "Globalisation has affected some places and organisations more than others."
+},
+"statementShort": {
+"3.1": "Globalisation is a long-standing process which has accelerated because of rapid developments in transport, communications and businesses.",
+"3.2": "Political and economic decision making are important factors in the acceleration of globalisation.",
+"3.3": "Globalisation has affected some places and organisations more than others."
+},
+"asStatements": [],
+"levels": {
+"3.1": "AS & A level",
+"3.2": "AS & A level",
+"3.3": "AS & A level"
+},
+"parts": 37,
+"marks": 228,
+"essays": 4,
+"mcq": 4,
+"papers": [
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "globalisation-impacts",
+"name": "Impacts of globalisation: TNCs, culture and the environment",
+"group": "Topic 3: Globalisation",
+"strand": "Topic 3: Globalisation",
+"paper": "Topic 3: Globalisation",
+"code": "3 EQ2",
+"option": null,
+"statements": [
+"3.4",
+"3.5",
+"3.6"
+],
+"statementText": {
+"3.4": "The global shift has created winners and losers for people and the physical environment.",
+"3.5": "The scale and pace of economic migration has increased as the world has become more interconnected, creating consequences for people and the physical environment.",
+"3.6": "The emergence of a global culture, based on western ideas, consumption, and attitudes towards the physical environment, is one outcome of globalisation."
+},
+"statementShort": {
+"3.4": "The global shift has created winners and losers for people and the physical environment.",
+"3.5": "The scale and pace of economic migration has increased as the world has become more interconnected, creating consequences for people and the physical environment.",
+"3.6": "The emergence of a global culture, based on western ideas, consumption, and attitudes towards the physical environment, is one outcome of globalisation."
+},
+"asStatements": [],
+"levels": {
+"3.4": "AS & A level",
+"3.5": "AS & A level",
+"3.6": "AS & A level"
+},
+"parts": 25,
+"marks": 159,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "globalisation-consequences",
+"name": "Consequences of globalisation: inequality and responses",
+"group": "Topic 3: Globalisation",
+"strand": "Topic 3: Globalisation",
+"paper": "Topic 3: Globalisation",
+"code": "3 EQ3",
+"option": null,
+"statements": [
+"3.7",
+"3.8",
+"3.9"
+],
+"statementText": {
+"3.7": "Globalisation has led to dramatic increases in development for some countries, but also widening development gap extremities and disparities in environmental quality.",
+"3.8": "Social, political and environmental tensions have resulted from the rapidity of global change caused by globalisation.",
+"3.9": "Ethical and environmental concerns about unsustainability have led to increased localism and awareness of the impacts of a consumer society."
+},
+"statementShort": {
+"3.7": "Globalisation has led to dramatic increases in development for some countries, but also widening development gap extremities and disparities in environmental quality.",
+"3.8": "Social, political and environmental tensions have resulted from the rapidity of global change caused by globalisation.",
+"3.9": "Ethical and environmental concerns about unsustainability have led to increased localism and awareness of the impacts of a consumer society."
+},
+"asStatements": [],
+"levels": {
+"3.7": "AS & A level",
+"3.8": "AS & A level",
+"3.9": "AS & A level"
+},
+"parts": 35,
+"marks": 195,
+"essays": 3,
+"mcq": 1,
+"papers": [
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "regenerating-places-variation",
+"name": "How and why places vary (regenerating places)",
+"group": "Topic 4A: Regenerating places",
+"strand": "Topic 4A: Regenerating places",
+"paper": "Topic 4A: Regenerating places",
+"code": "4A EQ1",
+"option": null,
+"statements": [
+"4A.1",
+"4A.2",
+"4A.3"
+],
+"statementText": {
+"4A.1": "Economies can be classified in different ways and vary from place to place.",
+"4A.2": "Places have changed their function and characteristics over time.",
+"4A.3": "Past and present connections have shaped the economic and social characteristics of your chosen places."
+},
+"statementShort": {
+"4A.1": "Economies can be classified in different ways and vary from place to place.",
+"4A.2": "Places have changed their function and characteristics over time.",
+"4A.3": "Past and present connections have shaped the economic and social characteristics of your chosen places."
+},
+"asStatements": [],
+"levels": {
+"4A.1": "AS & A level",
+"4A.2": "AS & A level",
+"4A.3": "AS & A level"
+},
+"parts": 37,
+"marks": 181,
+"essays": 3,
+"mcq": 2,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "regeneration-need",
+"name": "Why regeneration might be needed",
+"group": "Topic 4A: Regenerating places",
+"strand": "Topic 4A: Regenerating places",
+"paper": "Topic 4A: Regenerating places",
+"code": "4A EQ2",
+"option": null,
+"statements": [
+"4A.4",
+"4A.5",
+"4A.6"
+],
+"statementText": {
+"4A.4": "Economic and social inequalities change people’s perceptions of an area.",
+"4A.5": "There are significant variations in the lived experience of place and engagement with them.",
+"4A.6": "There is a range of ways to evaluate the need for regeneration."
+},
+"statementShort": {
+"4A.4": "Economic and social inequalities change people’s perceptions of an area.",
+"4A.5": "There are significant variations in the lived experience of place and engagement with them.",
+"4A.6": "There is a range of ways to evaluate the need for regeneration."
+},
+"asStatements": [],
+"levels": {
+"4A.4": "AS & A level",
+"4A.5": "AS & A level",
+"4A.6": "AS & A level"
+},
+"parts": 50,
+"marks": 282,
+"essays": 5,
+"mcq": 2,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "regeneration-management",
+"name": "How regeneration is managed",
+"group": "Topic 4A: Regenerating places",
+"strand": "Topic 4A: Regenerating places",
+"paper": "Topic 4A: Regenerating places",
+"code": "4A EQ3",
+"option": null,
+"statements": [
+"4A.7",
+"4A.8",
+"4A.9"
+],
+"statementText": {
+"4A.7": "UK government policy decisions play a key role in regeneration.",
+"4A.8": "Local government policies aim to represent areas as being attractive for inward investment.",
+"4A.9": "Rebranding attempts to represent areas as being more attractive by changing public perception of them."
+},
+"statementShort": {
+"4A.7": "UK government policy decisions play a key role in regeneration.",
+"4A.8": "Local government policies aim to represent areas as being attractive for inward investment.",
+"4A.9": "Rebranding attempts to represent areas as being more attractive by changing public perception of them."
+},
+"asStatements": [],
+"levels": {
+"4A.7": "AS & A level",
+"4A.8": "AS & A level",
+"4A.9": "AS & A level"
+},
+"parts": 19,
+"marks": 138,
+"essays": 4,
+"mcq": 2,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "regeneration-success",
+"name": "How successful regeneration is",
+"group": "Topic 4A: Regenerating places",
+"strand": "Topic 4A: Regenerating places",
+"paper": "Topic 4A: Regenerating places",
+"code": "4A EQ4",
+"option": null,
+"statements": [
+"4A.10",
+"4A.11",
+"4A.12"
+],
+"statementText": {
+"4A.10": "Assessing the success of regeneration uses a range of measures: economic, demographic, social and environmental.",
+"4A.11": "Different urban stakeholders have different criteria for judging the success of urban regeneration.",
+"4A.12": "Different rural stakeholders have different criteria for judging the success of rural regeneration."
+},
+"statementShort": {
+"4A.10": "Assessing the success of regeneration uses a range of measures: economic, demographic, social and environmental.",
+"4A.11": "Different urban stakeholders have different criteria for judging the success of urban regeneration.",
+"4A.12": "Different rural stakeholders have different criteria for judging the success of rural regeneration."
+},
+"asStatements": [],
+"levels": {
+"4A.10": "AS & A level",
+"4A.11": "AS & A level",
+"4A.12": "AS & A level"
+},
+"parts": 26,
+"marks": 202,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "population-structures",
+"name": "How population structures vary (diverse places)",
+"group": "Topic 4B: Diverse places",
+"strand": "Topic 4B: Diverse places",
+"paper": "Topic 4B: Diverse places",
+"code": "4B EQ1",
+"option": null,
+"statements": [
+"4B.1",
+"4B.2",
+"4B.3"
+],
+"statementText": {
+"4B.1": "Population structure varies from place to place and over time.",
+"4B.2": "Population characteristics vary from place to place and over time.",
+"4B.3": "How past and present connections have shaped the demographic and cultural characteristics of your chosen places."
+},
+"statementShort": {
+"4B.1": "Population structure varies from place to place and over time.",
+"4B.2": "Population characteristics vary from place to place and over time.",
+"4B.3": "How past and present connections have shaped the demographic and cultural characteristics of your chosen places."
+},
+"asStatements": [],
+"levels": {
+"4B.1": "AS & A level",
+"4B.2": "AS & A level",
+"4B.3": "AS & A level"
+},
+"parts": 29,
+"marks": 147,
+"essays": 2,
+"mcq": 2,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "diverse-living-spaces",
+"name": "How people view diverse living spaces",
+"group": "Topic 4B: Diverse places",
+"strand": "Topic 4B: Diverse places",
+"paper": "Topic 4B: Diverse places",
+"code": "4B EQ2",
+"option": null,
+"statements": [
+"4B.4",
+"4B.5",
+"4B.6"
+],
+"statementText": {
+"4B.4": "Urban places are seen differently by different groups because of their lived experience of places and their perception of those places.",
+"4B.5": "Rural places are seen differently by different groups because of their lived experience of places and their perception of those places.",
+"4B.6": "There is a range of ways to evaluate how people view their living spaces."
+},
+"statementShort": {
+"4B.4": "Urban places are seen differently by different groups because of their lived experience of places and their perception of those places.",
+"4B.5": "Rural places are seen differently by different groups because of their lived experience of places and their perception of those places.",
+"4B.6": "There is a range of ways to evaluate how people view their living spaces."
+},
+"asStatements": [],
+"levels": {
+"4B.4": "AS & A level",
+"4B.5": "AS & A level",
+"4B.6": "AS & A level"
+},
+"parts": 58,
+"marks": 263,
+"essays": 3,
+"mcq": 2,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "diverse-places-tensions",
+"name": "Demographic and cultural tensions in diverse places",
+"group": "Topic 4B: Diverse places",
+"strand": "Topic 4B: Diverse places",
+"paper": "Topic 4B: Diverse places",
+"code": "4B EQ3",
+"option": null,
+"statements": [
+"4B.7",
+"4B.8",
+"4B.9"
+],
+"statementText": {
+"4B.7": "Culture and society is now more diverse in the UK.",
+"4B.8": "Levels of segregation reflect cultural, economic and social variation and change over time.",
+"4B.9": "Changes to diverse places can lead to tension and conflict."
+},
+"statementShort": {
+"4B.7": "Culture and society is now more diverse in the UK.",
+"4B.8": "Levels of segregation reflect cultural, economic and social variation and change over time.",
+"4B.9": "Changes to diverse places can lead to tension and conflict."
+},
+"asStatements": [],
+"levels": {
+"4B.7": "AS & A level",
+"4B.8": "AS & A level",
+"4B.9": "AS & A level"
+},
+"parts": 28,
+"marks": 209,
+"essays": 6,
+"mcq": 2,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "diverse-places-management",
+"name": "Managing cultural and demographic issues",
+"group": "Topic 4B: Diverse places",
+"strand": "Topic 4B: Diverse places",
+"paper": "Topic 4B: Diverse places",
+"code": "4B EQ4",
+"option": null,
+"statements": [
+"4B.10",
+"4B.11",
+"4B.12"
+],
+"statementText": {
+"4B.10": "The management of cultural and demographic issues can be measured using a range of techniques.",
+"4B.11": "Different urban stakeholders have different criteria for assessing the success of managing change in diverse urban communities.",
+"4B.12": "Different rural stakeholders have different criteria for assessing the success of managing change in diverse rural communities."
+},
+"statementShort": {
+"4B.10": "The management of cultural and demographic issues can be measured using a range of techniques.",
+"4B.11": "Different urban stakeholders have different criteria for assessing the success of managing change in diverse urban communities.",
+"4B.12": "Different rural stakeholders have different criteria for assessing the success of managing change in diverse rural communities."
+},
+"asStatements": [],
+"levels": {
+"4B.10": "AS & A level",
+"4B.11": "AS & A level",
+"4B.12": "AS & A level"
+},
+"parts": 16,
+"marks": 168,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "AS and A level"
+},
+{
+"slug": "hydrological-cycle",
+"name": "The hydrological cycle and drainage basin processes",
+"group": "Topic 5: The water cycle and water insecurity",
+"strand": "Topic 5: The water cycle and water insecurity",
+"paper": "Topic 5: The water cycle and water insecurity",
+"code": "5 EQ1",
+"option": null,
+"statements": [
+"5.1",
+"5.2",
+"5.3"
+],
+"statementText": {
+"5.1": "The global hydrological cycle is of enormous importance to life on earth",
+"5.2": "A drainage basin is an open system within the global hydrological cycle.",
+"5.3": "The hydrological cycle influences water budgets and river systems at a local scale."
+},
+"statementShort": {
+"5.1": "The global hydrological cycle is of enormous importance to life on earth",
+"5.2": "A drainage basin is an open system within the global hydrological cycle.",
+"5.3": "The hydrological cycle influences water budgets and river systems at a local scale."
+},
+"asStatements": [],
+"levels": {
+"5.1": "A level only",
+"5.2": "A level only",
+"5.3": "A level only"
+},
+"parts": 4,
+"marks": 24,
+"essays": 0,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "hydrological-change",
+"name": "Factors affecting the hydrological system: drought and floods",
+"group": "Topic 5: The water cycle and water insecurity",
+"strand": "Topic 5: The water cycle and water insecurity",
+"paper": "Topic 5: The water cycle and water insecurity",
+"code": "5 EQ2",
+"option": null,
+"statements": [
+"5.4",
+"5.5",
+"5.6"
+],
+"statementText": {
+"5.4": "Deficits within the hydrological cycle result from physical processes but can have significant impacts.",
+"5.5": "Surpluses within the hydrological cycle can lead to flooding, with significant impacts for people.",
+"5.6": "Climate change may have significant impacts on the hydrological cycle globally and locally."
+},
+"statementShort": {
+"5.4": "Deficits within the hydrological cycle result from physical processes but can have significant impacts.",
+"5.5": "Surpluses within the hydrological cycle can lead to flooding, with significant impacts for people.",
+"5.6": "Climate change may have significant impacts on the hydrological cycle globally and locally."
+},
+"asStatements": [],
+"levels": {
+"5.4": "A level only",
+"5.5": "A level only",
+"5.6": "A level only"
+},
+"parts": 8,
+"marks": 85,
+"essays": 2,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "water-insecurity",
+"name": "Water insecurity",
+"group": "Topic 5: The water cycle and water insecurity",
+"strand": "Topic 5: The water cycle and water insecurity",
+"paper": "Topic 5: The water cycle and water insecurity",
+"code": "5 EQ3",
+"option": null,
+"statements": [
+"5.7",
+"5.8",
+"5.9"
+],
+"statementText": {
+"5.7": "There are physical causes and human causes of water insecurity.",
+"5.8": "There are consequences and risks associated with water insecurity.",
+"5.9": "There are different approaches to managing water supply, some more sustainable than others."
+},
+"statementShort": {
+"5.7": "There are physical causes and human causes of water insecurity.",
+"5.8": "There are consequences and risks associated with water insecurity.",
+"5.9": "There are different approaches to managing water supply, some more sustainable than others."
+},
+"asStatements": [],
+"levels": {
+"5.7": "A level only",
+"5.8": "A level only",
+"5.9": "A level only"
+},
+"parts": 8,
+"marks": 108,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "carbon-cycle",
+"name": "The carbon cycle",
+"group": "Topic 6: The carbon cycle and energy security",
+"strand": "Topic 6: The carbon cycle and energy security",
+"paper": "Topic 6: The carbon cycle and energy security",
+"code": "6 EQ1",
+"option": null,
+"statements": [
+"6.1",
+"6.2",
+"6.3"
+],
+"statementText": {
+"6.1": "Most global carbon is locked in terrestrial stores as part of the long-term geological cycle (slow carbon cycle).",
+"6.2": "Biological processes sequester carbon on land and in the oceans on shorter timescales (fast carbon cycle).",
+"6.3": "A balanced carbon cycle is important in sustaining other earth systems but is increasingly altered by human activities."
+},
+"statementShort": {
+"6.1": "Most global carbon is locked in terrestrial stores as part of the long-term geological cycle (slow carbon cycle).",
+"6.2": "Biological processes sequester carbon on land and in the oceans on shorter timescales (fast carbon cycle).",
+"6.3": "A balanced carbon cycle is important in sustaining other earth systems but is increasingly altered by human activities."
+},
+"asStatements": [],
+"levels": {
+"6.1": "A level only",
+"6.2": "A level only",
+"6.3": "A level only"
+},
+"parts": 5,
+"marks": 52,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 1"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "energy-security",
+"name": "Energy demand and energy security",
+"group": "Topic 6: The carbon cycle and energy security",
+"strand": "Topic 6: The carbon cycle and energy security",
+"paper": "Topic 6: The carbon cycle and energy security",
+"code": "6 EQ2",
+"option": null,
+"statements": [
+"6.4",
+"6.5",
+"6.6"
+],
+"statementText": {
+"6.4": "Energy security is a key goal for countries, with most relying on fossil fuels.",
+"6.5": "Reliance on fossil fuels to drive economic development is still the global norm.",
+"6.6": "There are alternatives to fossil fuels but each has costs and benefits."
+},
+"statementShort": {
+"6.4": "Energy security is a key goal for countries, with most relying on fossil fuels.",
+"6.5": "Reliance on fossil fuels to drive economic development is still the global norm.",
+"6.6": "There are alternatives to fossil fuels but each has costs and benefits."
+},
+"asStatements": [],
+"levels": {
+"6.4": "A level only",
+"6.5": "A level only",
+"6.6": "A level only"
+},
+"parts": 8,
+"marks": 57,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "carbon-water-climate",
+"name": "Carbon, water and the climate system",
+"group": "Topic 6: The carbon cycle and energy security",
+"strand": "Topic 6: The carbon cycle and energy security",
+"paper": "Topic 6: The carbon cycle and energy security",
+"code": "6 EQ3",
+"option": null,
+"statements": [
+"6.7",
+"6.8",
+"6.9"
+],
+"statementText": {
+"6.7": "Biological carbon cycles and the water cycle are threatened by human activity.",
+"6.8": "There are implications for human wellbeing from the degradation of the water and carbon cycles.",
+"6.9": "Further planetary warming risks large-scale release of stored carbon, requiring responses from different players at different scales."
+},
+"statementShort": {
+"6.7": "Biological carbon cycles and the water cycle are threatened by human activity.",
+"6.8": "There are implications for human wellbeing from the degradation of the water and carbon cycles.",
+"6.9": "Further planetary warming risks large-scale release of stored carbon, requiring responses from different players at different scales."
+},
+"asStatements": [],
+"levels": {
+"6.7": "A level only",
+"6.8": "A level only",
+"6.9": "A level only"
+},
+"parts": 25,
+"marks": 252,
+"essays": 7,
+"mcq": 0,
+"papers": [
+"Paper 1",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "superpowers-change",
+"name": "What superpowers are and how they change",
+"group": "Topic 7: Superpowers",
+"strand": "Topic 7: Superpowers",
+"paper": "Topic 7: Superpowers",
+"code": "7 EQ1",
+"option": null,
+"statements": [
+"7.1",
+"7.2",
+"7.3"
+],
+"statementText": {
+"7.1": "Geopolitical power stems from a range of human and physical of characteristics of superpowers.",
+"7.2": "Patterns of power change over time and can be uni-, bi- or multi-polar.",
+"7.3": "Emerging powers vary in their influence on people and the physical environment, which can change rapidly over time."
+},
+"statementShort": {
+"7.1": "Geopolitical power stems from a range of human and physical of characteristics of superpowers.",
+"7.2": "Patterns of power change over time and can be uni-, bi- or multi-polar.",
+"7.3": "Emerging powers vary in their influence on people and the physical environment, which can change rapidly over time."
+},
+"asStatements": [],
+"levels": {
+"7.1": "A level only",
+"7.2": "A level only",
+"7.3": "A level only"
+},
+"parts": 19,
+"marks": 156,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "superpowers-impacts",
+"name": "Impacts of superpowers",
+"group": "Topic 7: Superpowers",
+"strand": "Topic 7: Superpowers",
+"paper": "Topic 7: Superpowers",
+"code": "7 EQ2",
+"option": null,
+"statements": [
+"7.4",
+"7.5",
+"7.6"
+],
+"statementText": {
+"7.4": "Superpowers have a significant influence over the global economic system.",
+"7.5": "Superpowers and emerging nations play a key role in international decision making concerning people and the physical environment.",
+"7.6": "Global concerns about the physical environment are disproportionately influenced by superpower actions."
+},
+"statementShort": {
+"7.4": "Superpowers have a significant influence over the global economic system.",
+"7.5": "Superpowers and emerging nations play a key role in international decision making concerning people and the physical environment.",
+"7.6": "Global concerns about the physical environment are disproportionately influenced by superpower actions."
+},
+"asStatements": [],
+"levels": {
+"7.4": "A level only",
+"7.5": "A level only",
+"7.6": "A level only"
+},
+"parts": 11,
+"marks": 134,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "superpowers-influence",
+"name": "Contested spheres of influence",
+"group": "Topic 7: Superpowers",
+"strand": "Topic 7: Superpowers",
+"paper": "Topic 7: Superpowers",
+"code": "7 EQ3",
+"option": null,
+"statements": [
+"7.7",
+"7.8",
+"7.9"
+],
+"statementText": {
+"7.7": "Global influence is contested in a number of different economic, environmental and political spheres.",
+"7.8": "Developing nations have changing relationships with superpowers with consequences for people and the physical environment.",
+"7.9": "Existing superpowers face ongoing economic restructuring, which challenges their power."
+},
+"statementShort": {
+"7.7": "Global influence is contested in a number of different economic, environmental and political spheres.",
+"7.8": "Developing nations have changing relationships with superpowers with consequences for people and the physical environment.",
+"7.9": "Existing superpowers face ongoing economic restructuring, which challenges their power."
+},
+"asStatements": [],
+"levels": {
+"7.7": "A level only",
+"7.8": "A level only",
+"7.9": "A level only"
+},
+"parts": 8,
+"marks": 136,
+"essays": 6,
+"mcq": 0,
+"papers": [
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "human-development",
+"name": "Human development and why it varies",
+"group": "Topic 8A: Health, human rights and intervention",
+"strand": "Topic 8A: Health, human rights and intervention",
+"paper": "Topic 8A: Health, human rights and intervention",
+"code": "8A EQ1",
+"option": null,
+"statements": [
+"8A.1",
+"8A.2",
+"8A.3"
+],
+"statementText": {
+"8A.1": "Concepts of human development are complex and contested.",
+"8A.2": "There are notable variations in human health and life expectancy.",
+"8A.3": "Governments and International Government Organisations play a significant role in defining development targets and policies."
+},
+"statementShort": {
+"8A.1": "Concepts of human development are complex and contested.",
+"8A.2": "There are notable variations in human health and life expectancy.",
+"8A.3": "Governments and International Government Organisations play a significant role in defining development targets and policies."
+},
+"asStatements": [],
+"levels": {
+"8A.1": "A level only",
+"8A.2": "A level only",
+"8A.3": "A level only"
+},
+"parts": 26,
+"marks": 130,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "human-rights",
+"name": "Why human rights vary",
+"group": "Topic 8A: Health, human rights and intervention",
+"strand": "Topic 8A: Health, human rights and intervention",
+"paper": "Topic 8A: Health, human rights and intervention",
+"code": "8A EQ2",
+"option": null,
+"statements": [
+"8A.4",
+"8A.5",
+"8A.6"
+],
+"statementText": {
+"8A.4": "Human rights have become important aspects of both international law and international agreements.",
+"8A.5": "There are significant differences between countries in both their definitions and protection of human rights.",
+"8A.6": "There are significant variations in human rights within countries, which are reflected in different levels of social development."
+},
+"statementShort": {
+"8A.4": "Human rights have become important aspects of both international law and international agreements.",
+"8A.5": "There are significant differences between countries in both their definitions and protection of human rights.",
+"8A.6": "There are significant variations in human rights within countries, which are reflected in different levels of social development."
+},
+"asStatements": [],
+"levels": {
+"8A.4": "A level only",
+"8A.5": "A level only",
+"8A.6": "A level only"
+},
+"parts": 7,
+"marks": 58,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "intervention-arguments",
+"name": "Human rights and intervention",
+"group": "Topic 8A: Health, human rights and intervention",
+"strand": "Topic 8A: Health, human rights and intervention",
+"paper": "Topic 8A: Health, human rights and intervention",
+"code": "8A EQ3",
+"option": null,
+"statements": [
+"8A.7",
+"8A.8",
+"8A.9"
+],
+"statementText": {
+"8A.7": "There are different forms of geopolitical intervention in defence of human rights.",
+"8A.8": "Some development is focused on improving both human rights and human welfare but other development has very negative environmental and cultural impacts.",
+"8A.9": "Military aid and both direct and indirect military intervention are frequently justified in terms of human rights."
+},
+"statementShort": {
+"8A.7": "There are different forms of geopolitical intervention in defence of human rights.",
+"8A.8": "Some development is focused on improving both human rights and human welfare but other development has very negative environmental and cultural impacts.",
+"8A.9": "Military aid and both direct and indirect military intervention are frequently justified in terms of human rights."
+},
+"asStatements": [],
+"levels": {
+"8A.7": "A level only",
+"8A.8": "A level only",
+"8A.9": "A level only"
+},
+"parts": 7,
+"marks": 100,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "intervention-outcomes",
+"name": "Outcomes of geopolitical interventions",
+"group": "Topic 8A: Health, human rights and intervention",
+"strand": "Topic 8A: Health, human rights and intervention",
+"paper": "Topic 8A: Health, human rights and intervention",
+"code": "8A EQ4",
+"option": null,
+"statements": [
+"8A.10",
+"8A.11",
+"8A.12"
+],
+"statementText": {
+"8A.10": "There are several ways of measuring the success of geopolitical interventions.",
+"8A.11": "Development aid has a mixed record of success.",
+"8A.12": "Military interventions, both direct and indirect, have a mixed record of success."
+},
+"statementShort": {
+"8A.10": "There are several ways of measuring the success of geopolitical interventions.",
+"8A.11": "Development aid has a mixed record of success.",
+"8A.12": "Military interventions, both direct and indirect, have a mixed record of success."
+},
+"asStatements": [],
+"levels": {
+"8A.10": "A level only",
+"8A.11": "A level only",
+"8A.12": "A level only"
+},
+"parts": 4,
+"marks": 68,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "international-migration",
+"name": "Globalisation and international migration",
+"group": "Topic 8B: Migration, identity and sovereignty",
+"strand": "Topic 8B: Migration, identity and sovereignty",
+"paper": "Topic 8B: Migration, identity and sovereignty",
+"code": "8B EQ1",
+"option": null,
+"statements": [
+"8B.1",
+"8B.2",
+"8B.3"
+],
+"statementText": {
+"8B.1": "Globalisation has led to an increase in migration both within countries and among them.",
+"8B.2": "The causes of migration are varied, complex and subject to change.",
+"8B.3": "The consequences of international migration are varied and disputed."
+},
+"statementShort": {
+"8B.1": "Globalisation has led to an increase in migration both within countries and among them.",
+"8B.2": "The causes of migration are varied, complex and subject to change.",
+"8B.3": "The consequences of international migration are varied and disputed."
+},
+"asStatements": [],
+"levels": {
+"8B.1": "A level only",
+"8B.2": "A level only",
+"8B.3": "A level only"
+},
+"parts": 17,
+"marks": 88,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "nation-states",
+"name": "Nation states in a globalising world",
+"group": "Topic 8B: Migration, identity and sovereignty",
+"strand": "Topic 8B: Migration, identity and sovereignty",
+"paper": "Topic 8B: Migration, identity and sovereignty",
+"code": "8B EQ2",
+"option": null,
+"statements": [
+"8B.4",
+"8B.5",
+"8B.6"
+],
+"statementText": {
+"8B.4": "Nation states are highly varied and have very different histories.",
+"8B.5": "Nationalism has played a role in the development of the modern world.",
+"8B.6": "Globalisation has led to the deregulation of capital markets and the emergence of new state forms."
+},
+"statementShort": {
+"8B.4": "Nation states are highly varied and have very different histories.",
+"8B.5": "Nationalism has played a role in the development of the modern world.",
+"8B.6": "Globalisation has led to the deregulation of capital markets and the emergence of new state forms."
+},
+"asStatements": [],
+"levels": {
+"8B.4": "A level only",
+"8B.5": "A level only",
+"8B.6": "A level only"
+},
+"parts": 9,
+"marks": 70,
+"essays": 1,
+"mcq": 0,
+"papers": [
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "global-organisations",
+"name": "Global organisations and global issues",
+"group": "Topic 8B: Migration, identity and sovereignty",
+"strand": "Topic 8B: Migration, identity and sovereignty",
+"paper": "Topic 8B: Migration, identity and sovereignty",
+"code": "8B EQ3",
+"option": null,
+"statements": [
+"8B.7",
+"8B.8",
+"8B.9"
+],
+"statementText": {
+"8B.7": "Global organisations are not new but have been important in the post-1945 world.",
+"8B.8": "IGOs established after the Second World War have controlled the rules of world trade and financial flows.",
+"8B.9": "IGOs have been formed to manage the environmental problems facing the world, with varying success."
+},
+"statementShort": {
+"8B.7": "Global organisations are not new but have been important in the post-1945 world.",
+"8B.8": "IGOs established after the Second World War have controlled the rules of world trade and financial flows.",
+"8B.9": "IGOs have been formed to manage the environmental problems facing the world, with varying success."
+},
+"asStatements": [],
+"levels": {
+"8B.7": "A level only",
+"8B.8": "A level only",
+"8B.9": "A level only"
+},
+"parts": 6,
+"marks": 82,
+"essays": 3,
+"mcq": 0,
+"papers": [
+"Paper 2",
+"Paper 3"
+],
+"asOrA": "A level only"
+},
+{
+"slug": "national-sovereignty",
+"name": "Threats to national sovereignty",
+"group": "Topic 8B: Migration, identity and sovereignty",
+"strand": "Topic 8B: Migration, identity and sovereignty",
+"paper": "Topic 8B: Migration, identity and sovereignty",
+"code": "8B EQ4",
+"option": null,
+"statements": [
+"8B.10",
+"8B.11",
+"8B.12"
+],
+"statementText": {
+"8B.10": "National identity is an elusive and contested concept.",
+"8B.11": "There are challenges to national identity.",
+"8B.12": "There are consequences of disunity within nations."
+},
+"statementShort": {
+"8B.10": "National identity is an elusive and contested concept.",
+"8B.11": "There are challenges to national identity.",
+"8B.12": "There are consequences of disunity within nations."
+},
+"asStatements": [],
+"levels": {
+"8B.10": "A level only",
+"8B.11": "A level only",
+"8B.12": "A level only"
+},
+"parts": 6,
+"marks": 96,
+"essays": 4,
+"mcq": 0,
+"papers": [
+"Paper 2"
+],
+"asOrA": "A level only"
+}
+]

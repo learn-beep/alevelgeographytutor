@@ -1,0 +1,6 @@
+{
+  "paperNames": {"7037-1": "Paper 1", "7037-2": "Paper 2", "7036-1": "Paper 1", "7036-2": "Paper 2"},
+  "paperTitles": {"7037-1": "Physical geography", "7037-2": "Human geography", "7036-1": "Physical geography and people and the environment", "7036-2": "Human geography and geography fieldwork investigation"},
+  "paperTotals": {"7037-1": 120, "7037-2": 120, "7036-1": 80, "7036-2": 80, "7036-2-June 2022": 65},
+  "oldSpecFlag": "not_current_spec"
+}

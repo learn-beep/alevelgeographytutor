@@ -1,0 +1,86 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import { B } from '../../lib/data';
+const shapes = B.mock || [];
+const exclude = B.mockExclude || [];
+---
+<Base title={`${B.full} mock builder: timed papers from real questions`} description={`Build a timed mock from real ${B.short} Geography past-paper questions in the shape of the real papers, with your options. Play it on screen or print it with the mark schemes.`} context="mock" leadLine="Want a mock marked properly and gone through with you? Message us.">
+  <h1>Mock builder</h1>
+  <p>Builds a paper in the shape of the {B.short} exam from real questions: each section is a whole question with all its parts and its {B.id === 'edexcel' ? 'resources' : 'figures'}, and each section comes from a different year where possible. Pick the paper and your options; the timer runs at the real paper's pace.</p>
+  <div class="panel" id="setup">
+    <h3>Paper</h3>
+    <div class="chips" id="papers">{shapes.map((s: any, i: number) => <button class="chip" type="button" data-shape={String(i)} aria-pressed={i === 0 ? 'true' : 'false'}>{s.title}</button>)}</div>
+    <div id="opts"></div>
+    <p class="muted" id="shape"></p>
+    <div><button class="btn btn-accent" type="button" id="build">Build my mock</button></div>
+  </div>
+  <div id="paper" hidden>
+    <div class="playbar"><span id="title"></span><span class="timer" id="timer"></span><span><button class="btn" type="button" id="starttimer"><Icon name="timer" />Start timer</button> <button class="btn" type="button" id="print"><Icon name="printer" />Print</button> <button class="btn" type="button" id="share"><Icon name="link" />Copy link</button></span></div>
+    <div id="cards"></div>
+    <div class="btn-row"><button class="btn btn-accent" type="button" id="rebuild">Build another</button></div>
+  </div>
+  <script define:vars={{ shapes, exclude }}>window.__mock = { shapes, exclude };</script>
+  <script>
+    import { loadBank, card, shuffle, fmtTime } from '../../scripts/player.js';
+    const $ = (s) => document.querySelector(s);
+    const { shapes, exclude } = window.__mock;
+    let cur = 0, choice = {}, bank = null, timer = null, secs = 0;
+    function drawOpts() {
+      const S = shapes[cur]; choice = {};
+      $('#opts').innerHTML = S.slots.map((sl, i) => sl.options ? `<h3>${sl.label}</h3><div class="chips" data-slot="${i}">${sl.options.map((o, k) => `<button class="chip" type="button" data-k="${k}" aria-pressed="${k === 0}">${o[0]}</button>`).join('')}</div>` : '').join('');
+      S.slots.forEach((sl, i) => { if (sl.options) choice[i] = 0; });
+      $('#opts').querySelectorAll('[data-slot]').forEach((g) => g.querySelectorAll('.chip').forEach((b) => b.addEventListener('click', () => { g.querySelectorAll('.chip').forEach((x) => x.setAttribute('aria-pressed', 'false')); b.setAttribute('aria-pressed', 'true'); choice[g.dataset.slot] = Number(b.dataset.k); })));
+      $('#shape').textContent = `${S.marks} marks in ${S.minutes >= 60 ? Math.floor(S.minutes / 60) + ' hour' + (S.minutes >= 120 ? 's' : '') + (S.minutes % 60 ? ' ' + (S.minutes % 60) + ' minutes' : '') : S.minutes + ' minutes'} in the real exam. ` + S.slots.map((sl) => sl.label).join(' · ');
+    }
+    document.querySelectorAll('[data-shape]').forEach((b) => b.addEventListener('click', () => { document.querySelectorAll('[data-shape]').forEach((x) => x.setAttribute('aria-pressed', 'false')); b.setAttribute('aria-pressed', 'true'); cur = Number(b.dataset.shape); drawOpts(); }));
+    drawOpts();
+    loadBank().then((b) => { bank = b; restore(); });
+    const num = (q) => q.n;
+    function build() {
+      const S = shapes[cur];
+      const pool = bank.q.filter((q) => !q.old && q.c && q.l === S.level && q.p === S.paper && !exclude.includes(q.pid));
+      const used = new Set(); let picked = [];
+      for (const [i, sl] of S.slots.entries()) {
+        if (sl.whole) { const pids = shuffle([...new Set(pool.map((q) => q.pid))]); const pid = pids[0]; picked = picked.concat(pool.filter((q) => q.pid === pid)); continue; }
+        const opt = sl.options ? sl.options[choice[i] || 0] : null;
+        const areas = opt ? opt[1] : sl.areas, only = opt ? opt[2] : sl.nums;
+        const cand = pool.filter((q) => areas.includes(q.a) && (!only || only.includes(q.n)));
+        const pids = shuffle([...new Set(cand.map((q) => q.pid))]);
+        const pid = pids.find((p) => !used.has(p)) || pids[0];
+        if (!pid) continue;
+        used.add(pid);
+        const nums = new Set(cand.filter((q) => q.pid === pid).map(num));
+        picked = picked.concat(pool.filter((q) => q.pid === pid && nums.has(num(q))));
+      }
+      return picked;
+    }
+    function show(picked, title) {
+      const total = picked.reduce((a, q) => a + q.m, 0);
+      $('#setup').hidden = true; $('#paper').hidden = false;
+      $('#title').textContent = title || `${shapes[cur].title}: ${picked.length} parts, ${total} marks`;
+      const S = shapes[cur]; secs = Math.round(total * 60 * (S.minutes / S.marks)); $('#timer').textContent = fmtTime(secs); if (timer) clearInterval(timer);
+      const holder = $('#cards'); holder.innerHTML = '';
+      const shown = new Set();
+      picked.forEach((q) => {
+        // resources and figures once per question
+        const qq = { ...q, st: q.st && !shown.has(q.st) ? q.st : null, fg: (q.fg || []).filter((f) => !shown.has(f.c)) };
+        if (q.st) shown.add(q.st); (q.fg || []).forEach((f) => shown.add(f.c));
+        const c = card(qq, { mark: true, mcq: true }); c.querySelector('.meta strong').textContent = `${q.s} ${q.l === 'AS' ? 'AS ' : ''}${q.p} Q${q.q}`; holder.appendChild(c);
+      });
+      location.hash = 'set=' + picked.map((q) => q.id).join(',');
+      window.scrollTo({ top: 0 });
+    }
+    $('#build').addEventListener('click', () => {
+      if (!bank) return;
+      const picked = build();
+      if (!picked.length) { $('#shape').textContent = 'Nothing matched; try another combination.'; return; }
+      show(picked);
+    });
+    function restore() { const m = location.hash.match(/set=([^&]+)/); if (!m) return; const ids = m[1].split(','); const picked = ids.map((id) => bank.q.find((q) => q.id === id)).filter(Boolean); if (!picked.length) return; const i = shapes.findIndex((s) => s.level === picked[0].l && s.paper === picked[0].p); if (i >= 0) cur = i; show(picked, `Shared mock: ${picked.length} parts, ${picked.reduce((a, q) => a + q.m, 0)} marks`); }
+    $('#share').addEventListener('click', async () => { const url = location.href.split('#')[0] + location.hash; try { await navigator.clipboard.writeText(url); window.maltToast && window.maltToast('Link copied'); } catch { prompt('Copy this link', url); } });
+    $('#starttimer').addEventListener('click', () => { if (timer) clearInterval(timer); timer = setInterval(() => { secs--; $('#timer').textContent = fmtTime(Math.max(secs, 0)); if (secs <= 0) { clearInterval(timer); $('#timer').textContent = "Time's up"; } }, 1000); });
+    $('#print').addEventListener('click', () => { document.querySelectorAll('#cards details').forEach((d) => { d.open = true; }); document.querySelectorAll('#cards img[data-src]').forEach((img) => { img.src = img.dataset.src; img.removeAttribute('data-src'); }); setTimeout(() => window.print(), 400); });
+    $('#rebuild').addEventListener('click', () => { if (timer) clearInterval(timer); $('#paper').hidden = true; $('#setup').hidden = false; window.scrollTo({ top: 0 }); });
+  </script>
+</Base>
