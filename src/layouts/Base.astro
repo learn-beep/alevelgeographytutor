@@ -9,6 +9,8 @@ import board from '../data/board.json';
 const B: any = board;
 const { title, description = B.id ? `Free ${B.full} past-paper questions by topic, with mark schemes, examiner comments and practice, and specialist online tutors.` : 'Free AQA and Edexcel A-level Geography past-paper questions by topic, with mark schemes, examiner comments, practice and specialist online tutors.', context = 'site', lead = true, leadLine } = Astro.props;
 const canonical = new URL(B.id && Astro.url.pathname === '/' ? `/${B.id}/` : Astro.url.pathname, site.domain).href;
+const isHome = Astro.url.pathname === '/';
+const websiteLd = { '@context': 'https://schema.org', '@type': 'WebSite', name: site.name, alternateName: [new URL(site.domain).hostname.replace(/^www\./, ''), 'A-level Geography Tutor'], url: site.domain + '/' };
 ---
 <!doctype html>
 <html lang="en-GB">
@@ -19,6 +21,11 @@ const canonical = new URL(B.id && Astro.url.pathname === '/' ? `/${B.id}/` : Ast
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/favicon-192.png" />
+    <meta property="og:site_name" content={site.name} />
+    <meta name="application-name" content={site.name} />
+    {isHome && <script type="application/ld+json" set:html={JSON.stringify(websiteLd)} />}
     <link rel="sitemap" href="/sitemap-index.xml" />
         <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
