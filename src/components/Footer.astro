@@ -1,5 +1,7 @@
 ---
 import site from '../data/site.json';
+import family from '../data/family.json';
+const sisters = family.filter((f) => !f.url.includes('alevelgeographytutor.com'));
 import board from '../data/board.json';
 const B: any = board;
 const year = new Date().getFullYear();
@@ -10,6 +12,7 @@ const year = new Date().getFullYear();
     <div>Past-paper questions, mark schemes and examiner reports are © {B.id ? B.holder : 'AQA and Pearson Education Ltd'} and are shown free for study. This site is not affiliated with {B.id ? B.holder : 'AQA or Pearson'}. <a href="/about/">About this site</a></div>
     <div><a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a> · <a href="/report/">Report a mistake</a></div>
     <div>Part of <a href="https://www.aleveltutors.online/">aleveltutors.online</a>, online tutors in 12 A-level subjects · <a href="https://www.aleveltutors.online/online-a-level-geography-tutor/">Find an A-level Geography tutor</a></div>
+    <div>Free revision sites for other subjects: {sisters.map((f, i) => <>{i > 0 && ' · '}<a href={f.url}>{f.gcse ? f.name : `A-level ${f.name}`}</a></>)}</div>
     <div>© {year} {site.company} · Company no. {site.companyNumber}, registered in England and Wales · <a href={`mailto:${site.email}`}>{site.email}</a></div>
   </div>
 </footer>
